@@ -1,6 +1,6 @@
 <div align="center">
 
-# Performance Evaluation of LLMs
+# Table 1. Performance Evaluation of LLMs
 
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-# City-based Return Rate Performance (%)
+# Table 2. City-based Return Rate Performance (%)
 
 </div>
 
@@ -207,9 +207,19 @@
 
 
 
+<div align="center">
+
+# Table 3. Toute properties for different levels and different cities.
+
+</div>
 
 
 
+<div align="center">
+
+# Table 4. Error analysis in terms of LLMs' properties.
+
+</div>
 
 ### Table Caption:
 This table presents the route network characteristics for 12 cities from different continents (excluding Antarctica), focusing on the complexity of urban routes across three difficulty levels: Easy, Medium, and Hard. Each difficulty level consists of 1000 routes, resulting in a total of 3000 routes per city. The following metrics are reported for each city:
@@ -225,7 +235,7 @@ This table presents the route network characteristics for 12 cities from differe
 
 
 
-# Temperature performance for GPT4o under route reversal
+# Table 5. Route reversal performance for GPT4o under different temperatures
 
 | Temperature | Return Rate (%) | Similarity | Robustness | Confidence | Misalignment |
 |-------------|-----------------|------------|------------|------------|--------------|

@@ -209,7 +209,7 @@
 
 <div align="center">
 
-# Table 3. Toute properties for different levels and different cities.
+# Table 3. Route properties for different levels and different cities.
 
 </div>
 

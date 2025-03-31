@@ -32,46 +32,61 @@
 
 
 
-# City Route Characteristics by Difficulty Level
+<div align="center">
 
-| City | Difficulty | Avg. Length | Avg. Turns | Complexity |
-|:----:|:----------:|:-----------:|:----------:|:----------:|
-| -    | Easy       | 917         | 4.1        | 0.22       |
-| Toronto | Medium  | 1612        | 7.5        | 0.48       |
-| -    | Hard       | 2142        | 12.7       | 0.72       |
-| -    | Easy       | 923         | 4.0        | 0.21       |
-| Denver | Medium   | 1623        | 7.2        | 0.46       |
-| -    | Hard       | 2122        | 12.3       | 0.70       |
-| -    | Easy       | 912         | 4.5        | 0.24       |
-| Mexico City | Medium | 1598     | 7.7        | 0.50       |
-| -    | Hard       | 2117        | 12.9       | 0.74       |
-| -    | Easy       | 935         | 4.6        | 0.25       |
-| São Paulo | Medium | 1642       | 7.8        | 0.49       |
-| -    | Hard       | 2154        | 13.2       | 0.73       |
-| -    | Easy       | 903         | 4.3        | 0.23       |
-| London | Medium   | 1604        | 7.4        | 0.47       |
-| -    | Hard       | 2105        | 12.5       | 0.71       |
-| -    | Easy       | 946         | 4.5        | 0.22       |
-| Munich | Medium   | 1681        | 7.7        | 0.49       |
-| -    | Hard       | 2202        | 13.1       | 0.71       |
-| -    | Easy       | 877         | 5.1        | 0.27       |
-| Tokyo | Medium    | 1596        | 8.1        | 0.52       |
-| -    | Hard       | 2076        | 13.5       | 0.76       |
-| -    | Easy       | 895         | 4.8        | 0.26       |
-| Singapore | Medium | 1612       | 7.9        | 0.51       |
-| -    | Hard       | 2095        | 13.3       | 0.75       |
-| -    | Easy       | 947         | 4.2        | 0.22       |
-| Sydney | Medium   | 1635        | 7.3        | 0.47       |
-| -    | Hard       | 2136        | 12.6       | 0.72       |
-| -    | Easy       | 919         | 4.3        | 0.23       |
-| Auckland | Medium | 1627        | 7.5        | 0.48       |
-| -    | Hard       | 2129        | 12.6       | 0.71       |
-| -    | Easy       | 908         | 4.7        | 0.25       |
-| Cairo | Medium    | 1607        | 7.8        | 0.50       |
-| -    | Hard       | 2110        | 13.0       | 0.73       |
-| -    | Easy       | 915         | 4.6        | 0.24       |
-| Cape Town | Medium | 1618       | 7.6        | 0.49       |
-| -    | Hard       | 2125        | 12.8       | 0.72       |
+## City Route Characteristics by Difficulty
+
+| **City**       | **Difficulty** | **Length (SE) (m)**    | **Turns (SE)**     | **Complexity** |
+|:--------------:|:--------------:|:------------------------:|:--------------------:|:--------------:|
+| -              | Easy           | 917.00 (3.63)           | 4.10 (0.04)         | 0.22           |
+| Toronto        | Medium         | 1612.00 (5.41)          | 7.50 (0.05)         | 0.48           |
+| -              | Hard           | 2142.00 (8.03)          | 12.70 (0.07)        | 0.72           |
+| -              | Easy           | 923.00 (3.72)           | 4.00 (0.03)         | 0.21           |
+| Denver         | Medium         | 1623.00 (5.28)          | 7.20 (0.05)         | 0.46           |
+| -              | Hard           | 2122.00 (7.66)          | 12.30 (0.06)        | 0.70           |
+| -              | Easy           | 912.00 (3.56)           | 4.50 (0.04)         | 0.24           |
+| Mexico City    | Medium         | 1598.00 (5.56)          | 7.70 (0.06)         | 0.50           |
+| -              | Hard           | 2117.00 (7.88)          | 12.90 (0.08)        | 0.74           |
+| -              | Easy           | 935.00 (3.78)           | 4.60 (0.03)         | 0.25           |
+| São Paulo      | Medium         | 1642.00 (5.66)          | 7.80 (0.05)         | 0.49           |
+| -              | Hard           | 2154.00 (8.06)          | 13.20 (0.07)        | 0.73           |
+| -              | Easy           | 903.00 (3.44)           | 4.30 (0.03)         | 0.23           |
+| London         | Medium         | 1604.00 (5.16)          | 7.40 (0.05)         | 0.47           |
+| -              | Hard           | 2105.00 (7.50)          | 12.50 (0.07)        | 0.71           |
+| -              | Easy           | 946.00 (3.69)           | 4.50 (0.04)         | 0.22           |
+| Munich         | Medium         | 1681.00 (5.53)          | 7.70 (0.06)         | 0.49           |
+| -              | Hard           | 2202.00 (8.00)          | 13.10 (0.08)        | 0.71           |
+| -              | Easy           | 877.00 (3.47)           | 5.10 (0.04)         | 0.27           |
+| Tokyo          | Medium         | 1596.00 (5.06)          | 8.10 (0.06)         | 0.52           |
+| -              | Hard           | 2076.00 (7.34)          | 13.50 (0.07)        | 0.76           |
+| -              | Easy           | 895.00 (3.66)           | 4.80 (0.04)         | 0.26           |
+| Singapore      | Medium         | 1612.00 (5.25)          | 7.90 (0.06)         | 0.51           |
+| -              | Hard           | 2095.00 (7.53)          | 13.30 (0.07)        | 0.75           |
+| -              | Easy           | 947.00 (3.56)           | 4.20 (0.03)         | 0.22           |
+| Sydney         | Medium         | 1635.00 (5.72)          | 7.30 (0.05)         | 0.47           |
+| -              | Hard           | 2136.00 (7.59)          | 12.60 (0.07)        | 0.72           |
+| -              | Easy           | 919.00 (3.75)           | 4.30 (0.03)         | 0.23           |
+| Auckland       | Medium         | 1627.00 (5.47)          | 7.50 (0.05)         | 0.48           |
+| -              | Hard           | 2129.00 (7.69)          | 12.60 (0.07)        | 0.71           |
+| -              | Easy           | 908.00 (3.59)           | 4.70 (0.04)         | 0.25           |
+| Cairo          | Medium         | 1607.00 (5.13)          | 7.80 (0.05)         | 0.50           |
+| -              | Hard           | 2110.00 (7.47)          | 13.00 (0.07)        | 0.73           |
+| -              | Easy           | 915.00 (3.50)           | 4.60 (0.03)         | 0.24           |
+| Cape Town      | Medium         | 1618.00 (5.41)          | 7.60 (0.05)         | 0.49           |
+| -              | Hard           | 2125.00 (7.66)          | 12.80 (0.07)        | 0.72           |
+
+---
+
+### Table Caption:
+This table presents the route network characteristics for 12 cities from different continents (excluding Antarctica), focusing on the complexity of urban routes across three difficulty levels: Easy, Medium, and Hard. Each difficulty level consists of 1000 routes, resulting in a total of 3000 routes per city. The following metrics are reported for each city:
+
+- **Length**: The average route length in meters (m), with standard error (SE) in parentheses.
+- **Turns**: The average number of turns per route, with standard error (SE) in parentheses.
+- **Complexity**: A normalized complexity score, ranging from 0 to 1, calculated based on turn density, intersection complexity, and road type diversity.
+
+*Note: Length is measured in meters (m). Complexity is calculated as a normalized score (0-1) based on route characteristics including turn density, intersection complexity, and road type diversity.*
+
+</div>
 
 
 # City-based Return Rate Performance (%)

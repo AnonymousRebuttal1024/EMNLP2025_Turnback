@@ -25,7 +25,8 @@
 # Table 2. City-based Return Rate Performance (%)
 
 </div>
-* We also demonstrate the city-based performance for all selected LLMs, and we report the most important metric, Return Rate, for each city and difficulty level. We can notice that although there is a variation in the Return Rate, they are all close,e indicating the selected route samples for each city are well distributed and the influence of city-dependent properties is well excluded. This makes our benchmark fair and representative.
+
+We also demonstrate the city-based performance for all selected LLMs, and we report the most important metric, Return Rate, for each city and difficulty level. We can notice that although there is a variation in the Return Rate, they are all close, indicating the selected route samples for each city are well distributed and the influence of city-dependent properties is well excluded. This makes our benchmark fair and representative.
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead>
 <tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">Difficulty Level</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">City</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">GPT-4o</th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">GPT-o1</th>
@@ -163,7 +164,6 @@
 
 </div>
 
-### Table Caption:
 This table presents the route network characteristics for 12 cities from different continents (excluding Antarctica), focusing on the complexity of urban routes across three difficulty levels: Easy, Medium, and Hard. Each difficulty level consists of 1000 routes, resulting in a total of 3000 routes per city. The following metrics are reported for each city:
 
 - **Length**: The average route length in meters (m), with standard error (SE) in parentheses.
@@ -199,9 +199,9 @@ The table reports the mean values of 1000 samples for each difficulty level and 
 
 # Table 5. Route reversal performance for GPT4o under different temperatures
 
-To demonstrate the influence of the temperature parameter of LLMs on the route reveral task, we did an ablation study on GPT4o with different temperature values on [XXX] city [XXX] difficulty level.
-As expected, the lower the temperature, the more deterministic the answers and the better the performance. But the table shows that even if we set the temperature to 0.0, GPT4o still shows randomness in its answers in terms of robustness and misalignment. Thus, we concluded that current LLMs, e.g. GPT4o, don't have enough spatial cognition capability to make certain answers to the route reversal requests. To avoid the influence of the improvisation of the LLMs, we set the temperature to 0.0 for all models if applicable. 
-Meanwhile, this benchmark is designed to fairly measure the performance of current LLMs, so we don't add domain adaptation or fine-level prompt engineering to improve the measurements.
+* To demonstrate the influence of the temperature parameter of LLMs on the route reveral task, we did an ablation study on GPT4o with different temperature values on [XXX] city [XXX] difficulty level.
+* As expected, the lower the temperature, the more deterministic the answers and the better the performance. But the table shows that even if we set the temperature to 0.0, GPT4o still shows randomness in its answers in terms of robustness and misalignment. Thus, we concluded that current LLMs, e.g. GPT4o, don't have enough spatial cognition capability to make certain answers to the route reversal requests. To avoid the influence of the improvisation of the LLMs, we set the temperature to 0.0 for all models if applicable. 
+* Meanwhile, this benchmark is designed to fairly measure the performance of current LLMs, so we don't add domain adaptation or fine-level prompt engineering to improve the measurements.
 
 | Temperature | Return Rate (%) | Similarity | Robustness | Confidence | Misalignment |
 |-------------|-----------------|------------|------------|------------|--------------|

@@ -4,7 +4,7 @@
 
 </div>
 
-* Each model is evaluated on 12,000 samples from 12 different cities for each difficulty level, i.e. each city has 1000 samples for one difficulty level. To account for the potential randomness, each sample is tested six times, and the mean value is used. 
+* Each model is evaluated on 36000 samples from 12 different cities for each difficulty level, i.e. each city has 1000 samples for one difficulty level. To account for the potential randomness, each sample is tested six times, and the mean value is used. 
 * Return Rate and Similarity Score are two key metrics to measure the performance of the LLMs on the task of route reversal. The rest of the metrics, e.g. Deviation Angle, Deviation Distance, Frechet Distance, Edit Distance, Length Ratio, and Jaccard Index, measure the similarity of the target route and predicted route in different aspects and are aggregated into the Similarity Score with a weighted sum formula.
 * Except for the evaluation value for the metrics, we also reported the standard errors for each metric if applicable.
 

@@ -200,7 +200,7 @@ This table illustrates the cognitive disorder in LLMs across all difficulty data
 # Table 5. Route reversal performance for GPT4o under different temperatures
 
 * To demonstrate the influence of the temperature parameter of LLMs on the route reversal task, we did an ablation study on GPT4o with different temperature values on ALL city EASY difficulty level.
-* As expected, the lower the temperature, the more deterministic the answers and the better the performance. But the table shows that even if we set the temperature to 0.0, GPT4o still shows randomness in its answers in terms of robustness and misalignment. Thus, we concluded that current LLMs, e.g. GPT4o, don't have enough spatial cognition capability to make certain answers to the route reversal requests. To avoid the influence of the improvisation of the LLMs, we set the temperature to 0.1 for all models if applicable. 
+* As expected, the lower the temperature, the more deterministic the answers and the better the performance. But the table shows that even if we set the temperature to 0.0, GPT4o still shows randomness in its answers in terms of robustness and misalignment. Thus, we concluded that current LLMs, e.g. GPT4o, don't have enough spatial cognition capability to make certain answers to the route reversal requests. To avoid the influence of the improvisation of the LLMs, we set the temperature to 0.0 for all models if applicable. 
 * Meanwhile, this benchmark is designed to fairly measure the performance of current LLMs, so we don't add domain adaptation or fine-level prompt engineering to improve the measurements.
 
 | Temperature | Return Rate (%) | Similarity | Robustness | Confidence | Misalignment |

@@ -5,7 +5,7 @@
 </div>
 
 
-# Note to Dataset Samples (1000 routes)
+# Note to Dataset Samples (1100 routes)
 Our benchmark dataset encompasses 36,000 routes spanning 12 cities across 6 continents, with a total route length equivalent to 1.2 times the Earth's equator. Currently, we are releasing a sample dataset of 1,000 routes from Toronto as a demonstration. The complete codebase and full dataset will be made available upon paper acceptance.
 
 
@@ -17,11 +17,11 @@ This code cannot be executed directly for several reasons:
 2. The similarity functionality has been implemented as an API in our system, it will be released to the whole community in camera-ready.
 3. The PathBuilder (PB) codebase is complex, and only key functions are presented here.
 
-The purpose of sharing this code is to allow reviewers to examine our critical work, including data generation processes, the PathBuilder implementation, and our fully automated benchmark evaluation system for LLMs. This preview provides insight into our methodological approach while acknowledging the practical limitations of direct execution.
+<font color="red">The purpose of sharing this code is to allow reviewers to examine our critical work, including data generation processes, the PathBuilder implementation, and our fully automated benchmark evaluation system for LLMs.</font> This preview provides insight into our methodological approach while acknowledging the practical limitations of direct execution.
 
 ## Note on Model Evaluation
 
-We acknowledge that the landscape of large language models evolves rapidly. Upon acceptance of this paper, we commit to updating our benchmark evaluations to include the most current mainstream models available at that time. Due to the substantial cost required for comprehensive evaluation across our extensive dataset (36,000 routes spanning 12 global cities), we are unable to continuously update benchmarks during the manuscript preparation phase. Consequently, some models represented in our current evaluation may be slightly outdated by the time of review. Nevertheless, we believe the relative performance patterns observed remain representative of the fundamental capabilities and limitations of these architectural approaches to geospatial cognition tasks. Our methodology and evaluation framework are designed to be model-agnostic, ensuring the benchmark's long-term relevance despite the rapid pace of model development.
+We acknowledge that the landscape of large language models evolves rapidly. <font color="red">Upon acceptance of this paper, we commit to updating our benchmark evaluations to include the newest SOTA models available at that time. </font> Due to the substantial cost required for comprehensive evaluation across our extensive dataset (36,000 routes spanning 12 global cities), we are unable to continuously update benchmarks during the manuscript preparation phase. Consequently, some models represented in our current evaluation may be slightly outdated by the time of review. Nevertheless, we believe the relative performance patterns observed remain representative of the fundamental capabilities and limitations of these architectural approaches to geospatial cognition tasks. Our methodology and evaluation framework are designed to be model-agnostic, ensuring the benchmark's long-term relevance despite the rapid pace of model development.
 
 
 

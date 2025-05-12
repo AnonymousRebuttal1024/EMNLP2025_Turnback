@@ -6,6 +6,12 @@
 
 Our benchmark dataset encompasses 36,000 routes spanning 12 cities across 6 continents, with a total route length equivalent to 1.2 times the Earth's equator. Currently, we are releasing a sample dataset of 1,000 routes from Toronto as a demonstration. The complete codebase and full dataset will be made available upon paper acceptance.
 
+## Note on Model Evaluation
+
+We acknowledge that the landscape of large language models evolves rapidly. Upon acceptance of this paper, we commit to updating our benchmark evaluations to include the most current mainstream models available at that time. Due to the substantial computational resources required for comprehensive evaluation across our extensive dataset (36,000 routes spanning 12 global cities), we are unable to continuously update benchmarks during the manuscript preparation phase. Consequently, some models represented in our current evaluation may be slightly outdated by the time of publication. Nevertheless, we believe the relative performance patterns observed remain representative of the fundamental capabilities and limitations of these architectural approaches to geospatial cognition tasks. Our methodology and evaluation framework are designed to be model-agnostic, ensuring the benchmark's long-term relevance despite the rapid pace of model development.
+
+
+
 
 
 

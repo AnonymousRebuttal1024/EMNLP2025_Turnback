@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [8.6], "durations": [6.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Deans"], "end_streets": ["Deans"], "distances": [453.1], "durations": [326.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Fairfax"], "end_streets": ["Fairfax"], "distances": [317.8], "durations": [228.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Camilla"], "end_streets": ["Camilla"], "distances": [217.9], "durations": [156.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Pharmacy"], "end_streets": ["Pharmacy"], "distances": [26.9], "durations": [19.4]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": ["Stellarton"], "end_streets": ["Stellarton"], "distances": [107.9], "durations": [77.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Delwood"], "end_streets": ["Delwood"], "distances": [290.8], "durations": [209.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Bassett"], "end_streets": ["Bassett"], "distances": [145.3], "durations": [104.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [76.0], "durations": [54.7]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [13.6], "durations": [9.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [156.0], "durations": [112.3]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

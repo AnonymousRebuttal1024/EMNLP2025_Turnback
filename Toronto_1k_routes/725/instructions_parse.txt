@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [36.1], "durations": [26.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [109.3], "durations": [78.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [10.8], "durations": [7.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [34.9], "durations": [25.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.0], "durations": [2.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Lindner"], "end_streets": ["Lindner"], "distances": [48.7], "durations": [35.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Osler"], "end_streets": ["Osler"], "distances": [6.9], "durations": [5.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Pelham"], "end_streets": ["Pelham"], "distances": [5.6], "durations": [4.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [239.6], "durations": [172.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [3.9], "durations": [2.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Pelham"], "end_streets": ["Pelham"], "distances": [144.4], "durations": [104.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Laughton"], "end_streets": ["Laughton"], "distances": [186.0], "durations": [133.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Laughton"], "distances": [0.0], "durations": [0.0]}

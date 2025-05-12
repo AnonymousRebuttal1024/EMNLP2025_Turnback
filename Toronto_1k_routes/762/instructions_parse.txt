@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [87.3], "durations": [62.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [7.4], "durations": [5.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [13.0], "durations": [9.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Craigton"], "end_streets": ["Craigton"], "distances": [61.4], "durations": [44.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [7.2], "durations": [5.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [308.4], "durations": [222.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [530.4], "durations": [381.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [90.8], "durations": [65.4]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [120.4], "durations": [86.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

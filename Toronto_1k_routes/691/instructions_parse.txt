@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [201.8], "durations": [145.3]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": [], "end_streets": [], "distances": [172.0], "durations": [123.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [73.5], "durations": [52.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [21.1], "durations": [15.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [79.0], "durations": [56.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Rosemary"], "end_streets": ["Rosemary"], "distances": [269.5], "durations": [194.0]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Rosemary"], "distances": [0.0], "durations": [0.0]}

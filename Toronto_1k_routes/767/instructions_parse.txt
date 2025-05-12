@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": ["Morse", "Morse"], "end_streets": [], "distances": [6.1], "durations": [4.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [4.5], "durations": [3.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [45.3], "durations": [32.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [88.1], "durations": [63.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [83.8], "durations": [60.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Busy"], "end_streets": ["Busy"], "distances": [5.8], "durations": [4.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Logan"], "end_streets": ["Logan"], "distances": [1251.5], "durations": [901.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Bain"], "end_streets": ["Bain"], "distances": [204.4], "durations": [147.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.1], "durations": [2.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [113.3], "durations": [81.6]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

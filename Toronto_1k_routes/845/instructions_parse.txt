@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [557.4], "durations": [401.3]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [17.9], "durations": [12.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [937.8], "durations": [675.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [1.4], "durations": [1.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [171.5], "durations": [123.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["McDougall"], "end_streets": ["McDougall"], "distances": [36.9], "durations": [26.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["McDougall"], "distances": [0.0], "durations": [0.0]}

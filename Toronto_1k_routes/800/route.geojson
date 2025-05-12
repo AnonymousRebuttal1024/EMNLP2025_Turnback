@@ -1,0 +1,353 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.436863,
+        43.696026,
+        -79.425196,
+        43.703925
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.436863,
+                43.696026,
+                -79.425196,
+                43.703925
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1592.1,
+                        "duration": 1146.3,
+                        "steps": [
+                            {
+                                "distance": 322.6,
+                                "duration": 232.3,
+                                "type": 11,
+                                "instruction": "Head west on Avenal Drive",
+                                "name": "Avenal Drive",
+                                "way_points": [
+                                    0,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 645.3,
+                                "duration": 464.6,
+                                "type": 1,
+                                "instruction": "Turn right onto Glen Cedar Road",
+                                "name": "Glen Cedar Road",
+                                "way_points": [
+                                    5,
+                                    20
+                                ]
+                            },
+                            {
+                                "distance": 181.3,
+                                "duration": 130.6,
+                                "type": 12,
+                                "instruction": "Keep left onto Old Park Road",
+                                "name": "Old Park Road",
+                                "way_points": [
+                                    20,
+                                    25
+                                ]
+                            },
+                            {
+                                "distance": 3.8,
+                                "duration": 2.7,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    25,
+                                    26
+                                ]
+                            },
+                            {
+                                "distance": 105.2,
+                                "duration": 75.8,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    26,
+                                    31
+                                ]
+                            },
+                            {
+                                "distance": 2.7,
+                                "duration": 2.0,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    31,
+                                    32
+                                ]
+                            },
+                            {
+                                "distance": 38.3,
+                                "duration": 27.6,
+                                "type": 0,
+                                "instruction": "Turn left onto Elm Ridge Circle",
+                                "name": "Elm Ridge Circle",
+                                "way_points": [
+                                    32,
+                                    36
+                                ]
+                            },
+                            {
+                                "distance": 286.3,
+                                "duration": 206.1,
+                                "type": 0,
+                                "instruction": "Turn left onto Elm Ridge Drive",
+                                "name": "Elm Ridge Drive",
+                                "way_points": [
+                                    36,
+                                    42
+                                ]
+                            },
+                            {
+                                "distance": 6.5,
+                                "duration": 4.7,
+                                "type": 1,
+                                "instruction": "Turn right onto Newgate Road",
+                                "name": "Newgate Road",
+                                "way_points": [
+                                    42,
+                                    43
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Newgate Road, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    43,
+                                    43
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    43
+                ],
+                "summary": {
+                    "distance": 1592.1,
+                    "duration": 1146.3
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.425196,
+                        43.696026
+                    ],
+                    [
+                        -79.426039,
+                        43.696119
+                    ],
+                    [
+                        -79.4273,
+                        43.696289
+                    ],
+                    [
+                        -79.427708,
+                        43.696331
+                    ],
+                    [
+                        -79.42792,
+                        43.696316
+                    ],
+                    [
+                        -79.429118,
+                        43.696053
+                    ],
+                    [
+                        -79.429656,
+                        43.696826
+                    ],
+                    [
+                        -79.429709,
+                        43.696918
+                    ],
+                    [
+                        -79.42997,
+                        43.697587
+                    ],
+                    [
+                        -79.429996,
+                        43.697655
+                    ],
+                    [
+                        -79.430023,
+                        43.697722
+                    ],
+                    [
+                        -79.430722,
+                        43.699457
+                    ],
+                    [
+                        -79.430813,
+                        43.699682
+                    ],
+                    [
+                        -79.430888,
+                        43.69976
+                    ],
+                    [
+                        -79.430963,
+                        43.699833
+                    ],
+                    [
+                        -79.431049,
+                        43.69992
+                    ],
+                    [
+                        -79.431183,
+                        43.700237
+                    ],
+                    [
+                        -79.431343,
+                        43.700626
+                    ],
+                    [
+                        -79.431369,
+                        43.700687
+                    ],
+                    [
+                        -79.431397,
+                        43.700757
+                    ],
+                    [
+                        -79.431697,
+                        43.701521
+                    ],
+                    [
+                        -79.431794,
+                        43.701586
+                    ],
+                    [
+                        -79.432057,
+                        43.702253
+                    ],
+                    [
+                        -79.432082,
+                        43.702312
+                    ],
+                    [
+                        -79.432103,
+                        43.702363
+                    ],
+                    [
+                        -79.432387,
+                        43.70306
+                    ],
+                    [
+                        -79.432432,
+                        43.703051
+                    ],
+                    [
+                        -79.432468,
+                        43.703136
+                    ],
+                    [
+                        -79.43267,
+                        43.703638
+                    ],
+                    [
+                        -79.432707,
+                        43.703678
+                    ],
+                    [
+                        -79.4328,
+                        43.703708
+                    ],
+                    [
+                        -79.433094,
+                        43.703711
+                    ],
+                    [
+                        -79.433086,
+                        43.703735
+                    ],
+                    [
+                        -79.433147,
+                        43.70374
+                    ],
+                    [
+                        -79.433296,
+                        43.703794
+                    ],
+                    [
+                        -79.433417,
+                        43.703871
+                    ],
+                    [
+                        -79.433461,
+                        43.703925
+                    ],
+                    [
+                        -79.433535,
+                        43.703881
+                    ],
+                    [
+                        -79.433771,
+                        43.703826
+                    ],
+                    [
+                        -79.434445,
+                        43.70367
+                    ],
+                    [
+                        -79.434565,
+                        43.703683
+                    ],
+                    [
+                        -79.435717,
+                        43.703416
+                    ],
+                    [
+                        -79.43684,
+                        43.703159
+                    ],
+                    [
+                        -79.436863,
+                        43.703216
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731078894157,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4251956,
+                    43.6960255
+                ],
+                [
+                    -79.4368626,
+                    43.7032155
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

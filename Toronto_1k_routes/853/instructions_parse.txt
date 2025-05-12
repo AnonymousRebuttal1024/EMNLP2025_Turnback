@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Willcocks", "Willcocks"], "end_streets": [], "distances": [364.2], "durations": [262.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.0], "durations": [2.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [98.7], "durations": [71.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [2.9], "durations": [2.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [260.5], "durations": [187.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Hart"], "end_streets": ["Hart"], "distances": [5.8], "durations": [4.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Hart"], "end_streets": ["Hart"], "distances": [126.9], "durations": [91.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Hart"], "distances": [0.0], "durations": [0.0]}

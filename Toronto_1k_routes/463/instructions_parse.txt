@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [61.4], "durations": [44.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [78.4], "durations": [56.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [36.9], "durations": [26.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [315.0], "durations": [226.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [263.3], "durations": [189.6]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [42.0], "durations": [30.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [2.1], "durations": [1.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [321.9], "durations": [231.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [23.0], "durations": [16.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [160.2], "durations": [115.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Gatineau"], "end_streets": ["Gatineau"], "distances": [53.9], "durations": [38.8]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Gatineau"], "distances": [0.0], "durations": [0.0]}

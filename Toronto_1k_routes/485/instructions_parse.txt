@@ -1,0 +1,5 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [100.6], "durations": [72.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Pacific"], "end_streets": ["Pacific"], "distances": [1136.7], "durations": [818.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.3], "durations": [4.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [65.5], "durations": [47.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

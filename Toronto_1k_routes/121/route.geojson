@@ -1,0 +1,405 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.351331,
+        43.672261,
+        -79.347519,
+        43.679361
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.351331,
+                43.672261,
+                -79.347519,
+                43.679361
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1024.9,
+                        "duration": 737.9,
+                        "steps": [
+                            {
+                                "distance": 87.5,
+                                "duration": 63.0,
+                                "type": 11,
+                                "instruction": "Head south on Arundel Avenue",
+                                "name": "Arundel Avenue",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 5.3,
+                                "duration": 3.9,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    1,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 79.1,
+                                "duration": 57.0,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    2,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 72.8,
+                                "duration": 52.4,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    5,
+                                    7
+                                ]
+                            },
+                            {
+                                "distance": 20.2,
+                                "duration": 14.6,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    7,
+                                    9
+                                ]
+                            },
+                            {
+                                "distance": 1.8,
+                                "duration": 1.3,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    9,
+                                    10
+                                ]
+                            },
+                            {
+                                "distance": 155.1,
+                                "duration": 111.7,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    10,
+                                    16
+                                ]
+                            },
+                            {
+                                "distance": 196.5,
+                                "duration": 141.4,
+                                "type": 4,
+                                "instruction": "Turn slight left",
+                                "name": "-",
+                                "way_points": [
+                                    16,
+                                    29
+                                ]
+                            },
+                            {
+                                "distance": 4.1,
+                                "duration": 2.9,
+                                "type": 4,
+                                "instruction": "Turn slight left",
+                                "name": "-",
+                                "way_points": [
+                                    29,
+                                    30
+                                ]
+                            },
+                            {
+                                "distance": 87.1,
+                                "duration": 62.7,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    30,
+                                    32
+                                ]
+                            },
+                            {
+                                "distance": 9.9,
+                                "duration": 7.2,
+                                "type": 12,
+                                "instruction": "Keep left",
+                                "name": "-",
+                                "way_points": [
+                                    32,
+                                    34
+                                ]
+                            },
+                            {
+                                "distance": 160.0,
+                                "duration": 115.2,
+                                "type": 4,
+                                "instruction": "Turn slight left",
+                                "name": "-",
+                                "way_points": [
+                                    34,
+                                    42
+                                ]
+                            },
+                            {
+                                "distance": 145.4,
+                                "duration": 104.7,
+                                "type": 1,
+                                "instruction": "Turn right onto Sparkhall Avenue",
+                                "name": "Sparkhall Avenue",
+                                "way_points": [
+                                    42,
+                                    45
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Sparkhall Avenue, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    45,
+                                    45
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    45
+                ],
+                "summary": {
+                    "distance": 1024.9,
+                    "duration": 737.9
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.351331,
+                        43.679361
+                    ],
+                    [
+                        -79.351046,
+                        43.678601
+                    ],
+                    [
+                        -79.350981,
+                        43.67859
+                    ],
+                    [
+                        -79.350827,
+                        43.678182
+                    ],
+                    [
+                        -79.350741,
+                        43.677944
+                    ],
+                    [
+                        -79.35071,
+                        43.677907
+                    ],
+                    [
+                        -79.350653,
+                        43.677905
+                    ],
+                    [
+                        -79.34983,
+                        43.678055
+                    ],
+                    [
+                        -79.3498,
+                        43.677974
+                    ],
+                    [
+                        -79.349765,
+                        43.677879
+                    ],
+                    [
+                        -79.349744,
+                        43.677873
+                    ],
+                    [
+                        -79.349614,
+                        43.677584
+                    ],
+                    [
+                        -79.349532,
+                        43.677384
+                    ],
+                    [
+                        -79.349484,
+                        43.677265
+                    ],
+                    [
+                        -79.34939,
+                        43.677036
+                    ],
+                    [
+                        -79.349197,
+                        43.676554
+                    ],
+                    [
+                        -79.349208,
+                        43.676539
+                    ],
+                    [
+                        -79.349188,
+                        43.676492
+                    ],
+                    [
+                        -79.349172,
+                        43.676451
+                    ],
+                    [
+                        -79.349143,
+                        43.676434
+                    ],
+                    [
+                        -79.349028,
+                        43.676149
+                    ],
+                    [
+                        -79.348893,
+                        43.675804
+                    ],
+                    [
+                        -79.34889,
+                        43.675762
+                    ],
+                    [
+                        -79.348868,
+                        43.675707
+                    ],
+                    [
+                        -79.348848,
+                        43.675659
+                    ],
+                    [
+                        -79.348818,
+                        43.675633
+                    ],
+                    [
+                        -79.348511,
+                        43.674967
+                    ],
+                    [
+                        -79.348506,
+                        43.674927
+                    ],
+                    [
+                        -79.348489,
+                        43.674892
+                    ],
+                    [
+                        -79.348475,
+                        43.674863
+                    ],
+                    [
+                        -79.348434,
+                        43.674842
+                    ],
+                    [
+                        -79.348427,
+                        43.674775
+                    ],
+                    [
+                        -79.348131,
+                        43.674092
+                    ],
+                    [
+                        -79.348113,
+                        43.674048
+                    ],
+                    [
+                        -79.348097,
+                        43.674006
+                    ],
+                    [
+                        -79.348063,
+                        43.673988
+                    ],
+                    [
+                        -79.348061,
+                        43.673937
+                    ],
+                    [
+                        -79.347781,
+                        43.673251
+                    ],
+                    [
+                        -79.34776,
+                        43.673191
+                    ],
+                    [
+                        -79.347745,
+                        43.673148
+                    ],
+                    [
+                        -79.347715,
+                        43.673113
+                    ],
+                    [
+                        -79.347533,
+                        43.672679
+                    ],
+                    [
+                        -79.347519,
+                        43.672639
+                    ],
+                    [
+                        -79.347884,
+                        43.672559
+                    ],
+                    [
+                        -79.348616,
+                        43.672399
+                    ],
+                    [
+                        -79.349249,
+                        43.672261
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077212640,
+        "query": {
+            "coordinates": [
+                [
+                    -79.351331,
+                    43.6793605
+                ],
+                [
+                    -79.3492495,
+                    43.672261
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

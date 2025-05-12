@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [145.5], "durations": [104.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [111.0], "durations": [79.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [46.6], "durations": [33.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [4.3], "durations": [3.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Regent"], "end_streets": ["Regent"], "distances": [290.2], "durations": [208.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [4.6], "durations": [3.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [32.7], "durations": [23.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Sutton"], "end_streets": ["Sutton"], "distances": [59.2], "durations": [42.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Peaceful"], "end_streets": ["Peaceful"], "distances": [25.3], "durations": [18.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [4.0], "durations": [2.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

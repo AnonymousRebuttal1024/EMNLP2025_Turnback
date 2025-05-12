@@ -1,0 +1,5 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": ["Rustic", "Rustic"], "end_streets": [], "distances": [311.8], "durations": [224.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [330.9], "durations": [238.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [914.9], "durations": [658.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [10.4], "durations": [7.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

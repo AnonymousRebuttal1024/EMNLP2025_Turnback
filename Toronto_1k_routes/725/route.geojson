@@ -1,0 +1,314 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.460731,
+        43.667659,
+        -79.452927,
+        43.66934
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.460731,
+                43.667659,
+                -79.452927,
+                43.66934
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 830.1,
+                        "duration": 597.7,
+                        "steps": [
+                            {
+                                "distance": 36.1,
+                                "duration": 26.0,
+                                "type": 11,
+                                "instruction": "Head east",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 109.3,
+                                "duration": 78.7,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    1,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 10.8,
+                                "duration": 7.7,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    2,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 34.9,
+                                "duration": 25.1,
+                                "type": 5,
+                                "instruction": "Turn slight right",
+                                "name": "-",
+                                "way_points": [
+                                    4,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 4.0,
+                                "duration": 2.8,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    6,
+                                    7
+                                ]
+                            },
+                            {
+                                "distance": 48.7,
+                                "duration": 35.0,
+                                "type": 0,
+                                "instruction": "Turn left onto Lindner Street",
+                                "name": "Lindner Street",
+                                "way_points": [
+                                    7,
+                                    8
+                                ]
+                            },
+                            {
+                                "distance": 6.9,
+                                "duration": 5.0,
+                                "type": 1,
+                                "instruction": "Turn right onto Osler Street",
+                                "name": "Osler Street",
+                                "way_points": [
+                                    8,
+                                    9
+                                ]
+                            },
+                            {
+                                "distance": 5.6,
+                                "duration": 4.1,
+                                "type": 0,
+                                "instruction": "Turn left onto Pelham Park Gardens",
+                                "name": "Pelham Park Gardens",
+                                "way_points": [
+                                    9,
+                                    10
+                                ]
+                            },
+                            {
+                                "distance": 239.6,
+                                "duration": 172.5,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    10,
+                                    15
+                                ]
+                            },
+                            {
+                                "distance": 3.9,
+                                "duration": 2.8,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    15,
+                                    16
+                                ]
+                            },
+                            {
+                                "distance": 144.4,
+                                "duration": 104.0,
+                                "type": 0,
+                                "instruction": "Turn left onto Pelham Avenue",
+                                "name": "Pelham Avenue",
+                                "way_points": [
+                                    16,
+                                    20
+                                ]
+                            },
+                            {
+                                "distance": 186.0,
+                                "duration": 133.9,
+                                "type": 1,
+                                "instruction": "Turn right onto Laughton Avenue",
+                                "name": "Laughton Avenue",
+                                "way_points": [
+                                    20,
+                                    25
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Laughton Avenue, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    25,
+                                    25
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    25
+                ],
+                "summary": {
+                    "distance": 830.1,
+                    "duration": 597.7
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.460731,
+                        43.669245
+                    ],
+                    [
+                        -79.460302,
+                        43.66934
+                    ],
+                    [
+                        -79.459904,
+                        43.6684
+                    ],
+                    [
+                        -79.45985,
+                        43.668412
+                    ],
+                    [
+                        -79.459776,
+                        43.668428
+                    ],
+                    [
+                        -79.459749,
+                        43.668421
+                    ],
+                    [
+                        -79.459362,
+                        43.668508
+                    ],
+                    [
+                        -79.459348,
+                        43.668474
+                    ],
+                    [
+                        -79.458768,
+                        43.668599
+                    ],
+                    [
+                        -79.458741,
+                        43.66854
+                    ],
+                    [
+                        -79.458673,
+                        43.668555
+                    ],
+                    [
+                        -79.458332,
+                        43.667779
+                    ],
+                    [
+                        -79.458267,
+                        43.667678
+                    ],
+                    [
+                        -79.458233,
+                        43.667663
+                    ],
+                    [
+                        -79.458199,
+                        43.667659
+                    ],
+                    [
+                        -79.45664,
+                        43.667989
+                    ],
+                    [
+                        -79.456626,
+                        43.667956
+                    ],
+                    [
+                        -79.456044,
+                        43.66808
+                    ],
+                    [
+                        -79.455324,
+                        43.668231
+                    ],
+                    [
+                        -79.454989,
+                        43.668302
+                    ],
+                    [
+                        -79.454903,
+                        43.66832
+                    ],
+                    [
+                        -79.454805,
+                        43.668076
+                    ],
+                    [
+                        -79.454733,
+                        43.668037
+                    ],
+                    [
+                        -79.454604,
+                        43.668041
+                    ],
+                    [
+                        -79.453549,
+                        43.668259
+                    ],
+                    [
+                        -79.452927,
+                        43.668386
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731078721369,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4607309,
+                    43.6692451
+                ],
+                [
+                    -79.4529275,
+                    43.6683862
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

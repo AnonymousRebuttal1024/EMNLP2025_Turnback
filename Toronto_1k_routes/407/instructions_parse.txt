@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [4.5], "durations": [3.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [1.6], "durations": [1.2]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [5.3], "durations": [3.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Brockville"], "end_streets": ["Brockville"], "distances": [90.3], "durations": [65.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [106.4], "durations": [76.6]},
+{"actions": ["Turn", "continue"], "directions": ["right", "East", "East"], "start_streets": ["Gerrard"], "end_streets": ["Gerrard"], "distances": [58.2], "durations": [41.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Pickering"], "end_streets": ["Pickering"], "distances": [166.2], "durations": [119.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [3.4], "durations": [2.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [32.6], "durations": [23.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [5.1], "durations": [3.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Swanwick"], "end_streets": ["Swanwick"], "distances": [31.4], "durations": [22.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.9], "durations": [3.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

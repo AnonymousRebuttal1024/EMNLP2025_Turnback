@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Benson", "Benson"], "end_streets": [], "distances": [553.4], "durations": [398.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Wychwood"], "end_streets": ["Wychwood"], "distances": [38.0], "durations": [27.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Hocken"], "end_streets": ["Hocken"], "distances": [7.3], "durations": [5.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [137.6], "durations": [99.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [26.7], "durations": [19.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [16.0], "durations": [11.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [418.3], "durations": [301.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [70.9], "durations": [51.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [122.4], "durations": [88.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

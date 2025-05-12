@@ -1,0 +1,5 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": ["Redpath", "Redpath"], "end_streets": [], "distances": [5.2], "durations": [3.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [427.3], "durations": [307.6]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [8.2], "durations": [5.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Rawlinson"], "end_streets": ["Rawlinson"], "distances": [72.9], "durations": [52.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Rawlinson"], "distances": [0.0], "durations": [0.0]}

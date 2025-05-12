@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [22.1], "durations": [15.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Plewes"], "end_streets": ["Plewes"], "distances": [267.9], "durations": [192.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [99.7], "durations": [71.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Spalding"], "end_streets": ["Spalding"], "distances": [191.8], "durations": [138.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [79.9], "durations": [57.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Ancaster"], "end_streets": ["Ancaster"], "distances": [194.7], "durations": [140.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [7.0], "durations": [5.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [59.8], "durations": [43.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [101.8], "durations": [73.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [8.6], "durations": [6.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

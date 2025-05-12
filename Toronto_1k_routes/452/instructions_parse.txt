@@ -1,0 +1,6 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [5.5], "durations": [4.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [100.6], "durations": [72.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [78.8], "durations": [56.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Evans"], "end_streets": ["Evans"], "distances": [288.7], "durations": [207.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [90.1], "durations": [64.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

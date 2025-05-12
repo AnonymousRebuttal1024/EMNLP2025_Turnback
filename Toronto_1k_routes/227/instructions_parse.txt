@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [55.1], "durations": [39.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Sumach"], "end_streets": ["Sumach"], "distances": [543.3], "durations": [391.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [217.8], "durations": [156.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Sackville"], "end_streets": ["Sackville"], "distances": [18.2], "durations": [13.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [124.2], "durations": [89.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Paterson"], "end_streets": ["Paterson"], "distances": [59.5], "durations": [42.8]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Paterson"], "distances": [0.0], "durations": [0.0]}

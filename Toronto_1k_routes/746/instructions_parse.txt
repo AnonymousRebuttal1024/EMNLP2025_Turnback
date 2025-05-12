@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["southeast"], "start_streets": [], "end_streets": [], "distances": [2.4], "durations": [1.7]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [184.5], "durations": [132.9]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [21.7], "durations": [15.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [19.2], "durations": [13.8]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [230.0], "durations": [165.6]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [298.6], "durations": [215.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [6.2], "durations": [4.5]},
+{"actions": ["Turn", "continue"], "directions": ["left", "East", "East"], "start_streets": ["St"], "end_streets": ["St"], "distances": [505.4], "durations": [363.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Elswick"], "end_streets": ["Elswick"], "distances": [5.4], "durations": [3.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [86.8], "durations": [62.5]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [119.7], "durations": [86.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Alder"], "end_streets": ["Alder"], "distances": [110.2], "durations": [79.3]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Alder"], "distances": [0.0], "durations": [0.0]}

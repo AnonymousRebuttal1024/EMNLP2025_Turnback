@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["St", "St"], "end_streets": [], "distances": [8.9], "durations": [6.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [397.1], "durations": [285.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [17.8], "durations": [12.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [216.3], "durations": [155.8]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [178.4], "durations": [128.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Glenburn"], "end_streets": ["Glenburn"], "distances": [19.7], "durations": [14.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [628.4], "durations": [452.4]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [155.7], "durations": [112.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [5.1], "durations": [3.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Selwyn"], "end_streets": ["Selwyn"], "distances": [6.4], "durations": [4.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Gardens"], "end_streets": ["Gardens"], "distances": [305.1], "durations": [219.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [5.6], "durations": [4.0]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

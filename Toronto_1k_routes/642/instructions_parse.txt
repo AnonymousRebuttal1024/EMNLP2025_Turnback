@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [112.0], "durations": [80.7]},
+{"actions": ["Turn", "continue"], "directions": ["left", "North", "North"], "start_streets": ["Dewhurst"], "end_streets": ["Dewhurst"], "distances": [76.3], "durations": [55.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Sammon"], "end_streets": ["Sammon"], "distances": [190.8], "durations": [137.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [9.0], "durations": [6.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [5.6], "durations": [4.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Woodycrest"], "end_streets": ["Woodycrest"], "distances": [241.3], "durations": [173.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [5.1], "durations": [3.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [210.0], "durations": [151.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Gertrude"], "end_streets": ["Gertrude"], "distances": [46.9], "durations": [33.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [81.8], "durations": [58.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

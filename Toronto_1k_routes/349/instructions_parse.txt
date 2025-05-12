@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": ["Wright", "Wright"], "end_streets": [], "distances": [812.2], "durations": [584.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [4.0], "durations": [2.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.2], "durations": [3.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [95.2], "durations": [68.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [3.5], "durations": [2.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Indian"], "end_streets": ["Indian"], "distances": [410.7], "durations": [295.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Indian"], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,5 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [1075.5], "durations": [774.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [40.2], "durations": [29.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Myer"], "end_streets": ["Myer"], "distances": [96.1], "durations": [69.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [308.0], "durations": [221.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

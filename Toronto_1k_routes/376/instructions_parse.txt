@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": ["Alberta", "Alberta"], "end_streets": [], "distances": [8.4], "durations": [6.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [126.0], "durations": [90.7]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [26.0], "durations": [18.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.2], "durations": [4.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [703.5], "durations": [506.5]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [576.7], "durations": [415.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [88.8], "durations": [63.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Alma"], "end_streets": ["Alma"], "distances": [16.4], "durations": [11.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [147.2], "durations": [106.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [27.9], "durations": [20.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

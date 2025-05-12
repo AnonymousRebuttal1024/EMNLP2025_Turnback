@@ -1,0 +1,264 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.450525,
+        43.698854,
+        -79.448245,
+        43.703194
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.450525,
+                43.698854,
+                -79.448245,
+                43.703194
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 733.0,
+                        "duration": 527.8,
+                        "steps": [
+                            {
+                                "distance": 32.1,
+                                "duration": 23.1,
+                                "type": 11,
+                                "instruction": "Head east",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 44.0,
+                                "duration": 31.7,
+                                "type": 0,
+                                "instruction": "Turn left onto Locksley Avenue",
+                                "name": "Locksley Avenue",
+                                "way_points": [
+                                    1,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 44.6,
+                                "duration": 32.1,
+                                "type": 6,
+                                "instruction": "Continue straight",
+                                "name": "-",
+                                "way_points": [
+                                    2,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 21.3,
+                                "duration": 15.4,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    4,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 22.7,
+                                "duration": 16.3,
+                                "type": 0,
+                                "instruction": "Turn left onto West Belt Line Trail",
+                                "name": "West Belt Line Trail",
+                                "way_points": [
+                                    5,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 86.0,
+                                "duration": 61.9,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    6,
+                                    11
+                                ]
+                            },
+                            {
+                                "distance": 68.2,
+                                "duration": 49.1,
+                                "type": 1,
+                                "instruction": "Turn right onto Roselawn Avenue",
+                                "name": "Roselawn Avenue",
+                                "way_points": [
+                                    11,
+                                    13
+                                ]
+                            },
+                            {
+                                "distance": 281.2,
+                                "duration": 202.5,
+                                "type": 0,
+                                "instruction": "Turn left onto Locksley Avenue",
+                                "name": "Locksley Avenue",
+                                "way_points": [
+                                    13,
+                                    16
+                                ]
+                            },
+                            {
+                                "distance": 130.6,
+                                "duration": 94.0,
+                                "type": 0,
+                                "instruction": "Turn left onto Briar Hill Avenue",
+                                "name": "Briar Hill Avenue",
+                                "way_points": [
+                                    16,
+                                    17
+                                ]
+                            },
+                            {
+                                "distance": 2.3,
+                                "duration": 1.7,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    17,
+                                    18
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at your destination, on the left",
+                                "name": "-",
+                                "way_points": [
+                                    18,
+                                    18
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    18
+                ],
+                "summary": {
+                    "distance": 733.0,
+                    "duration": 527.8
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.448764,
+                        43.698854
+                    ],
+                    [
+                        -79.448384,
+                        43.698941
+                    ],
+                    [
+                        -79.448552,
+                        43.699318
+                    ],
+                    [
+                        -79.448572,
+                        43.699436
+                    ],
+                    [
+                        -79.448437,
+                        43.699701
+                    ],
+                    [
+                        -79.448615,
+                        43.699843
+                    ],
+                    [
+                        -79.448887,
+                        43.699789
+                    ],
+                    [
+                        -79.448915,
+                        43.699911
+                    ],
+                    [
+                        -79.448917,
+                        43.70001
+                    ],
+                    [
+                        -79.4489,
+                        43.700133
+                    ],
+                    [
+                        -79.449034,
+                        43.700487
+                    ],
+                    [
+                        -79.449056,
+                        43.700544
+                    ],
+                    [
+                        -79.448508,
+                        43.700676
+                    ],
+                    [
+                        -79.448245,
+                        43.700725
+                    ],
+                    [
+                        -79.448415,
+                        43.701563
+                    ],
+                    [
+                        -79.448624,
+                        43.702354
+                    ],
+                    [
+                        -79.44897,
+                        43.703194
+                    ],
+                    [
+                        -79.450517,
+                        43.702836
+                    ],
+                    [
+                        -79.450525,
+                        43.702856
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077696426,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4487644,
+                    43.6988542
+                ],
+                [
+                    -79.45054,
+                    43.702853
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

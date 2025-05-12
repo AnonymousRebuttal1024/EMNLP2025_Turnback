@@ -1,0 +1,331 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.40331,
+        43.722723,
+        -79.400061,
+        43.726356
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.40331,
+                43.722723,
+                -79.400061,
+                43.726356
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 567.8,
+                        "duration": 408.8,
+                        "steps": [
+                            {
+                                "distance": 2.8,
+                                "duration": 2.0,
+                                "type": 11,
+                                "instruction": "Head west",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 4.2,
+                                "duration": 3.0,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    1,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 53.9,
+                                "duration": 38.8,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    2,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 155.7,
+                                "duration": 112.1,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    6,
+                                    11
+                                ]
+                            },
+                            {
+                                "distance": 22.7,
+                                "duration": 16.4,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    11,
+                                    13
+                                ]
+                            },
+                            {
+                                "distance": 45.3,
+                                "duration": 32.6,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    13,
+                                    15
+                                ]
+                            },
+                            {
+                                "distance": 146.7,
+                                "duration": 105.6,
+                                "type": 12,
+                                "instruction": "Keep left",
+                                "name": "-",
+                                "way_points": [
+                                    15,
+                                    22
+                                ]
+                            },
+                            {
+                                "distance": 3.4,
+                                "duration": 2.4,
+                                "type": 4,
+                                "instruction": "Turn slight left",
+                                "name": "-",
+                                "way_points": [
+                                    22,
+                                    23
+                                ]
+                            },
+                            {
+                                "distance": 118.8,
+                                "duration": 85.5,
+                                "type": 1,
+                                "instruction": "Turn right onto St. Edmunds Drive",
+                                "name": "St. Edmunds Drive",
+                                "way_points": [
+                                    23,
+                                    30
+                                ]
+                            },
+                            {
+                                "distance": 8.6,
+                                "duration": 6.2,
+                                "type": 1,
+                                "instruction": "Turn right onto St Edmund's Drive",
+                                "name": "St Edmund's Drive",
+                                "way_points": [
+                                    30,
+                                    31
+                                ]
+                            },
+                            {
+                                "distance": 5.7,
+                                "duration": 4.1,
+                                "type": 0,
+                                "instruction": "Turn left onto St. Edmund's to Weybourne Laneway",
+                                "name": "St. Edmund's to Weybourne Laneway",
+                                "way_points": [
+                                    31,
+                                    32
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at St. Edmund's to Weybourne Laneway, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    32,
+                                    32
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    32
+                ],
+                "summary": {
+                    "distance": 567.8,
+                    "duration": 408.8
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.403261,
+                        43.726225
+                    ],
+                    [
+                        -79.403295,
+                        43.726217
+                    ],
+                    [
+                        -79.40331,
+                        43.726253
+                    ],
+                    [
+                        -79.403134,
+                        43.726291
+                    ],
+                    [
+                        -79.403,
+                        43.72632
+                    ],
+                    [
+                        -79.402941,
+                        43.726303
+                    ],
+                    [
+                        -79.402667,
+                        43.726356
+                    ],
+                    [
+                        -79.402599,
+                        43.726091
+                    ],
+                    [
+                        -79.402361,
+                        43.725164
+                    ],
+                    [
+                        -79.40234,
+                        43.725091
+                    ],
+                    [
+                        -79.402326,
+                        43.725049
+                    ],
+                    [
+                        -79.402313,
+                        43.724979
+                    ],
+                    [
+                        -79.402165,
+                        43.725009
+                    ],
+                    [
+                        -79.402039,
+                        43.725031
+                    ],
+                    [
+                        -79.402013,
+                        43.724863
+                    ],
+                    [
+                        -79.401977,
+                        43.724626
+                    ],
+                    [
+                        -79.401649,
+                        43.7244
+                    ],
+                    [
+                        -79.401488,
+                        43.724337
+                    ],
+                    [
+                        -79.401147,
+                        43.724064
+                    ],
+                    [
+                        -79.401103,
+                        43.724012
+                    ],
+                    [
+                        -79.400951,
+                        43.723903
+                    ],
+                    [
+                        -79.400721,
+                        43.72377
+                    ],
+                    [
+                        -79.400639,
+                        43.723748
+                    ],
+                    [
+                        -79.400599,
+                        43.723757
+                    ],
+                    [
+                        -79.400587,
+                        43.723721
+                    ],
+                    [
+                        -79.400425,
+                        43.723368
+                    ],
+                    [
+                        -79.400366,
+                        43.723294
+                    ],
+                    [
+                        -79.400148,
+                        43.723136
+                    ],
+                    [
+                        -79.40012,
+                        43.7231
+                    ],
+                    [
+                        -79.400071,
+                        43.722961
+                    ],
+                    [
+                        -79.400061,
+                        43.722795
+                    ],
+                    [
+                        -79.400163,
+                        43.722773
+                    ],
+                    [
+                        -79.400143,
+                        43.722723
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079151163,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4032616,
+                    43.7262246
+                ],
+                [
+                    -79.4001431,
+                    43.7227231
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

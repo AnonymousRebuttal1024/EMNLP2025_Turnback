@@ -1,0 +1,6 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [8.9], "durations": [6.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [290.6], "durations": [209.2]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [216.3], "durations": [155.7]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [13.6], "durations": [9.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Dickens"], "end_streets": ["Dickens"], "distances": [82.7], "durations": [59.6]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Dickens"], "distances": [0.0], "durations": [0.0]}

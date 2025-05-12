@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [6.4], "durations": [4.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [13.9], "durations": [10.0]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [517.0], "durations": [372.3]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [155.5], "durations": [112.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [8.8], "durations": [6.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Overlea"], "end_streets": ["Overlea"], "distances": [264.5], "durations": [190.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Overlea"], "distances": [0.0], "durations": [0.0]}

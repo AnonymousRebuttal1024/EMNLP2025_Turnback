@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.403122,
+        43.652279,
+        -79.399848,
+        43.657248
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.403122,
+                43.652279,
+                -79.399848,
+                43.657248
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 697.6,
+                        "duration": 502.3,
+                        "steps": [
+                            {
+                                "distance": 14.6,
+                                "duration": 10.5,
+                                "type": 11,
+                                "instruction": "Head north",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 63.1,
+                                "duration": 45.4,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    1,
+                                    3
+                                ]
+                            },
+                            {
+                                "distance": 8.8,
+                                "duration": 6.3,
+                                "type": 1,
+                                "instruction": "Turn right onto Vanauley Walk",
+                                "name": "Vanauley Walk",
+                                "way_points": [
+                                    3,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 35.5,
+                                "duration": 25.5,
+                                "type": 0,
+                                "instruction": "Turn left onto Dundas Street West",
+                                "name": "Dundas Street West",
+                                "way_points": [
+                                    4,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 575.6,
+                                "duration": 414.5,
+                                "type": 1,
+                                "instruction": "Turn right onto Augusta Avenue",
+                                "name": "Augusta Avenue",
+                                "way_points": [
+                                    5,
+                                    21
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Augusta Avenue, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    21,
+                                    21
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    21
+                ],
+                "summary": {
+                    "distance": 697.6,
+                    "duration": 502.3
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.399848,
+                        43.652323
+                    ],
+                    [
+                        -79.399902,
+                        43.652448
+                    ],
+                    [
+                        -79.399991,
+                        43.65243
+                    ],
+                    [
+                        -79.400655,
+                        43.652292
+                    ],
+                    [
+                        -79.400691,
+                        43.652367
+                    ],
+                    [
+                        -79.401115,
+                        43.652279
+                    ],
+                    [
+                        -79.401143,
+                        43.652344
+                    ],
+                    [
+                        -79.401286,
+                        43.652706
+                    ],
+                    [
+                        -79.401417,
+                        43.65303
+                    ],
+                    [
+                        -79.401546,
+                        43.653363
+                    ],
+                    [
+                        -79.401756,
+                        43.653877
+                    ],
+                    [
+                        -79.401897,
+                        43.65422
+                    ],
+                    [
+                        -79.402014,
+                        43.654507
+                    ],
+                    [
+                        -79.40214,
+                        43.654825
+                    ],
+                    [
+                        -79.402289,
+                        43.65519
+                    ],
+                    [
+                        -79.402306,
+                        43.65523
+                    ],
+                    [
+                        -79.402325,
+                        43.655277
+                    ],
+                    [
+                        -79.402511,
+                        43.65574
+                    ],
+                    [
+                        -79.402638,
+                        43.656048
+                    ],
+                    [
+                        -79.402659,
+                        43.656099
+                    ],
+                    [
+                        -79.402676,
+                        43.656139
+                    ],
+                    [
+                        -79.403122,
+                        43.657248
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077184164,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3998482,
+                    43.6523225
+                ],
+                [
+                    -79.4031216,
+                    43.6572478
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

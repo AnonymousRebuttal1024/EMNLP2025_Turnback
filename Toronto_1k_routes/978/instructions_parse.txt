@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [3.9], "durations": [2.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Boston"], "end_streets": ["Boston"], "distances": [39.4], "durations": [28.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [1015.5], "durations": [731.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [43.2], "durations": [31.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [8.6], "durations": [6.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [24.3], "durations": [17.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [65.8], "durations": [47.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.8], "durations": [3.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Thompson"], "end_streets": ["Thompson"], "distances": [31.2], "durations": [22.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [23.7], "durations": [17.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

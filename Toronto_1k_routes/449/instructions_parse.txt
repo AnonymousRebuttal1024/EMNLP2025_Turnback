@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": ["Euclid", "Euclid"], "end_streets": [], "distances": [13.8], "durations": [9.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Oscar"], "end_streets": ["Oscar"], "distances": [4.1], "durations": [2.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [44.6], "durations": [32.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [925.2], "durations": [666.2]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": [], "end_streets": [], "distances": [116.2], "durations": [83.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [7.3], "durations": [5.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [9.8], "durations": [7.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": ["Mendelssohn", "Mendelssohn"], "end_streets": [], "distances": [160.4], "durations": [115.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [103.7], "durations": [74.7]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": [], "end_streets": [], "distances": [79.9], "durations": [57.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [93.9], "durations": [67.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [83.5], "durations": [60.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [70.8], "durations": [51.0]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

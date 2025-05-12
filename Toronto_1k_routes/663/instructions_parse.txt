@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [262.8], "durations": [189.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [48.5], "durations": [34.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Kinsdale"], "end_streets": ["Kinsdale"], "distances": [505.1], "durations": [363.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Park"], "end_streets": ["Park"], "distances": [61.6], "durations": [44.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Keywell"], "end_streets": ["Keywell"], "distances": [10.2], "durations": [7.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [53.7], "durations": [38.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [10.5], "durations": [7.6]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

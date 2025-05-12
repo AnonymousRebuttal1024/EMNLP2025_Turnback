@@ -1,0 +1,220 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.30849,
+        43.683974,
+        -79.304288,
+        43.687441
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.30849,
+                43.683974,
+                -79.304288,
+                43.687441
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 636.2,
+                        "duration": 458.1,
+                        "steps": [
+                            {
+                                "distance": 380.5,
+                                "duration": 273.9,
+                                "type": 11,
+                                "instruction": "Head northeast on Oakcrest Avenue",
+                                "name": "Oakcrest Avenue",
+                                "way_points": [
+                                    0,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 36.4,
+                                "duration": 26.2,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    4,
+                                    7
+                                ]
+                            },
+                            {
+                                "distance": 4.5,
+                                "duration": 3.3,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    7,
+                                    8
+                                ]
+                            },
+                            {
+                                "distance": 149.1,
+                                "duration": 107.3,
+                                "type": 0,
+                                "instruction": "Turn left onto Westlake Avenue",
+                                "name": "Westlake Avenue",
+                                "way_points": [
+                                    8,
+                                    13
+                                ]
+                            },
+                            {
+                                "distance": 52.1,
+                                "duration": 37.5,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    13,
+                                    17
+                                ]
+                            },
+                            {
+                                "distance": 13.6,
+                                "duration": 9.8,
+                                "type": 4,
+                                "instruction": "Turn slight left",
+                                "name": "-",
+                                "way_points": [
+                                    17,
+                                    18
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at your destination, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    18,
+                                    18
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    18
+                ],
+                "summary": {
+                    "distance": 636.2,
+                    "duration": 458.1
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.30849,
+                        43.683974
+                    ],
+                    [
+                        -79.307638,
+                        43.684266
+                    ],
+                    [
+                        -79.306781,
+                        43.684569
+                    ],
+                    [
+                        -79.305917,
+                        43.684886
+                    ],
+                    [
+                        -79.304293,
+                        43.685551
+                    ],
+                    [
+                        -79.304313,
+                        43.685595
+                    ],
+                    [
+                        -79.304297,
+                        43.685636
+                    ],
+                    [
+                        -79.30439,
+                        43.685864
+                    ],
+                    [
+                        -79.304336,
+                        43.685876
+                    ],
+                    [
+                        -79.30435,
+                        43.68591
+                    ],
+                    [
+                        -79.304544,
+                        43.686368
+                    ],
+                    [
+                        -79.304568,
+                        43.686422
+                    ],
+                    [
+                        -79.304591,
+                        43.686478
+                    ],
+                    [
+                        -79.30487,
+                        43.68716
+                    ],
+                    [
+                        -79.304821,
+                        43.687171
+                    ],
+                    [
+                        -79.304752,
+                        43.687186
+                    ],
+                    [
+                        -79.304339,
+                        43.687261
+                    ],
+                    [
+                        -79.304288,
+                        43.687322
+                    ],
+                    [
+                        -79.304326,
+                        43.687441
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079127140,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3084897,
+                    43.6839744
+                ],
+                [
+                    -79.3043259,
+                    43.6874414
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

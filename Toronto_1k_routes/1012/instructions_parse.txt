@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [114.1], "durations": [82.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [60.3], "durations": [43.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Kilgour"], "end_streets": ["Kilgour"], "distances": [80.5], "durations": [58.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [9.8], "durations": [7.1]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [51.7], "durations": [37.2]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [253.2], "durations": [182.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [87.3], "durations": [62.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [5.7], "durations": [4.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Broadway"], "end_streets": ["Broadway"], "distances": [17.4], "durations": [12.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [321.5], "durations": [231.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.1], "durations": [4.4]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [141.0], "durations": [101.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

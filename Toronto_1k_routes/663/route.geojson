@@ -1,0 +1,259 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.493012,
+        43.634204,
+        -79.487269,
+        43.639655
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.493012,
+                43.634204,
+                -79.487269,
+                43.639655
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 952.4,
+                        "duration": 685.7,
+                        "steps": [
+                            {
+                                "distance": 262.8,
+                                "duration": 189.2,
+                                "type": 11,
+                                "instruction": "Head south",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    7
+                                ]
+                            },
+                            {
+                                "distance": 48.5,
+                                "duration": 34.9,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    7,
+                                    10
+                                ]
+                            },
+                            {
+                                "distance": 505.1,
+                                "duration": 363.7,
+                                "type": 0,
+                                "instruction": "Turn left onto Kinsdale Boulevard",
+                                "name": "Kinsdale Boulevard",
+                                "way_points": [
+                                    10,
+                                    21
+                                ]
+                            },
+                            {
+                                "distance": 61.6,
+                                "duration": 44.3,
+                                "type": 0,
+                                "instruction": "Turn left onto Park Lawn Road",
+                                "name": "Park Lawn Road",
+                                "way_points": [
+                                    21,
+                                    22
+                                ]
+                            },
+                            {
+                                "distance": 10.2,
+                                "duration": 7.3,
+                                "type": 1,
+                                "instruction": "Turn right onto Keywell Court",
+                                "name": "Keywell Court",
+                                "way_points": [
+                                    22,
+                                    23
+                                ]
+                            },
+                            {
+                                "distance": 53.7,
+                                "duration": 38.7,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    23,
+                                    24
+                                ]
+                            },
+                            {
+                                "distance": 10.5,
+                                "duration": 7.6,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    24,
+                                    25
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at your destination, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    25,
+                                    25
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    25
+                ],
+                "summary": {
+                    "distance": 952.4,
+                    "duration": 685.7
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.488261,
+                        43.639655
+                    ],
+                    [
+                        -79.488185,
+                        43.639484
+                    ],
+                    [
+                        -79.487633,
+                        43.638234
+                    ],
+                    [
+                        -79.487548,
+                        43.638043
+                    ],
+                    [
+                        -79.48741,
+                        43.637731
+                    ],
+                    [
+                        -79.487347,
+                        43.637588
+                    ],
+                    [
+                        -79.487305,
+                        43.637493
+                    ],
+                    [
+                        -79.487269,
+                        43.637404
+                    ],
+                    [
+                        -79.487305,
+                        43.637381
+                    ],
+                    [
+                        -79.487772,
+                        43.637283
+                    ],
+                    [
+                        -79.487839,
+                        43.637269
+                    ],
+                    [
+                        -79.487789,
+                        43.637101
+                    ],
+                    [
+                        -79.487806,
+                        43.63696
+                    ],
+                    [
+                        -79.487849,
+                        43.636889
+                    ],
+                    [
+                        -79.488001,
+                        43.636756
+                    ],
+                    [
+                        -79.48824,
+                        43.636606
+                    ],
+                    [
+                        -79.488799,
+                        43.63633
+                    ],
+                    [
+                        -79.489278,
+                        43.636106
+                    ],
+                    [
+                        -79.48957,
+                        43.635993
+                    ],
+                    [
+                        -79.490318,
+                        43.635814
+                    ],
+                    [
+                        -79.49243,
+                        43.635351
+                    ],
+                    [
+                        -79.493012,
+                        43.635223
+                    ],
+                    [
+                        -79.492786,
+                        43.634693
+                    ],
+                    [
+                        -79.492906,
+                        43.634667
+                    ],
+                    [
+                        -79.492713,
+                        43.634204
+                    ],
+                    [
+                        -79.492588,
+                        43.634231
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731078628293,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4882608,
+                    43.6396553
+                ],
+                [
+                    -79.4925879,
+                    43.6342312
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

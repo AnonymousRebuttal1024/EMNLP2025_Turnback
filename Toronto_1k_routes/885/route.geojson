@@ -1,0 +1,248 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.347649,
+        43.638938,
+        -79.341707,
+        43.641274
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.347649,
+                43.638938,
+                -79.341707,
+                43.641274
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 655.5,
+                        "duration": 471.9,
+                        "steps": [
+                            {
+                                "distance": 9.4,
+                                "duration": 6.8,
+                                "type": 11,
+                                "instruction": "Head southeast",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 87.5,
+                                "duration": 63.0,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    1,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 395.0,
+                                "duration": 284.4,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    6,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 20.8,
+                                "duration": 15.0,
+                                "type": 1,
+                                "instruction": "Turn right onto Martin Goodman Trail",
+                                "name": "Martin Goodman Trail",
+                                "way_points": [
+                                    19,
+                                    21
+                                ]
+                            },
+                            {
+                                "distance": 11.9,
+                                "duration": 8.6,
+                                "type": 0,
+                                "instruction": "Turn left onto Unwin Avenue",
+                                "name": "Unwin Avenue",
+                                "way_points": [
+                                    21,
+                                    22
+                                ]
+                            },
+                            {
+                                "distance": 130.8,
+                                "duration": 94.2,
+                                "type": 1,
+                                "instruction": "Turn right onto Cherry Street",
+                                "name": "Cherry Street",
+                                "way_points": [
+                                    22,
+                                    25
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Cherry Street, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    25,
+                                    25
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    25
+                ],
+                "summary": {
+                    "distance": 655.5,
+                    "duration": 471.9
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.341782,
+                        43.641274
+                    ],
+                    [
+                        -79.341707,
+                        43.641209
+                    ],
+                    [
+                        -79.34183,
+                        43.641076
+                    ],
+                    [
+                        -79.341997,
+                        43.640948
+                    ],
+                    [
+                        -79.342139,
+                        43.640881
+                    ],
+                    [
+                        -79.342367,
+                        43.640819
+                    ],
+                    [
+                        -79.342576,
+                        43.640802
+                    ],
+                    [
+                        -79.342679,
+                        43.640864
+                    ],
+                    [
+                        -79.342833,
+                        43.640917
+                    ],
+                    [
+                        -79.343018,
+                        43.640892
+                    ],
+                    [
+                        -79.34307,
+                        43.640872
+                    ],
+                    [
+                        -79.343119,
+                        43.640841
+                    ],
+                    [
+                        -79.343168,
+                        43.640749
+                    ],
+                    [
+                        -79.343173,
+                        43.640662
+                    ],
+                    [
+                        -79.34325,
+                        43.640589
+                    ],
+                    [
+                        -79.344115,
+                        43.640139
+                    ],
+                    [
+                        -79.344394,
+                        43.639947
+                    ],
+                    [
+                        -79.34513,
+                        43.639565
+                    ],
+                    [
+                        -79.345791,
+                        43.639327
+                    ],
+                    [
+                        -79.346403,
+                        43.638938
+                    ],
+                    [
+                        -79.346462,
+                        43.639007
+                    ],
+                    [
+                        -79.346532,
+                        43.6391
+                    ],
+                    [
+                        -79.346658,
+                        43.639043
+                    ],
+                    [
+                        -79.34712,
+                        43.639477
+                    ],
+                    [
+                        -79.347592,
+                        43.639922
+                    ],
+                    [
+                        -79.347649,
+                        43.639975
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079142149,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3417817,
+                    43.6412741
+                ],
+                [
+                    -79.3476493,
+                    43.6399754
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

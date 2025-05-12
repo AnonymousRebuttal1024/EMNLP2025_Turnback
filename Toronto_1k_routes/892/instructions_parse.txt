@@ -1,0 +1,5 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [37.0], "durations": [26.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [364.5], "durations": [262.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Lauder"], "end_streets": ["Lauder"], "distances": [225.7], "durations": [162.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Genessee"], "end_streets": ["Genessee"], "distances": [94.9], "durations": [68.3]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Genessee"], "distances": [0.0], "durations": [0.0]}

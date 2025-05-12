@@ -1,0 +1,206 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.463637,
+        43.675086,
+        -79.460446,
+        43.683972
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.463637,
+                43.675086,
+                -79.460446,
+                43.683972
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1033.8,
+                        "duration": 744.3,
+                        "steps": [
+                            {
+                                "distance": 68.5,
+                                "duration": 49.3,
+                                "type": 11,
+                                "instruction": "Head north",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    3
+                                ]
+                            },
+                            {
+                                "distance": 4.7,
+                                "duration": 3.4,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    3,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 924.5,
+                                "duration": 665.6,
+                                "type": 0,
+                                "instruction": "Turn left onto Silverthorn Avenue",
+                                "name": "Silverthorn Avenue",
+                                "way_points": [
+                                    4,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 36.2,
+                                "duration": 26.1,
+                                "type": 13,
+                                "instruction": "Keep right onto Kenora Crescent",
+                                "name": "Kenora Crescent",
+                                "way_points": [
+                                    19,
+                                    20
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Kenora Crescent, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    20,
+                                    20
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    20
+                ],
+                "summary": {
+                    "distance": 1033.8,
+                    "duration": 744.3
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.460448,
+                        43.675086
+                    ],
+                    [
+                        -79.460446,
+                        43.675121
+                    ],
+                    [
+                        -79.460622,
+                        43.675548
+                    ],
+                    [
+                        -79.460675,
+                        43.675677
+                    ],
+                    [
+                        -79.460617,
+                        43.675681
+                    ],
+                    [
+                        -79.460908,
+                        43.676381
+                    ],
+                    [
+                        -79.461132,
+                        43.676965
+                    ],
+                    [
+                        -79.461149,
+                        43.677083
+                    ],
+                    [
+                        -79.46108,
+                        43.67721
+                    ],
+                    [
+                        -79.461031,
+                        43.677284
+                    ],
+                    [
+                        -79.461038,
+                        43.677431
+                    ],
+                    [
+                        -79.461741,
+                        43.679099
+                    ],
+                    [
+                        -79.461769,
+                        43.679173
+                    ],
+                    [
+                        -79.46251,
+                        43.680909
+                    ],
+                    [
+                        -79.462534,
+                        43.680966
+                    ],
+                    [
+                        -79.462561,
+                        43.681029
+                    ],
+                    [
+                        -79.463259,
+                        43.682716
+                    ],
+                    [
+                        -79.463289,
+                        43.682789
+                    ],
+                    [
+                        -79.463323,
+                        43.682875
+                    ],
+                    [
+                        -79.463636,
+                        43.683646
+                    ],
+                    [
+                        -79.463637,
+                        43.683972
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077921938,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4604479,
+                    43.6750855
+                ],
+                [
+                    -79.463637,
+                    43.6839717
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

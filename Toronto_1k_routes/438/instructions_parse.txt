@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["northeast"], "start_streets": [], "end_streets": [], "distances": [11.1], "durations": [8.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [711.2], "durations": [512.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [27.6], "durations": [19.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [132.4], "durations": [95.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [121.0], "durations": [87.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Silver"], "end_streets": ["Silver"], "distances": [103.8], "durations": [74.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Annie"], "end_streets": ["Annie"], "distances": [91.2], "durations": [65.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [12.9], "durations": [9.3]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [29.4], "durations": [21.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

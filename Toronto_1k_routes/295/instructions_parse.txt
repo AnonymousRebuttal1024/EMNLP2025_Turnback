@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": ["Kane", "Kane"], "end_streets": [], "distances": [844.2], "durations": [607.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [269.6], "durations": [194.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [17.7], "durations": [12.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [563.7], "durations": [405.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [24.9], "durations": [17.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [72.6], "durations": [52.3]},
+{"actions": ["Turn", "continue"], "directions": ["left", "West", "West"], "start_streets": ["St"], "end_streets": ["St"], "distances": [9.1], "durations": [6.6]},
+{"actions": ["Turn", "continue"], "directions": ["right", "West", "West"], "start_streets": ["St"], "end_streets": ["St"], "distances": [73.4], "durations": [52.9]},
+{"actions": ["Arrive", "continue"], "directions": ["West"], "start_streets": [], "end_streets": ["St"], "distances": [0.0], "durations": [0.0]}

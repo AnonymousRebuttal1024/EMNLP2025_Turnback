@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [207.7], "durations": [149.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Don"], "end_streets": ["Don"], "distances": [5.4], "durations": [3.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Broadway"], "end_streets": ["Broadway"], "distances": [85.8], "durations": [61.8]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": ["Brentcliffe"], "end_streets": ["Brentcliffe"], "distances": [365.9], "durations": [263.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [13.6], "durations": [9.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [206.8], "durations": [148.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [17.7], "durations": [12.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

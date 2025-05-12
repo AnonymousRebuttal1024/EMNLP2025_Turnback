@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [816.7], "durations": [588.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [3.1], "durations": [2.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [35.5], "durations": [25.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [526.5], "durations": [379.1]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [163.0], "durations": [117.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Craigton"], "end_streets": ["Craigton"], "distances": [102.5], "durations": [73.8]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Craigton"], "distances": [0.0], "durations": [0.0]}

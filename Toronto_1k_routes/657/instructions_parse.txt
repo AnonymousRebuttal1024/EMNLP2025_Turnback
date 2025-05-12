@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Ardagh", "Ardagh"], "end_streets": [], "distances": [588.0], "durations": [423.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Runnymede"], "end_streets": ["Runnymede"], "distances": [40.3], "durations": [29.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Woodside"], "end_streets": ["Woodside"], "distances": [413.4], "durations": [297.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [62.4], "durations": [44.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [12.6], "durations": [9.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [7.6], "durations": [5.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

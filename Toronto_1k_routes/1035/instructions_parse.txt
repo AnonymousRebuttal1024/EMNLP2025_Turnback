@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [5.7], "durations": [4.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Parkhurst"], "end_streets": ["Parkhurst"], "distances": [89.8], "durations": [64.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Randolph"], "end_streets": ["Randolph"], "distances": [4.3], "durations": [3.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [713.2], "durations": [513.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [324.3], "durations": [233.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [17.1], "durations": [12.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [196.0], "durations": [141.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [86.2], "durations": [62.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

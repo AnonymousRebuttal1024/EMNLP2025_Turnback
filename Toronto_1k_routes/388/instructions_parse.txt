@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [78.1], "durations": [56.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [76.3], "durations": [55.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [114.8], "durations": [82.6]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [12.7], "durations": [9.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [591.8], "durations": [426.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [38.4], "durations": [27.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [31.3], "durations": [22.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [17.3], "durations": [12.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Fairfax"], "end_streets": ["Fairfax"], "distances": [271.3], "durations": [195.3]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Fairfax"], "distances": [0.0], "durations": [0.0]}

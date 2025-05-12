@@ -1,0 +1,264 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.337578,
+        43.658814,
+        -79.331136,
+        43.662983
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.337578,
+                43.658814,
+                -79.331136,
+                43.662983
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 873.6,
+                        "duration": 629.0,
+                        "steps": [
+                            {
+                                "distance": 542.4,
+                                "duration": 390.6,
+                                "type": 11,
+                                "instruction": "Head west",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 163.6,
+                                "duration": 117.8,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    19,
+                                    22
+                                ]
+                            },
+                            {
+                                "distance": 7.1,
+                                "duration": 5.1,
+                                "type": 1,
+                                "instruction": "Turn right onto Renwick Crescent",
+                                "name": "Renwick Crescent",
+                                "way_points": [
+                                    22,
+                                    23
+                                ]
+                            },
+                            {
+                                "distance": 139.4,
+                                "duration": 100.3,
+                                "type": 0,
+                                "instruction": "Turn left onto Pape Avenue",
+                                "name": "Pape Avenue",
+                                "way_points": [
+                                    23,
+                                    27
+                                ]
+                            },
+                            {
+                                "distance": 14.4,
+                                "duration": 10.4,
+                                "type": 1,
+                                "instruction": "Turn right onto Eastern Avenue",
+                                "name": "Eastern Avenue",
+                                "way_points": [
+                                    27,
+                                    28
+                                ]
+                            },
+                            {
+                                "distance": 6.6,
+                                "duration": 4.8,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    28,
+                                    29
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at your destination, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    29,
+                                    29
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    29
+                ],
+                "summary": {
+                    "distance": 873.6,
+                    "duration": 629.0
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.331136,
+                        43.662983
+                    ],
+                    [
+                        -79.331456,
+                        43.662905
+                    ],
+                    [
+                        -79.332146,
+                        43.662753
+                    ],
+                    [
+                        -79.332239,
+                        43.662733
+                    ],
+                    [
+                        -79.332343,
+                        43.66271
+                    ],
+                    [
+                        -79.33268,
+                        43.662636
+                    ],
+                    [
+                        -79.332885,
+                        43.662591
+                    ],
+                    [
+                        -79.333161,
+                        43.66253
+                    ],
+                    [
+                        -79.333258,
+                        43.662509
+                    ],
+                    [
+                        -79.33336,
+                        43.662485
+                    ],
+                    [
+                        -79.334198,
+                        43.662292
+                    ],
+                    [
+                        -79.334273,
+                        43.662276
+                    ],
+                    [
+                        -79.334376,
+                        43.662253
+                    ],
+                    [
+                        -79.335208,
+                        43.662072
+                    ],
+                    [
+                        -79.335296,
+                        43.662053
+                    ],
+                    [
+                        -79.335371,
+                        43.662035
+                    ],
+                    [
+                        -79.3362,
+                        43.661849
+                    ],
+                    [
+                        -79.336263,
+                        43.661835
+                    ],
+                    [
+                        -79.336341,
+                        43.661818
+                    ],
+                    [
+                        -79.337578,
+                        43.661541
+                    ],
+                    [
+                        -79.33736,
+                        43.660984
+                    ],
+                    [
+                        -79.337184,
+                        43.660562
+                    ],
+                    [
+                        -79.337003,
+                        43.66013
+                    ],
+                    [
+                        -79.337089,
+                        43.660112
+                    ],
+                    [
+                        -79.336855,
+                        43.659533
+                    ],
+                    [
+                        -79.336748,
+                        43.659271
+                    ],
+                    [
+                        -79.336631,
+                        43.658987
+                    ],
+                    [
+                        -79.336602,
+                        43.658909
+                    ],
+                    [
+                        -79.336773,
+                        43.658871
+                    ],
+                    [
+                        -79.336748,
+                        43.658814
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731078073696,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3311359,
+                    43.6629825
+                ],
+                [
+                    -79.3367478,
+                    43.6588142
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

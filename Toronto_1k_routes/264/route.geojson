@@ -1,0 +1,148 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.415782,
+        43.722303,
+        -79.405602,
+        43.72445
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.415782,
+                43.722303,
+                -79.405602,
+                43.72445
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 859.3,
+                        "duration": 618.7,
+                        "steps": [
+                            {
+                                "distance": 849.6,
+                                "duration": 611.7,
+                                "type": 11,
+                                "instruction": "Head east",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    10
+                                ]
+                            },
+                            {
+                                "distance": 9.7,
+                                "duration": 7.0,
+                                "type": 1,
+                                "instruction": "Turn right onto Jedburgh Road",
+                                "name": "Jedburgh Road",
+                                "way_points": [
+                                    10,
+                                    11
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Jedburgh Road, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    11,
+                                    11
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    11
+                ],
+                "summary": {
+                    "distance": 859.3,
+                    "duration": 618.7
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.415782,
+                        43.722303
+                    ],
+                    [
+                        -79.415713,
+                        43.722317
+                    ],
+                    [
+                        -79.415564,
+                        43.722348
+                    ],
+                    [
+                        -79.415447,
+                        43.722371
+                    ],
+                    [
+                        -79.413252,
+                        43.722858
+                    ],
+                    [
+                        -79.412125,
+                        43.723102
+                    ],
+                    [
+                        -79.41142,
+                        43.723249
+                    ],
+                    [
+                        -79.411074,
+                        43.723322
+                    ],
+                    [
+                        -79.408764,
+                        43.723802
+                    ],
+                    [
+                        -79.405695,
+                        43.724438
+                    ],
+                    [
+                        -79.405636,
+                        43.72445
+                    ],
+                    [
+                        -79.405602,
+                        43.724366
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077547673,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4157818,
+                    43.7223033
+                ],
+                [
+                    -79.4056017,
+                    43.7243662
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

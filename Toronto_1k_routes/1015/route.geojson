@@ -1,0 +1,485 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.455888,
+        43.691981,
+        -79.43769,
+        43.695603
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.455888,
+                43.691981,
+                -79.43769,
+                43.695603
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1955.2,
+                        "duration": 1407.7,
+                        "steps": [
+                            {
+                                "distance": 36.6,
+                                "duration": 26.3,
+                                "type": 11,
+                                "instruction": "Head south on Winona Drive",
+                                "name": "Winona Drive",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 99.6,
+                                "duration": 71.7,
+                                "type": 1,
+                                "instruction": "Turn right onto Bude Street",
+                                "name": "Bude Street",
+                                "way_points": [
+                                    1,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 26.0,
+                                "duration": 18.7,
+                                "type": 1,
+                                "instruction": "Turn right onto Alameda Avenue",
+                                "name": "Alameda Avenue",
+                                "way_points": [
+                                    2,
+                                    3
+                                ]
+                            },
+                            {
+                                "distance": 373.4,
+                                "duration": 268.9,
+                                "type": 0,
+                                "instruction": "Turn left onto Bude Street",
+                                "name": "Bude Street",
+                                "way_points": [
+                                    3,
+                                    10
+                                ]
+                            },
+                            {
+                                "distance": 108.7,
+                                "duration": 78.3,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    10,
+                                    13
+                                ]
+                            },
+                            {
+                                "distance": 14.4,
+                                "duration": 10.3,
+                                "type": 12,
+                                "instruction": "Keep left",
+                                "name": "-",
+                                "way_points": [
+                                    13,
+                                    16
+                                ]
+                            },
+                            {
+                                "distance": 6.4,
+                                "duration": 4.6,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    16,
+                                    17
+                                ]
+                            },
+                            {
+                                "distance": 472.1,
+                                "duration": 339.9,
+                                "type": 1,
+                                "instruction": "Turn right onto Vaughan Road",
+                                "name": "Vaughan Road",
+                                "way_points": [
+                                    17,
+                                    28
+                                ]
+                            },
+                            {
+                                "distance": 38.9,
+                                "duration": 28.0,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    28,
+                                    30
+                                ]
+                            },
+                            {
+                                "distance": 162.4,
+                                "duration": 117.0,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    30,
+                                    36
+                                ]
+                            },
+                            {
+                                "distance": 38.1,
+                                "duration": 27.5,
+                                "type": 0,
+                                "instruction": "Turn left onto Kirknewton Road",
+                                "name": "Kirknewton Road",
+                                "way_points": [
+                                    36,
+                                    37
+                                ]
+                            },
+                            {
+                                "distance": 101.0,
+                                "duration": 72.7,
+                                "type": 1,
+                                "instruction": "Turn right onto Lane South Eglington East Ennerdale",
+                                "name": "Lane South Eglington East Ennerdale",
+                                "way_points": [
+                                    37,
+                                    42
+                                ]
+                            },
+                            {
+                                "distance": 44.9,
+                                "duration": 32.4,
+                                "type": 0,
+                                "instruction": "Turn left onto Ennerdale Road",
+                                "name": "Ennerdale Road",
+                                "way_points": [
+                                    42,
+                                    43
+                                ]
+                            },
+                            {
+                                "distance": 160.8,
+                                "duration": 115.8,
+                                "type": 1,
+                                "instruction": "Turn right onto Branstone Road",
+                                "name": "Branstone Road",
+                                "way_points": [
+                                    43,
+                                    50
+                                ]
+                            },
+                            {
+                                "distance": 95.0,
+                                "duration": 68.4,
+                                "type": 1,
+                                "instruction": "Turn right onto Thornton Avenue",
+                                "name": "Thornton Avenue",
+                                "way_points": [
+                                    50,
+                                    51
+                                ]
+                            },
+                            {
+                                "distance": 96.1,
+                                "duration": 69.2,
+                                "type": 0,
+                                "instruction": "Turn left onto Nairn Avenue",
+                                "name": "Nairn Avenue",
+                                "way_points": [
+                                    51,
+                                    52
+                                ]
+                            },
+                            {
+                                "distance": 80.9,
+                                "duration": 58.2,
+                                "type": 1,
+                                "instruction": "Turn right onto Carrington Avenue",
+                                "name": "Carrington Avenue",
+                                "way_points": [
+                                    52,
+                                    54
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Carrington Avenue, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    54,
+                                    54
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    54
+                ],
+                "summary": {
+                    "distance": 1955.2,
+                    "duration": 1407.7
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.437819,
+                        43.695088
+                    ],
+                    [
+                        -79.43769,
+                        43.694773
+                    ],
+                    [
+                        -79.43888,
+                        43.694524
+                    ],
+                    [
+                        -79.438973,
+                        43.694748
+                    ],
+                    [
+                        -79.441128,
+                        43.69427
+                    ],
+                    [
+                        -79.441383,
+                        43.694209
+                    ],
+                    [
+                        -79.441485,
+                        43.694186
+                    ],
+                    [
+                        -79.441585,
+                        43.694163
+                    ],
+                    [
+                        -79.443076,
+                        43.69383
+                    ],
+                    [
+                        -79.443133,
+                        43.693793
+                    ],
+                    [
+                        -79.44324,
+                        43.693611
+                    ],
+                    [
+                        -79.443301,
+                        43.693631
+                    ],
+                    [
+                        -79.444448,
+                        43.693974
+                    ],
+                    [
+                        -79.444476,
+                        43.693999
+                    ],
+                    [
+                        -79.444544,
+                        43.694022
+                    ],
+                    [
+                        -79.444598,
+                        43.694041
+                    ],
+                    [
+                        -79.444641,
+                        43.694034
+                    ],
+                    [
+                        -79.444671,
+                        43.693981
+                    ],
+                    [
+                        -79.445469,
+                        43.694207
+                    ],
+                    [
+                        -79.445698,
+                        43.694279
+                    ],
+                    [
+                        -79.44595,
+                        43.694355
+                    ],
+                    [
+                        -79.447105,
+                        43.694691
+                    ],
+                    [
+                        -79.448149,
+                        43.694997
+                    ],
+                    [
+                        -79.449221,
+                        43.695312
+                    ],
+                    [
+                        -79.449549,
+                        43.695388
+                    ],
+                    [
+                        -79.449775,
+                        43.695378
+                    ],
+                    [
+                        -79.449979,
+                        43.695338
+                    ],
+                    [
+                        -79.450063,
+                        43.695309
+                    ],
+                    [
+                        -79.450148,
+                        43.695292
+                    ],
+                    [
+                        -79.450274,
+                        43.695551
+                    ],
+                    [
+                        -79.450348,
+                        43.695603
+                    ],
+                    [
+                        -79.450409,
+                        43.695591
+                    ],
+                    [
+                        -79.451078,
+                        43.695442
+                    ],
+                    [
+                        -79.451155,
+                        43.695425
+                    ],
+                    [
+                        -79.451248,
+                        43.695403
+                    ],
+                    [
+                        -79.452187,
+                        43.69519
+                    ],
+                    [
+                        -79.452277,
+                        43.69517
+                    ],
+                    [
+                        -79.45214,
+                        43.694841
+                    ],
+                    [
+                        -79.452195,
+                        43.694829
+                    ],
+                    [
+                        -79.452742,
+                        43.694704
+                    ],
+                    [
+                        -79.452877,
+                        43.69463
+                    ],
+                    [
+                        -79.453239,
+                        43.694539
+                    ],
+                    [
+                        -79.453307,
+                        43.694522
+                    ],
+                    [
+                        -79.453133,
+                        43.694138
+                    ],
+                    [
+                        -79.45319,
+                        43.694126
+                    ],
+                    [
+                        -79.454112,
+                        43.693923
+                    ],
+                    [
+                        -79.454221,
+                        43.693884
+                    ],
+                    [
+                        -79.454292,
+                        43.693811
+                    ],
+                    [
+                        -79.454292,
+                        43.693775
+                    ],
+                    [
+                        -79.45429,
+                        43.693714
+                    ],
+                    [
+                        -79.454146,
+                        43.693295
+                    ],
+                    [
+                        -79.455268,
+                        43.693029
+                    ],
+                    [
+                        -79.45493,
+                        43.6922
+                    ],
+                    [
+                        -79.455155,
+                        43.692149
+                    ],
+                    [
+                        -79.455888,
+                        43.691981
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079457658,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4378189,
+                    43.6950884
+                ],
+                [
+                    -79.4558884,
+                    43.6919805
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

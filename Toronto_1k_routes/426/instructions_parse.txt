@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": ["Gledhill", "Gledhill"], "end_streets": [], "distances": [9.1], "durations": [6.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [199.5], "durations": [143.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [65.9], "durations": [47.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Carruthers"], "end_streets": ["Carruthers"], "distances": [4.4], "durations": [3.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Cedarvale"], "end_streets": ["Cedarvale"], "distances": [110.8], "durations": [79.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [81.5], "durations": [58.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [4.5], "durations": [3.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Sammon"], "end_streets": ["Sammon"], "distances": [81.7], "durations": [58.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.0], "durations": [4.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [67.7], "durations": [48.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [188.4], "durations": [135.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [8.1], "durations": [5.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

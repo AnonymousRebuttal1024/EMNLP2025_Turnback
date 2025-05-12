@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [38.0], "durations": [27.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Braga"], "end_streets": ["Braga"], "distances": [40.2], "durations": [28.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Sagres"], "end_streets": ["Sagres"], "distances": [87.9], "durations": [63.3]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": [], "end_streets": [], "distances": [109.3], "durations": [78.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [943.8], "durations": [679.5]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [66.1], "durations": [47.6]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [17.4], "durations": [12.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

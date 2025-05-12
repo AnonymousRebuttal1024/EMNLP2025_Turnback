@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [120.9], "durations": [87.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [62.2], "durations": [44.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.4], "durations": [3.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Harvie"], "end_streets": ["Harvie"], "distances": [258.6], "durations": [186.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Hatherley"], "end_streets": ["Hatherley"], "distances": [31.9], "durations": [23.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Harvie"], "end_streets": ["Harvie"], "distances": [507.1], "durations": [365.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Harvie"], "end_streets": ["Harvie"], "distances": [413.5], "durations": [297.7]},
+{"actions": ["Turn", "continue"], "directions": ["left", "West", "West"], "start_streets": ["Eglinton"], "end_streets": ["Eglinton"], "distances": [15.7], "durations": [11.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Ronald"], "end_streets": ["Ronald"], "distances": [9.1], "durations": [6.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [8.2], "durations": [5.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

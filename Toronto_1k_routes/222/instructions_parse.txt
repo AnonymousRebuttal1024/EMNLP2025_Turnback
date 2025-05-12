@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["southwest"], "start_streets": ["Humewood", "Humewood"], "end_streets": [], "distances": [76.1], "durations": [54.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Humewood"], "end_streets": ["Humewood"], "distances": [124.1], "durations": [89.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Rushton"], "end_streets": ["Rushton"], "distances": [147.7], "durations": [106.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Charlie"], "end_streets": ["Charlie"], "distances": [98.3], "durations": [70.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Arlington"], "end_streets": ["Arlington"], "distances": [32.1], "durations": [23.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [297.9], "durations": [214.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [19.9], "durations": [14.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [506.7], "durations": [364.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Glenholme"], "end_streets": ["Glenholme"], "distances": [31.7], "durations": [22.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [372.3], "durations": [268.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [73.2], "durations": [52.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [212.3], "durations": [152.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

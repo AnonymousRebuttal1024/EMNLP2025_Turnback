@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["southwest"], "start_streets": [], "end_streets": [], "distances": [402.0], "durations": [289.4]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [38.0], "durations": [27.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [534.0], "durations": [384.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [6.6], "durations": [4.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [98.0], "durations": [70.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Flamborough"], "end_streets": ["Flamborough"], "distances": [688.5], "durations": [495.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [114.7], "durations": [82.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Pilgrim"], "end_streets": ["Pilgrim"], "distances": [8.0], "durations": [5.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Pilgrim"], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [8.6], "durations": [6.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [23.1], "durations": [16.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Gore"], "end_streets": ["Gore"], "distances": [84.3], "durations": [60.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Clinton"], "end_streets": ["Clinton"], "distances": [49.4], "durations": [35.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [5.9], "durations": [4.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [17.6], "durations": [12.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [500.5], "durations": [360.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [1.0], "durations": [0.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [18.8], "durations": [13.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [1.6], "durations": [1.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [146.7], "durations": [105.6]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,304 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.381671,
+        43.654174,
+        -79.375825,
+        43.655292
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.381671,
+                43.654174,
+                -79.375825,
+                43.655292
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 628.9,
+                        "duration": 452.8,
+                        "steps": [
+                            {
+                                "distance": 145.4,
+                                "duration": 104.7,
+                                "type": 11,
+                                "instruction": "Head west",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    8
+                                ]
+                            },
+                            {
+                                "distance": 196.2,
+                                "duration": 141.3,
+                                "type": 12,
+                                "instruction": "Keep left",
+                                "name": "-",
+                                "way_points": [
+                                    8,
+                                    17
+                                ]
+                            },
+                            {
+                                "distance": 71.0,
+                                "duration": 51.1,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    17,
+                                    18
+                                ]
+                            },
+                            {
+                                "distance": 66.6,
+                                "duration": 47.9,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    18,
+                                    22
+                                ]
+                            },
+                            {
+                                "distance": 6.9,
+                                "duration": 5.0,
+                                "type": 0,
+                                "instruction": "Turn left onto Escalator from Eaton Centre level 2 to 3",
+                                "name": "Escalator from Eaton Centre level 2 to 3",
+                                "way_points": [
+                                    22,
+                                    23
+                                ]
+                            },
+                            {
+                                "distance": 7.1,
+                                "duration": 5.1,
+                                "type": 3,
+                                "instruction": "Turn sharp right onto Eaton Centre level 2",
+                                "name": "Eaton Centre level 2",
+                                "way_points": [
+                                    23,
+                                    24
+                                ]
+                            },
+                            {
+                                "distance": 7.7,
+                                "duration": 5.5,
+                                "type": 2,
+                                "instruction": "Turn sharp left onto Escalator from Eaton Centre level 1 to 2",
+                                "name": "Escalator from Eaton Centre level 1 to 2",
+                                "way_points": [
+                                    24,
+                                    25
+                                ]
+                            },
+                            {
+                                "distance": 8.3,
+                                "duration": 6.0,
+                                "type": 3,
+                                "instruction": "Turn sharp right onto Eaton Centre level 1",
+                                "name": "Eaton Centre level 1",
+                                "way_points": [
+                                    25,
+                                    26
+                                ]
+                            },
+                            {
+                                "distance": 74.2,
+                                "duration": 53.4,
+                                "type": 6,
+                                "instruction": "Continue straight onto Eaton Centre level 1",
+                                "name": "Eaton Centre level 1",
+                                "way_points": [
+                                    26,
+                                    27
+                                ]
+                            },
+                            {
+                                "distance": 45.6,
+                                "duration": 32.9,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    27,
+                                    28
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at your destination, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    28,
+                                    28
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    28
+                ],
+                "summary": {
+                    "distance": 628.9,
+                    "duration": 452.8
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.375825,
+                        43.655042
+                    ],
+                    [
+                        -79.375873,
+                        43.655033
+                    ],
+                    [
+                        -79.375936,
+                        43.65502
+                    ],
+                    [
+                        -79.376365,
+                        43.65493
+                    ],
+                    [
+                        -79.376474,
+                        43.654903
+                    ],
+                    [
+                        -79.376578,
+                        43.654873
+                    ],
+                    [
+                        -79.377339,
+                        43.654703
+                    ],
+                    [
+                        -79.37749,
+                        43.65467
+                    ],
+                    [
+                        -79.377552,
+                        43.654681
+                    ],
+                    [
+                        -79.377635,
+                        43.654663
+                    ],
+                    [
+                        -79.377723,
+                        43.654645
+                    ],
+                    [
+                        -79.377748,
+                        43.654629
+                    ],
+                    [
+                        -79.378215,
+                        43.654534
+                    ],
+                    [
+                        -79.378683,
+                        43.654435
+                    ],
+                    [
+                        -79.378791,
+                        43.654412
+                    ],
+                    [
+                        -79.378897,
+                        43.654389
+                    ],
+                    [
+                        -79.379385,
+                        43.654278
+                    ],
+                    [
+                        -79.379885,
+                        43.654174
+                    ],
+                    [
+                        -79.380145,
+                        43.654784
+                    ],
+                    [
+                        -79.380251,
+                        43.654769
+                    ],
+                    [
+                        -79.380366,
+                        43.654753
+                    ],
+                    [
+                        -79.380691,
+                        43.654689
+                    ],
+                    [
+                        -79.380943,
+                        43.654628
+                    ],
+                    [
+                        -79.380941,
+                        43.654566
+                    ],
+                    [
+                        -79.380963,
+                        43.654627
+                    ],
+                    [
+                        -79.380978,
+                        43.654559
+                    ],
+                    [
+                        -79.380993,
+                        43.654632
+                    ],
+                    [
+                        -79.381128,
+                        43.655292
+                    ],
+                    [
+                        -79.381671,
+                        43.655174
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079486326,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3758255,
+                    43.6550419
+                ],
+                [
+                    -79.3816712,
+                    43.6551738
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

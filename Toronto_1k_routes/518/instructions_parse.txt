@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["northeast"], "start_streets": [], "end_streets": [], "distances": [18.4], "durations": [13.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [38.5], "durations": [27.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [24.6], "durations": [17.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [33.9], "durations": [24.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [1.4], "durations": [1.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [378.7], "durations": [272.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [2.7], "durations": [1.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [94.6], "durations": [68.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Wolseley"], "end_streets": ["Wolseley"], "distances": [3.9], "durations": [2.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Palmerston"], "end_streets": ["Palmerston"], "distances": [496.4], "durations": [357.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Palmerston"], "distances": [0.0], "durations": [0.0]}

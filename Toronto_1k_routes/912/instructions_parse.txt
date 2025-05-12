@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [650.5], "durations": [468.3]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [293.0], "durations": [211.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [15.6], "durations": [11.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [299.1], "durations": [215.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [37.9], "durations": [27.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Sarah"], "end_streets": ["Sarah"], "distances": [26.6], "durations": [19.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Roden"], "end_streets": ["Roden"], "distances": [79.7], "durations": [57.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["McMurrich"], "end_streets": ["McMurrich"], "distances": [86.3], "durations": [62.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["McAlpine"], "end_streets": ["McAlpine"], "distances": [112.8], "durations": [81.2]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": [], "end_streets": [], "distances": [65.8], "durations": [47.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [48.5], "durations": [35.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [5.8], "durations": [4.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

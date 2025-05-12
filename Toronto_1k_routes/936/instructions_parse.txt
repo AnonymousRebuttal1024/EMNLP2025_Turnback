@@ -1,0 +1,4 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": ["Brookdale", "Brookdale"], "end_streets": [], "distances": [125.9], "durations": [90.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [126.9], "durations": [91.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Fairlawn"], "end_streets": ["Fairlawn"], "distances": [565.3], "durations": [407.0]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Fairlawn"], "distances": [0.0], "durations": [0.0]}

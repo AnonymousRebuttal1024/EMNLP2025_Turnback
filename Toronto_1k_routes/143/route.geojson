@@ -1,0 +1,355 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.443323,
+        43.693097,
+        -79.430722,
+        43.699457
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.443323,
+                43.693097,
+                -79.430722,
+                43.699457
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1541.0,
+                        "duration": 1109.5,
+                        "steps": [
+                            {
+                                "distance": 325.0,
+                                "duration": 234.0,
+                                "type": 11,
+                                "instruction": "Head west",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    10
+                                ]
+                            },
+                            {
+                                "distance": 134.9,
+                                "duration": 97.1,
+                                "type": 0,
+                                "instruction": "Turn left onto Strathearn Road",
+                                "name": "Strathearn Road",
+                                "way_points": [
+                                    10,
+                                    12
+                                ]
+                            },
+                            {
+                                "distance": 360.3,
+                                "duration": 259.4,
+                                "type": 1,
+                                "instruction": "Turn right onto Gloucester Grove",
+                                "name": "Gloucester Grove",
+                                "way_points": [
+                                    12,
+                                    20
+                                ]
+                            },
+                            {
+                                "distance": 9.4,
+                                "duration": 6.8,
+                                "type": 0,
+                                "instruction": "Turn left onto Winona Drive",
+                                "name": "Winona Drive",
+                                "way_points": [
+                                    20,
+                                    21
+                                ]
+                            },
+                            {
+                                "distance": 101.1,
+                                "duration": 72.8,
+                                "type": 1,
+                                "instruction": "Turn right onto Gloucester Grove",
+                                "name": "Gloucester Grove",
+                                "way_points": [
+                                    21,
+                                    22
+                                ]
+                            },
+                            {
+                                "distance": 76.7,
+                                "duration": 55.2,
+                                "type": 0,
+                                "instruction": "Turn left onto Alameda Avenue",
+                                "name": "Alameda Avenue",
+                                "way_points": [
+                                    22,
+                                    23
+                                ]
+                            },
+                            {
+                                "distance": 201.3,
+                                "duration": 144.9,
+                                "type": 1,
+                                "instruction": "Turn right onto Clovelly Avenue",
+                                "name": "Clovelly Avenue",
+                                "way_points": [
+                                    23,
+                                    24
+                                ]
+                            },
+                            {
+                                "distance": 90.3,
+                                "duration": 65.0,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    24,
+                                    29
+                                ]
+                            },
+                            {
+                                "distance": 179.2,
+                                "duration": 129.0,
+                                "type": 1,
+                                "instruction": "Turn right onto Bude Street",
+                                "name": "Bude Street",
+                                "way_points": [
+                                    29,
+                                    35
+                                ]
+                            },
+                            {
+                                "distance": 15.9,
+                                "duration": 11.4,
+                                "type": 0,
+                                "instruction": "Turn left onto Vaughan Road",
+                                "name": "Vaughan Road",
+                                "way_points": [
+                                    35,
+                                    36
+                                ]
+                            },
+                            {
+                                "distance": 47.2,
+                                "duration": 34.0,
+                                "type": 1,
+                                "instruction": "Turn right onto Onslow Crescent",
+                                "name": "Onslow Crescent",
+                                "way_points": [
+                                    36,
+                                    38
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Onslow Crescent, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    38,
+                                    38
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    38
+                ],
+                "summary": {
+                    "distance": 1541.0,
+                    "duration": 1109.5
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.430722,
+                        43.699457
+                    ],
+                    [
+                        -79.430784,
+                        43.699447
+                    ],
+                    [
+                        -79.431726,
+                        43.699241
+                    ],
+                    [
+                        -79.431779,
+                        43.69923
+                    ],
+                    [
+                        -79.432625,
+                        43.699048
+                    ],
+                    [
+                        -79.432682,
+                        43.699035
+                    ],
+                    [
+                        -79.433592,
+                        43.698846
+                    ],
+                    [
+                        -79.433656,
+                        43.698823
+                    ],
+                    [
+                        -79.433706,
+                        43.698797
+                    ],
+                    [
+                        -79.434499,
+                        43.698615
+                    ],
+                    [
+                        -79.43458,
+                        43.698597
+                    ],
+                    [
+                        -79.434489,
+                        43.698369
+                    ],
+                    [
+                        -79.434113,
+                        43.697432
+                    ],
+                    [
+                        -79.435293,
+                        43.697191
+                    ],
+                    [
+                        -79.435338,
+                        43.697181
+                    ],
+                    [
+                        -79.435418,
+                        43.697164
+                    ],
+                    [
+                        -79.436492,
+                        43.69694
+                    ],
+                    [
+                        -79.436559,
+                        43.696926
+                    ],
+                    [
+                        -79.436617,
+                        43.696913
+                    ],
+                    [
+                        -79.437751,
+                        43.696665
+                    ],
+                    [
+                        -79.438417,
+                        43.696528
+                    ],
+                    [
+                        -79.438384,
+                        43.696447
+                    ],
+                    [
+                        -79.439588,
+                        43.696187
+                    ],
+                    [
+                        -79.439312,
+                        43.695527
+                    ],
+                    [
+                        -79.441702,
+                        43.694988
+                    ],
+                    [
+                        -79.441678,
+                        43.694932
+                    ],
+                    [
+                        -79.441574,
+                        43.694673
+                    ],
+                    [
+                        -79.4415,
+                        43.694484
+                    ],
+                    [
+                        -79.441416,
+                        43.694284
+                    ],
+                    [
+                        -79.441383,
+                        43.694209
+                    ],
+                    [
+                        -79.441485,
+                        43.694186
+                    ],
+                    [
+                        -79.441585,
+                        43.694163
+                    ],
+                    [
+                        -79.443076,
+                        43.69383
+                    ],
+                    [
+                        -79.443133,
+                        43.693793
+                    ],
+                    [
+                        -79.44324,
+                        43.693611
+                    ],
+                    [
+                        -79.443284,
+                        43.693542
+                    ],
+                    [
+                        -79.443101,
+                        43.693489
+                    ],
+                    [
+                        -79.443134,
+                        43.693427
+                    ],
+                    [
+                        -79.443323,
+                        43.693097
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077305848,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4307218,
+                    43.699457
+                ],
+                [
+                    -79.443323,
+                    43.6930965
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

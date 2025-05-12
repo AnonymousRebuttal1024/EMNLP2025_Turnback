@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [10.2], "durations": [7.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [14.9], "durations": [10.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Wellness"], "end_streets": ["Wellness"], "distances": [63.7], "durations": [45.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [465.5], "durations": [335.2]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [20.5], "durations": [14.8]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [51.7], "durations": [37.2]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [253.2], "durations": [182.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [80.0], "durations": [57.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Rapert"], "end_streets": ["Rapert"], "distances": [84.2], "durations": [60.6]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Rapert"], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,295 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.445797,
+        43.715908,
+        -79.437681,
+        43.724011
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.445797,
+                43.715908,
+                -79.437681,
+                43.724011
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1375.5,
+                        "duration": 990.3,
+                        "steps": [
+                            {
+                                "distance": 9.6,
+                                "duration": 6.9,
+                                "type": 11,
+                                "instruction": "Head east",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 727.0,
+                                "duration": 523.5,
+                                "type": 1,
+                                "instruction": "Turn right onto Varna Drive",
+                                "name": "Varna Drive",
+                                "way_points": [
+                                    2,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 401.7,
+                                "duration": 289.2,
+                                "type": 0,
+                                "instruction": "Turn left onto Varna Drive",
+                                "name": "Varna Drive",
+                                "way_points": [
+                                    19,
+                                    28
+                                ]
+                            },
+                            {
+                                "distance": 12.3,
+                                "duration": 8.8,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    28,
+                                    29
+                                ]
+                            },
+                            {
+                                "distance": 24.7,
+                                "duration": 17.8,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    29,
+                                    31
+                                ]
+                            },
+                            {
+                                "distance": 44.2,
+                                "duration": 31.8,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    31,
+                                    32
+                                ]
+                            },
+                            {
+                                "distance": 156.0,
+                                "duration": 112.3,
+                                "type": 0,
+                                "instruction": "Turn left onto Englemount Avenue",
+                                "name": "Englemount Avenue",
+                                "way_points": [
+                                    32,
+                                    34
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Englemount Avenue, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    34,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    34
+                ],
+                "summary": {
+                    "distance": 1375.5,
+                    "duration": 990.3
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.445797,
+                        43.723984
+                    ],
+                    [
+                        -79.445773,
+                        43.723989
+                    ],
+                    [
+                        -79.445685,
+                        43.724011
+                    ],
+                    [
+                        -79.445622,
+                        43.72394
+                    ],
+                    [
+                        -79.44559,
+                        43.723856
+                    ],
+                    [
+                        -79.44542,
+                        43.723405
+                    ],
+                    [
+                        -79.445264,
+                        43.723098
+                    ],
+                    [
+                        -79.445148,
+                        43.72272
+                    ],
+                    [
+                        -79.444977,
+                        43.722281
+                    ],
+                    [
+                        -79.444051,
+                        43.722288
+                    ],
+                    [
+                        -79.442483,
+                        43.7222
+                    ],
+                    [
+                        -79.441869,
+                        43.722139
+                    ],
+                    [
+                        -79.441395,
+                        43.722198
+                    ],
+                    [
+                        -79.44124,
+                        43.721807
+                    ],
+                    [
+                        -79.441111,
+                        43.721491
+                    ],
+                    [
+                        -79.441022,
+                        43.721287
+                    ],
+                    [
+                        -79.440917,
+                        43.721046
+                    ],
+                    [
+                        -79.44089,
+                        43.72086
+                    ],
+                    [
+                        -79.440883,
+                        43.72048
+                    ],
+                    [
+                        -79.44099,
+                        43.72013
+                    ],
+                    [
+                        -79.440445,
+                        43.719996
+                    ],
+                    [
+                        -79.440154,
+                        43.719876
+                    ],
+                    [
+                        -79.439966,
+                        43.719781
+                    ],
+                    [
+                        -79.439557,
+                        43.719503
+                    ],
+                    [
+                        -79.43927,
+                        43.719308
+                    ],
+                    [
+                        -79.438152,
+                        43.718527
+                    ],
+                    [
+                        -79.438008,
+                        43.718358
+                    ],
+                    [
+                        -79.437933,
+                        43.718229
+                    ],
+                    [
+                        -79.437681,
+                        43.71762
+                    ],
+                    [
+                        -79.437826,
+                        43.717587
+                    ],
+                    [
+                        -79.437795,
+                        43.717471
+                    ],
+                    [
+                        -79.437774,
+                        43.717368
+                    ],
+                    [
+                        -79.438301,
+                        43.717253
+                    ],
+                    [
+                        -79.438072,
+                        43.716616
+                    ],
+                    [
+                        -79.437753,
+                        43.715908
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077663418,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4458007,
+                    43.7239928
+                ],
+                [
+                    -79.4377531,
+                    43.7159079
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

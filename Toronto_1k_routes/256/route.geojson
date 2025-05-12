@@ -1,0 +1,494 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.388445,
+        43.680268,
+        -79.385268,
+        43.686178
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.388445,
+                43.680268,
+                -79.385268,
+                43.686178
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1199.6,
+                        "duration": 863.7,
+                        "steps": [
+                            {
+                                "distance": 16.2,
+                                "duration": 11.7,
+                                "type": 11,
+                                "instruction": "Head west",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    3
+                                ]
+                            },
+                            {
+                                "distance": 3.8,
+                                "duration": 2.7,
+                                "type": 4,
+                                "instruction": "Turn slight left",
+                                "name": "-",
+                                "way_points": [
+                                    3,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 14.3,
+                                "duration": 10.3,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    4,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 28.6,
+                                "duration": 20.6,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    5,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 7.6,
+                                "duration": 5.5,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    6,
+                                    7
+                                ]
+                            },
+                            {
+                                "distance": 81.1,
+                                "duration": 58.4,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    7,
+                                    11
+                                ]
+                            },
+                            {
+                                "distance": 37.6,
+                                "duration": 27.0,
+                                "type": 1,
+                                "instruction": "Turn right onto Summerhill Path",
+                                "name": "Summerhill Path",
+                                "way_points": [
+                                    11,
+                                    13
+                                ]
+                            },
+                            {
+                                "distance": 50.4,
+                                "duration": 36.3,
+                                "type": 0,
+                                "instruction": "Turn left onto Summerhill Path",
+                                "name": "Summerhill Path",
+                                "way_points": [
+                                    13,
+                                    14
+                                ]
+                            },
+                            {
+                                "distance": 23.2,
+                                "duration": 16.7,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    14,
+                                    15
+                                ]
+                            },
+                            {
+                                "distance": 29.6,
+                                "duration": 21.3,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    15,
+                                    16
+                                ]
+                            },
+                            {
+                                "distance": 50.8,
+                                "duration": 36.6,
+                                "type": 12,
+                                "instruction": "Keep left",
+                                "name": "-",
+                                "way_points": [
+                                    16,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 143.8,
+                                "duration": 103.6,
+                                "type": 0,
+                                "instruction": "Turn left onto Summerhill Avenue",
+                                "name": "Summerhill Avenue",
+                                "way_points": [
+                                    19,
+                                    22
+                                ]
+                            },
+                            {
+                                "distance": 6.2,
+                                "duration": 4.4,
+                                "type": 0,
+                                "instruction": "Turn left onto Summerhill Gardens",
+                                "name": "Summerhill Gardens",
+                                "way_points": [
+                                    22,
+                                    23
+                                ]
+                            },
+                            {
+                                "distance": 36.8,
+                                "duration": 26.5,
+                                "type": 13,
+                                "instruction": "Keep right",
+                                "name": "-",
+                                "way_points": [
+                                    23,
+                                    26
+                                ]
+                            },
+                            {
+                                "distance": 57.0,
+                                "duration": 41.1,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    26,
+                                    28
+                                ]
+                            },
+                            {
+                                "distance": 305.7,
+                                "duration": 220.1,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    28,
+                                    36
+                                ]
+                            },
+                            {
+                                "distance": 15.0,
+                                "duration": 10.8,
+                                "type": 1,
+                                "instruction": "Turn right onto Mathersfield Drive",
+                                "name": "Mathersfield Drive",
+                                "way_points": [
+                                    36,
+                                    37
+                                ]
+                            },
+                            {
+                                "distance": 8.1,
+                                "duration": 5.8,
+                                "type": 4,
+                                "instruction": "Turn slight left onto Mathersfield Drive",
+                                "name": "Mathersfield Drive",
+                                "way_points": [
+                                    37,
+                                    38
+                                ]
+                            },
+                            {
+                                "distance": 166.9,
+                                "duration": 120.2,
+                                "type": 12,
+                                "instruction": "Keep left onto Mathersfield Drive",
+                                "name": "Mathersfield Drive",
+                                "way_points": [
+                                    38,
+                                    46
+                                ]
+                            },
+                            {
+                                "distance": 116.8,
+                                "duration": 84.1,
+                                "type": 1,
+                                "instruction": "Turn right onto Cluny Drive",
+                                "name": "Cluny Drive",
+                                "way_points": [
+                                    46,
+                                    48
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Cluny Drive, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    48,
+                                    48
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    48
+                ],
+                "summary": {
+                    "distance": 1199.6,
+                    "duration": 863.7
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.387328,
+                        43.686174
+                    ],
+                    [
+                        -79.387389,
+                        43.686178
+                    ],
+                    [
+                        -79.387429,
+                        43.686168
+                    ],
+                    [
+                        -79.387487,
+                        43.686111
+                    ],
+                    [
+                        -79.387486,
+                        43.686077
+                    ],
+                    [
+                        -79.38766,
+                        43.686049
+                    ],
+                    [
+                        -79.387562,
+                        43.685801
+                    ],
+                    [
+                        -79.387471,
+                        43.685819
+                    ],
+                    [
+                        -79.387431,
+                        43.685762
+                    ],
+                    [
+                        -79.387919,
+                        43.685498
+                    ],
+                    [
+                        -79.387955,
+                        43.685433
+                    ],
+                    [
+                        -79.38799,
+                        43.685281
+                    ],
+                    [
+                        -79.388251,
+                        43.685199
+                    ],
+                    [
+                        -79.3884,
+                        43.685123
+                    ],
+                    [
+                        -79.388359,
+                        43.684671
+                    ],
+                    [
+                        -79.38807,
+                        43.684666
+                    ],
+                    [
+                        -79.387983,
+                        43.684408
+                    ],
+                    [
+                        -79.387832,
+                        43.684028
+                    ],
+                    [
+                        -79.387832,
+                        43.684012
+                    ],
+                    [
+                        -79.387816,
+                        43.683968
+                    ],
+                    [
+                        -79.387744,
+                        43.683984
+                    ],
+                    [
+                        -79.386219,
+                        43.683572
+                    ],
+                    [
+                        -79.386145,
+                        43.683541
+                    ],
+                    [
+                        -79.386082,
+                        43.683573
+                    ],
+                    [
+                        -79.385971,
+                        43.683569
+                    ],
+                    [
+                        -79.38582,
+                        43.683608
+                    ],
+                    [
+                        -79.385662,
+                        43.683679
+                    ],
+                    [
+                        -79.385296,
+                        43.683458
+                    ],
+                    [
+                        -79.385268,
+                        43.683291
+                    ],
+                    [
+                        -79.385804,
+                        43.683173
+                    ],
+                    [
+                        -79.385924,
+                        43.683138
+                    ],
+                    [
+                        -79.386113,
+                        43.683106
+                    ],
+                    [
+                        -79.388259,
+                        43.682154
+                    ],
+                    [
+                        -79.38828,
+                        43.682134
+                    ],
+                    [
+                        -79.388286,
+                        43.682063
+                    ],
+                    [
+                        -79.388242,
+                        43.681934
+                    ],
+                    [
+                        -79.388222,
+                        43.681875
+                    ],
+                    [
+                        -79.388397,
+                        43.68183
+                    ],
+                    [
+                        -79.388445,
+                        43.681766
+                    ],
+                    [
+                        -79.388443,
+                        43.681715
+                    ],
+                    [
+                        -79.388225,
+                        43.681196
+                    ],
+                    [
+                        -79.388206,
+                        43.681172
+                    ],
+                    [
+                        -79.388161,
+                        43.681144
+                    ],
+                    [
+                        -79.387689,
+                        43.681239
+                    ],
+                    [
+                        -79.387459,
+                        43.681268
+                    ],
+                    [
+                        -79.387137,
+                        43.681281
+                    ],
+                    [
+                        -79.387031,
+                        43.681304
+                    ],
+                    [
+                        -79.386904,
+                        43.680988
+                    ],
+                    [
+                        -79.386839,
+                        43.680268
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077535675,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3873277,
+                    43.6861735
+                ],
+                [
+                    -79.3868389,
+                    43.6802678
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

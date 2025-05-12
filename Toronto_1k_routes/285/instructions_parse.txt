@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [17.7], "durations": [12.8]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": ["Wellness"], "end_streets": ["Wellness"], "distances": [135.1], "durations": [97.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [47.2], "durations": [33.9]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [7.3], "durations": [5.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Armistice"], "end_streets": ["Armistice"], "distances": [25.3], "durations": [18.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [104.1], "durations": [74.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Dawlish"], "end_streets": ["Dawlish"], "distances": [770.7], "durations": [554.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Saint"], "end_streets": ["Saint"], "distances": [692.3], "durations": [498.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Saint"], "distances": [0.0], "durations": [0.0]}

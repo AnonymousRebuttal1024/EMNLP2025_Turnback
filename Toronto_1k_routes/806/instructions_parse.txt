@@ -1,0 +1,6 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Dell", "Dell"], "end_streets": [], "distances": [177.0], "durations": [127.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Shermount"], "end_streets": ["Shermount"], "distances": [500.2], "durations": [360.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Glen"], "end_streets": ["Glen"], "distances": [493.2], "durations": [355.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Dalemount"], "end_streets": ["Dalemount"], "distances": [201.9], "durations": [145.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Hillmount"], "end_streets": ["Hillmount"], "distances": [328.4], "durations": [236.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Hillmount"], "distances": [0.0], "durations": [0.0]}

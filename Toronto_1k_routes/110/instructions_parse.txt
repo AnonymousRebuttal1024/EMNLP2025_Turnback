@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [189.8], "durations": [136.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Esandar"], "end_streets": ["Esandar"], "distances": [82.5], "durations": [59.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Industrial"], "end_streets": ["Industrial"], "distances": [7.1], "durations": [5.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [5.0], "durations": [3.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [327.6], "durations": [235.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [41.2], "durations": [29.6]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [98.3], "durations": [70.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Laird"], "end_streets": ["Laird"], "distances": [3.8], "durations": [2.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Stickney"], "end_streets": ["Stickney"], "distances": [193.9], "durations": [139.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [5.8], "durations": [4.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [15.4], "durations": [11.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [250.2], "durations": [180.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

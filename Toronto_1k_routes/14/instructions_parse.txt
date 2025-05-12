@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": ["Boon", "Boon"], "end_streets": [], "distances": [687.9], "durations": [495.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [37.7], "durations": [27.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [27.0], "durations": [19.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [309.6], "durations": [222.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [172.6], "durations": [124.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Rosemount"], "end_streets": ["Rosemount"], "distances": [3.8], "durations": [2.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Rosemount"], "distances": [0.0], "durations": [0.0]}

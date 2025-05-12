@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [111.6], "durations": [80.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [28.6], "durations": [20.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.4], "durations": [3.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["St"], "end_streets": ["St"], "distances": [155.1], "durations": [111.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Lympstone"], "end_streets": ["Lympstone"], "distances": [96.6], "durations": [69.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [154.6], "durations": [111.3]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [280.3], "durations": [201.8]},
+{"actions": ["Turn", "continue"], "directions": ["right", "East", "East"], "start_streets": ["Glengrove"], "end_streets": ["Glengrove"], "distances": [24.5], "durations": [17.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [690.5], "durations": [497.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [31.6], "durations": [22.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [14.2], "durations": [10.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["southeast"], "start_streets": [], "end_streets": [], "distances": [53.2], "durations": [38.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Falstaff"], "end_streets": ["Falstaff"], "distances": [167.1], "durations": [120.3]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": ["Falstaff"], "end_streets": ["Falstaff"], "distances": [20.7], "durations": [14.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [351.9], "durations": [253.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [77.8], "durations": [56.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [260.8], "durations": [187.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [34.6], "durations": [24.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [3.4], "durations": [2.5]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [151.8], "durations": [109.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [27.3], "durations": [19.7]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [316.4], "durations": [227.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Apex"], "end_streets": ["Apex"], "distances": [262.6], "durations": [189.0]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Apex"], "distances": [0.0], "durations": [0.0]}

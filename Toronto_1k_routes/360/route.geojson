@@ -1,0 +1,264 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.43381,
+        43.703918,
+        -79.425317,
+        43.707356
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.43381,
+                43.703918,
+                -79.425317,
+                43.707356
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 940.7,
+                        "duration": 677.3,
+                        "steps": [
+                            {
+                                "distance": 30.3,
+                                "duration": 21.8,
+                                "type": 11,
+                                "instruction": "Head east on Elm Ridge Drive",
+                                "name": "Elm Ridge Drive",
+                                "way_points": [
+                                    0,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 103.4,
+                                "duration": 74.5,
+                                "type": 2,
+                                "instruction": "Turn sharp left onto Elm Ridge Circle",
+                                "name": "Elm Ridge Circle",
+                                "way_points": [
+                                    2,
+                                    11
+                                ]
+                            },
+                            {
+                                "distance": 165.1,
+                                "duration": 118.9,
+                                "type": 12,
+                                "instruction": "Keep left onto Old Park Road",
+                                "name": "Old Park Road",
+                                "way_points": [
+                                    11,
+                                    17
+                                ]
+                            },
+                            {
+                                "distance": 617.3,
+                                "duration": 444.5,
+                                "type": 1,
+                                "instruction": "Turn right onto Ridelle Avenue",
+                                "name": "Ridelle Avenue",
+                                "way_points": [
+                                    17,
+                                    25
+                                ]
+                            },
+                            {
+                                "distance": 9.0,
+                                "duration": 6.5,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    25,
+                                    27
+                                ]
+                            },
+                            {
+                                "distance": 15.6,
+                                "duration": 11.2,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    27,
+                                    29
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at your destination, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    29,
+                                    29
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    29
+                ],
+                "summary": {
+                    "distance": 940.7,
+                    "duration": 677.3
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.43381,
+                        43.703918
+                    ],
+                    [
+                        -79.433554,
+                        43.703969
+                    ],
+                    [
+                        -79.433461,
+                        43.703925
+                    ],
+                    [
+                        -79.433466,
+                        43.704033
+                    ],
+                    [
+                        -79.433425,
+                        43.704188
+                    ],
+                    [
+                        -79.43334,
+                        43.704283
+                    ],
+                    [
+                        -79.433294,
+                        43.704303
+                    ],
+                    [
+                        -79.433155,
+                        43.704379
+                    ],
+                    [
+                        -79.432988,
+                        43.704422
+                    ],
+                    [
+                        -79.432812,
+                        43.704445
+                    ],
+                    [
+                        -79.432679,
+                        43.704444
+                    ],
+                    [
+                        -79.432633,
+                        43.704444
+                    ],
+                    [
+                        -79.432545,
+                        43.704491
+                    ],
+                    [
+                        -79.432506,
+                        43.704535
+                    ],
+                    [
+                        -79.432521,
+                        43.704634
+                    ],
+                    [
+                        -79.432629,
+                        43.704869
+                    ],
+                    [
+                        -79.432963,
+                        43.705724
+                    ],
+                    [
+                        -79.432946,
+                        43.70584
+                    ],
+                    [
+                        -79.431785,
+                        43.706074
+                    ],
+                    [
+                        -79.430649,
+                        43.706321
+                    ],
+                    [
+                        -79.428578,
+                        43.70676
+                    ],
+                    [
+                        -79.426963,
+                        43.707117
+                    ],
+                    [
+                        -79.426852,
+                        43.707117
+                    ],
+                    [
+                        -79.426716,
+                        43.707113
+                    ],
+                    [
+                        -79.426093,
+                        43.707248
+                    ],
+                    [
+                        -79.42557,
+                        43.707356
+                    ],
+                    [
+                        -79.425525,
+                        43.707309
+                    ],
+                    [
+                        -79.425499,
+                        43.707294
+                    ],
+                    [
+                        -79.42542,
+                        43.707314
+                    ],
+                    [
+                        -79.425317,
+                        43.707341
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077812149,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4338105,
+                    43.703918
+                ],
+                [
+                    -79.4253167,
+                    43.7073409
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

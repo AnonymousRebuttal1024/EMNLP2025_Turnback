@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [38.5], "durations": [27.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [79.8], "durations": [57.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [34.6], "durations": [24.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [163.4], "durations": [117.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [300.5], "durations": [216.3]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.4], "durations": [4.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Dixon"], "end_streets": ["Dixon"], "distances": [387.0], "durations": [278.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Dixon"], "distances": [0.0], "durations": [0.0]}

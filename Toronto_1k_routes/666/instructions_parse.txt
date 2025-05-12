@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [110.3], "durations": [79.4]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [12.1], "durations": [8.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [85.0], "durations": [61.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [98.1], "durations": [70.6]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [62.7], "durations": [45.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [22.8], "durations": [16.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [8.7], "durations": [6.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [88.7], "durations": [63.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [367.1], "durations": [264.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [18.9], "durations": [13.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [5.3], "durations": [3.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Glenlake"], "end_streets": ["Glenlake"], "distances": [117.5], "durations": [84.6]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Glenlake"], "distances": [0.0], "durations": [0.0]}

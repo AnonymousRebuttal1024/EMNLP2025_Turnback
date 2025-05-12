@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": ["Victoria", "Victoria"], "end_streets": [], "distances": [295.4], "durations": [212.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [105.2], "durations": [75.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [366.6], "durations": [264.0]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [14.7], "durations": [10.6]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [27.1], "durations": [19.5]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [69.7], "durations": [50.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [11.0], "durations": [7.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Yonge"], "end_streets": ["Yonge"], "distances": [1.6], "durations": [1.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Yonge"], "distances": [0.0], "durations": [0.0]}

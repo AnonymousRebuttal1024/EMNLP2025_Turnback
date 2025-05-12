@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [578.7], "durations": [416.7]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [467.1], "durations": [336.3]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [84.7], "durations": [61.0]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [264.7], "durations": [190.6]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [22.0], "durations": [15.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [4.7], "durations": [3.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Rideau"], "end_streets": ["Rideau"], "distances": [17.2], "durations": [12.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Rideau"], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [542.9], "durations": [390.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Prince"], "end_streets": ["Prince"], "distances": [126.0], "durations": [90.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Brucewood"], "end_streets": ["Brucewood"], "distances": [637.7], "durations": [459.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Kirkland"], "end_streets": ["Kirkland"], "distances": [395.8], "durations": [285.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Varna"], "end_streets": ["Varna"], "distances": [86.2], "durations": [62.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [76.2], "durations": [54.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

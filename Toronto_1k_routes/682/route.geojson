@@ -1,0 +1,195 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.318234,
+        43.684749,
+        -79.315987,
+        43.689899
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.318234,
+                43.684749,
+                -79.315987,
+                43.689899
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 729.0,
+                        "duration": 524.9,
+                        "steps": [
+                            {
+                                "distance": 170.0,
+                                "duration": 122.4,
+                                "type": 11,
+                                "instruction": "Head north",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 188.8,
+                                "duration": 136.0,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    5,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 370.2,
+                                "duration": 266.6,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    6,
+                                    20
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at your destination, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    20,
+                                    20
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    20
+                ],
+                "summary": {
+                    "distance": 729.0,
+                    "duration": 524.9
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.31764,
+                        43.684749
+                    ],
+                    [
+                        -79.31779,
+                        43.685083
+                    ],
+                    [
+                        -79.317897,
+                        43.685398
+                    ],
+                    [
+                        -79.317924,
+                        43.685458
+                    ],
+                    [
+                        -79.31795,
+                        43.685519
+                    ],
+                    [
+                        -79.318234,
+                        43.686215
+                    ],
+                    [
+                        -79.315987,
+                        43.686707
+                    ],
+                    [
+                        -79.316006,
+                        43.686765
+                    ],
+                    [
+                        -79.316018,
+                        43.686827
+                    ],
+                    [
+                        -79.3163,
+                        43.687522
+                    ],
+                    [
+                        -79.316326,
+                        43.68758
+                    ],
+                    [
+                        -79.316348,
+                        43.687643
+                    ],
+                    [
+                        -79.316613,
+                        43.688328
+                    ],
+                    [
+                        -79.316635,
+                        43.688386
+                    ],
+                    [
+                        -79.316663,
+                        43.688451
+                    ],
+                    [
+                        -79.316937,
+                        43.689091
+                    ],
+                    [
+                        -79.316949,
+                        43.689119
+                    ],
+                    [
+                        -79.316971,
+                        43.689169
+                    ],
+                    [
+                        -79.317249,
+                        43.689805
+                    ],
+                    [
+                        -79.317259,
+                        43.689828
+                    ],
+                    [
+                        -79.31729,
+                        43.689899
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731078656827,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3176401,
+                    43.6847485
+                ],
+                [
+                    -79.3172896,
+                    43.6898988
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

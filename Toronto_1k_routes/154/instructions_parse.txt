@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [16.4], "durations": [11.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [63.4], "durations": [45.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [465.6], "durations": [335.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [23.3], "durations": [16.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [7.7], "durations": [5.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Arncliffe"], "end_streets": ["Arncliffe"], "distances": [108.5], "durations": [78.1]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": ["Shangarry"], "end_streets": ["Shangarry"], "distances": [173.4], "durations": [124.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Shangarry"], "distances": [0.0], "durations": [0.0]}

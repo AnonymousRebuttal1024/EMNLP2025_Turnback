@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [60.2], "durations": [43.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [311.5], "durations": [224.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [105.5], "durations": [75.9]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [149.5], "durations": [107.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [18.0], "durations": [13.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [10.4], "durations": [7.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [207.1], "durations": [149.1]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [21.6], "durations": [15.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Benlamond"], "end_streets": ["Benlamond"], "distances": [267.7], "durations": [192.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Norwood"], "end_streets": ["Norwood"], "distances": [238.3], "durations": [171.6]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Norwood"], "distances": [0.0], "durations": [0.0]}

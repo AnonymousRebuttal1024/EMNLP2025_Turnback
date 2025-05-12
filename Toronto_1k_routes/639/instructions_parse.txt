@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Bartley", "Bartley"], "end_streets": [], "distances": [219.0], "durations": [157.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Bartley"], "end_streets": ["Bartley"], "distances": [367.2], "durations": [264.4]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [320.1], "durations": [230.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [242.5], "durations": [174.6]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": ["Northline"], "end_streets": ["Northline"], "distances": [536.1], "durations": [386.0]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": ["Blair"], "end_streets": ["Blair"], "distances": [29.4], "durations": [21.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Tucker"], "end_streets": ["Tucker"], "distances": [77.6], "durations": [55.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Blair"], "end_streets": ["Blair"], "distances": [66.3], "durations": [47.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Blair"], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [11.7], "durations": [8.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [9.5], "durations": [6.8]},
+{"actions": ["Continue", "continue"], "directions": [], "start_streets": ["Lansdowne"], "end_streets": ["Lansdowne"], "distances": [8.6], "durations": [6.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [31.3], "durations": [22.5]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [343.7], "durations": [247.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [33.4], "durations": [24.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [81.1], "durations": [58.4]},
+{"actions": ["Turn", "continue"], "directions": ["right", "West", "West"], "start_streets": ["West"], "end_streets": ["West"], "distances": [7.9], "durations": [5.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [3.9], "durations": [2.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [137.9], "durations": [99.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [19.1], "durations": [13.8]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

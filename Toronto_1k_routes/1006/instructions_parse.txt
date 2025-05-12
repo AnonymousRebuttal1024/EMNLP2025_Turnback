@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": ["Hope", "Hope"], "end_streets": [], "distances": [196.5], "durations": [141.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Nairn"], "end_streets": ["Nairn"], "distances": [191.2], "durations": [137.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [100.5], "durations": [72.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Harvie"], "end_streets": ["Harvie"], "distances": [39.6], "durations": [28.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [4.8], "durations": [3.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [117.8], "durations": [84.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [302.2], "durations": [217.6]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [6.8], "durations": [4.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["McRoberts"], "end_streets": ["McRoberts"], "distances": [202.0], "durations": [145.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Innes"], "end_streets": ["Innes"], "distances": [263.7], "durations": [189.8]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Innes"], "distances": [0.0], "durations": [0.0]}

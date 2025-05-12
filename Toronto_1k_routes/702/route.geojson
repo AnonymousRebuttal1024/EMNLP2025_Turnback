@@ -1,0 +1,403 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.369735,
+        43.709647,
+        -79.347766,
+        43.713128
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.369735,
+                43.709647,
+                -79.347766,
+                43.713128
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1910.5,
+                        "duration": 1375.6,
+                        "steps": [
+                            {
+                                "distance": 139.0,
+                                "duration": 100.1,
+                                "type": 11,
+                                "instruction": "Head west on Wicksteed Avenue",
+                                "name": "Wicksteed Avenue",
+                                "way_points": [
+                                    0,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 104.6,
+                                "duration": 75.3,
+                                "type": 2,
+                                "instruction": "Turn sharp left",
+                                "name": "-",
+                                "way_points": [
+                                    5,
+                                    9
+                                ]
+                            },
+                            {
+                                "distance": 15.4,
+                                "duration": 11.1,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    9,
+                                    11
+                                ]
+                            },
+                            {
+                                "distance": 468.1,
+                                "duration": 337.0,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    11,
+                                    14
+                                ]
+                            },
+                            {
+                                "distance": 13.4,
+                                "duration": 9.6,
+                                "type": 5,
+                                "instruction": "Turn slight right onto Clarke Street",
+                                "name": "Clarke Street",
+                                "way_points": [
+                                    14,
+                                    15
+                                ]
+                            },
+                            {
+                                "distance": 181.8,
+                                "duration": 130.9,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    15,
+                                    17
+                                ]
+                            },
+                            {
+                                "distance": 19.6,
+                                "duration": 14.1,
+                                "type": 12,
+                                "instruction": "Keep left",
+                                "name": "-",
+                                "way_points": [
+                                    17,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 5.5,
+                                "duration": 4.0,
+                                "type": 4,
+                                "instruction": "Turn slight left",
+                                "name": "-",
+                                "way_points": [
+                                    19,
+                                    20
+                                ]
+                            },
+                            {
+                                "distance": 393.9,
+                                "duration": 283.6,
+                                "type": 5,
+                                "instruction": "Turn slight right",
+                                "name": "-",
+                                "way_points": [
+                                    20,
+                                    22
+                                ]
+                            },
+                            {
+                                "distance": 26.0,
+                                "duration": 18.7,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    22,
+                                    24
+                                ]
+                            },
+                            {
+                                "distance": 42.4,
+                                "duration": 30.5,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    24,
+                                    27
+                                ]
+                            },
+                            {
+                                "distance": 90.2,
+                                "duration": 65.0,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    27,
+                                    29
+                                ]
+                            },
+                            {
+                                "distance": 4.3,
+                                "duration": 3.1,
+                                "type": 1,
+                                "instruction": "Turn right onto Randolph Road",
+                                "name": "Randolph Road",
+                                "way_points": [
+                                    29,
+                                    30
+                                ]
+                            },
+                            {
+                                "distance": 400.5,
+                                "duration": 288.4,
+                                "type": 0,
+                                "instruction": "Turn left onto Parkhurst Boulevard",
+                                "name": "Parkhurst Boulevard",
+                                "way_points": [
+                                    30,
+                                    38
+                                ]
+                            },
+                            {
+                                "distance": 5.8,
+                                "duration": 4.2,
+                                "type": 1,
+                                "instruction": "Turn right onto Hanna Road",
+                                "name": "Hanna Road",
+                                "way_points": [
+                                    38,
+                                    39
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Hanna Road, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    39,
+                                    39
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    39
+                ],
+                "summary": {
+                    "distance": 1910.5,
+                    "duration": 1375.6
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.347766,
+                        43.713128
+                    ],
+                    [
+                        -79.348463,
+                        43.712983
+                    ],
+                    [
+                        -79.348753,
+                        43.712923
+                    ],
+                    [
+                        -79.348959,
+                        43.712923
+                    ],
+                    [
+                        -79.349237,
+                        43.712982
+                    ],
+                    [
+                        -79.349425,
+                        43.713044
+                    ],
+                    [
+                        -79.349441,
+                        43.712961
+                    ],
+                    [
+                        -79.349529,
+                        43.712973
+                    ],
+                    [
+                        -79.349621,
+                        43.712965
+                    ],
+                    [
+                        -79.350584,
+                        43.71276
+                    ],
+                    [
+                        -79.350616,
+                        43.712843
+                    ],
+                    [
+                        -79.350638,
+                        43.712892
+                    ],
+                    [
+                        -79.355894,
+                        43.711783
+                    ],
+                    [
+                        -79.356022,
+                        43.711774
+                    ],
+                    [
+                        -79.356206,
+                        43.71186
+                    ],
+                    [
+                        -79.356253,
+                        43.711975
+                    ],
+                    [
+                        -79.35835,
+                        43.71154
+                    ],
+                    [
+                        -79.358428,
+                        43.711553
+                    ],
+                    [
+                        -79.358551,
+                        43.711526
+                    ],
+                    [
+                        -79.358664,
+                        43.711507
+                    ],
+                    [
+                        -79.358705,
+                        43.711467
+                    ],
+                    [
+                        -79.363359,
+                        43.710485
+                    ],
+                    [
+                        -79.363401,
+                        43.710509
+                    ],
+                    [
+                        -79.363542,
+                        43.710487
+                    ],
+                    [
+                        -79.36372,
+                        43.710474
+                    ],
+                    [
+                        -79.363737,
+                        43.710636
+                    ],
+                    [
+                        -79.363772,
+                        43.710806
+                    ],
+                    [
+                        -79.363828,
+                        43.710831
+                    ],
+                    [
+                        -79.364797,
+                        43.710624
+                    ],
+                    [
+                        -79.364905,
+                        43.710604
+                    ],
+                    [
+                        -79.36492,
+                        43.710641
+                    ],
+                    [
+                        -79.366066,
+                        43.710407
+                    ],
+                    [
+                        -79.366128,
+                        43.710394
+                    ],
+                    [
+                        -79.3662,
+                        43.71038
+                    ],
+                    [
+                        -79.368469,
+                        43.70989
+                    ],
+                    [
+                        -79.368531,
+                        43.709879
+                    ],
+                    [
+                        -79.368632,
+                        43.70986
+                    ],
+                    [
+                        -79.36962,
+                        43.709665
+                    ],
+                    [
+                        -79.36971,
+                        43.709647
+                    ],
+                    [
+                        -79.369735,
+                        43.709697
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731078686906,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3477657,
+                    43.7131278
+                ],
+                [
+                    -79.3697346,
+                    43.7096965
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

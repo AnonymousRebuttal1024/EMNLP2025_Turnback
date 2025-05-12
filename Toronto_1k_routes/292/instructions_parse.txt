@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": ["Cannon", "Cannon"], "end_streets": [], "distances": [60.7], "durations": [43.7]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [98.6], "durations": [71.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Cloverhill"], "end_streets": ["Cloverhill"], "distances": [52.1], "durations": [37.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [169.6], "durations": [122.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Kinsdale"], "end_streets": ["Kinsdale"], "distances": [188.5], "durations": [135.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [48.5], "durations": [34.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [242.8], "durations": [174.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [123.0], "durations": [88.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Crown"], "end_streets": ["Crown"], "distances": [9.1], "durations": [6.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [55.7], "durations": [40.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

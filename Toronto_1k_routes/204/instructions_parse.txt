@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [5.4], "durations": [3.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [37.9], "durations": [27.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [24.4], "durations": [17.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [164.2], "durations": [118.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Monastery"], "end_streets": ["Monastery"], "distances": [143.7], "durations": [103.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Fairfax"], "end_streets": ["Fairfax"], "distances": [111.0], "durations": [79.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [15.9], "durations": [11.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [47.7], "durations": [34.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Clairlea"], "end_streets": ["Clairlea"], "distances": [101.7], "durations": [73.2]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [13.2], "durations": [9.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

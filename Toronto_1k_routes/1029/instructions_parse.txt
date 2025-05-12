@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": ["Sackville", "Sackville"], "end_streets": [], "distances": [163.8], "durations": [118.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [217.8], "durations": [156.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Sumach"], "end_streets": ["Sumach"], "distances": [409.6], "durations": [294.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Oak"], "end_streets": ["Oak"], "distances": [59.3], "durations": [42.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [98.9], "durations": [71.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [32.9], "durations": [23.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [12.4], "durations": [8.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [23.7], "durations": [17.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

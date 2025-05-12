@@ -1,0 +1,292 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.370361,
+        43.713515,
+        -79.359335,
+        43.714473
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.370361,
+                43.713515,
+                -79.359335,
+                43.714473
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1122.3,
+                        "duration": 808.1,
+                        "steps": [
+                            {
+                                "distance": 101.6,
+                                "duration": 73.1,
+                                "type": 11,
+                                "instruction": "Head south on Rumsey Road",
+                                "name": "Rumsey Road",
+                                "way_points": [
+                                    0,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 197.4,
+                                "duration": 142.1,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    2,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 4.7,
+                                "duration": 3.4,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    5,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 11.1,
+                                "duration": 8.0,
+                                "type": 0,
+                                "instruction": "Turn left onto Donlea Drive",
+                                "name": "Donlea Drive",
+                                "way_points": [
+                                    6,
+                                    8
+                                ]
+                            },
+                            {
+                                "distance": 4.8,
+                                "duration": 3.4,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    8,
+                                    9
+                                ]
+                            },
+                            {
+                                "distance": 203.1,
+                                "duration": 146.2,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    9,
+                                    12
+                                ]
+                            },
+                            {
+                                "distance": 107.8,
+                                "duration": 77.6,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    12,
+                                    16
+                                ]
+                            },
+                            {
+                                "distance": 393.1,
+                                "duration": 283.0,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    16,
+                                    22
+                                ]
+                            },
+                            {
+                                "distance": 83.2,
+                                "duration": 59.9,
+                                "type": 13,
+                                "instruction": "Keep right",
+                                "name": "-",
+                                "way_points": [
+                                    22,
+                                    23
+                                ]
+                            },
+                            {
+                                "distance": 15.6,
+                                "duration": 11.3,
+                                "type": 0,
+                                "instruction": "Turn left onto Fredrick Todd Way",
+                                "name": "Fredrick Todd Way",
+                                "way_points": [
+                                    23,
+                                    25
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Fredrick Todd Way, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    25,
+                                    25
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    25
+                ],
+                "summary": {
+                    "distance": 1122.3,
+                    "duration": 808.1
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.370361,
+                        43.714391
+                    ],
+                    [
+                        -79.370336,
+                        43.714328
+                    ],
+                    [
+                        -79.370004,
+                        43.713515
+                    ],
+                    [
+                        -79.369941,
+                        43.713527
+                    ],
+                    [
+                        -79.369898,
+                        43.713517
+                    ],
+                    [
+                        -79.367643,
+                        43.713983
+                    ],
+                    [
+                        -79.367627,
+                        43.713942
+                    ],
+                    [
+                        -79.36755,
+                        43.713959
+                    ],
+                    [
+                        -79.367495,
+                        43.71397
+                    ],
+                    [
+                        -79.367479,
+                        43.713929
+                    ],
+                    [
+                        -79.365168,
+                        43.714408
+                    ],
+                    [
+                        -79.365112,
+                        43.714422
+                    ],
+                    [
+                        -79.365051,
+                        43.714435
+                    ],
+                    [
+                        -79.364733,
+                        43.713714
+                    ],
+                    [
+                        -79.364693,
+                        43.71369
+                    ],
+                    [
+                        -79.36465,
+                        43.713632
+                    ],
+                    [
+                        -79.364568,
+                        43.713539
+                    ],
+                    [
+                        -79.363886,
+                        43.71368
+                    ],
+                    [
+                        -79.362996,
+                        43.713861
+                    ],
+                    [
+                        -79.362291,
+                        43.714007
+                    ],
+                    [
+                        -79.361154,
+                        43.71423
+                    ],
+                    [
+                        -79.359905,
+                        43.714473
+                    ],
+                    [
+                        -79.359858,
+                        43.714457
+                    ],
+                    [
+                        -79.359521,
+                        43.71375
+                    ],
+                    [
+                        -79.359461,
+                        43.713763
+                    ],
+                    [
+                        -79.359335,
+                        43.713792
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077368914,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3703612,
+                    43.7143911
+                ],
+                [
+                    -79.3593352,
+                    43.7137919
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

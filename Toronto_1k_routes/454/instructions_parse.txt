@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [542.4], "durations": [390.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [163.6], "durations": [117.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Renwick"], "end_streets": ["Renwick"], "distances": [7.1], "durations": [5.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Pape"], "end_streets": ["Pape"], "distances": [139.4], "durations": [100.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Eastern"], "end_streets": ["Eastern"], "distances": [14.4], "durations": [10.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.6], "durations": [4.8]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

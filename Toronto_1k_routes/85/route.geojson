@@ -1,0 +1,231 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.43341,
+        43.672371,
+        -79.427343,
+        43.674646
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.43341,
+                43.672371,
+                -79.427343,
+                43.674646
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 686.8,
+                        "duration": 494.5,
+                        "steps": [
+                            {
+                                "distance": 154.5,
+                                "duration": 111.3,
+                                "type": 11,
+                                "instruction": "Head north on Shaw Street",
+                                "name": "Shaw Street",
+                                "way_points": [
+                                    0,
+                                    3
+                                ]
+                            },
+                            {
+                                "distance": 5.1,
+                                "duration": 3.7,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    3,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 40.8,
+                                "duration": 29.3,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    4,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 196.5,
+                                "duration": 141.5,
+                                "type": 0,
+                                "instruction": "Turn left onto Marchmount Road",
+                                "name": "Marchmount Road",
+                                "way_points": [
+                                    6,
+                                    7
+                                ]
+                            },
+                            {
+                                "distance": 71.7,
+                                "duration": 51.7,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    7,
+                                    11
+                                ]
+                            },
+                            {
+                                "distance": 208.4,
+                                "duration": 150.1,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    11,
+                                    17
+                                ]
+                            },
+                            {
+                                "distance": 9.7,
+                                "duration": 7.0,
+                                "type": 1,
+                                "instruction": "Turn right onto Delaware Avenue North",
+                                "name": "Delaware Avenue North",
+                                "way_points": [
+                                    17,
+                                    18
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Delaware Avenue North, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    18,
+                                    18
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    18
+                ],
+                "summary": {
+                    "distance": 686.8,
+                    "duration": 494.5
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.427343,
+                        43.672371
+                    ],
+                    [
+                        -79.427715,
+                        43.673289
+                    ],
+                    [
+                        -79.427829,
+                        43.673572
+                    ],
+                    [
+                        -79.427883,
+                        43.673705
+                    ],
+                    [
+                        -79.427947,
+                        43.673704
+                    ],
+                    [
+                        -79.428078,
+                        43.673994
+                    ],
+                    [
+                        -79.4281,
+                        43.674053
+                    ],
+                    [
+                        -79.430543,
+                        43.674036
+                    ],
+                    [
+                        -79.430559,
+                        43.674078
+                    ],
+                    [
+                        -79.43059,
+                        43.674097
+                    ],
+                    [
+                        -79.430713,
+                        43.674369
+                    ],
+                    [
+                        -79.430814,
+                        43.674646
+                    ],
+                    [
+                        -79.430919,
+                        43.67464
+                    ],
+                    [
+                        -79.431036,
+                        43.674632
+                    ],
+                    [
+                        -79.432135,
+                        43.674525
+                    ],
+                    [
+                        -79.432748,
+                        43.674462
+                    ],
+                    [
+                        -79.433278,
+                        43.674384
+                    ],
+                    [
+                        -79.433375,
+                        43.674368
+                    ],
+                    [
+                        -79.43341,
+                        43.674452
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077098419,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4273429,
+                    43.6723711
+                ],
+                [
+                    -79.4334097,
+                    43.674452
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

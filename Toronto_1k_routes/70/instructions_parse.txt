@@ -1,0 +1,6 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": ["Bedford", "Bedford"], "end_streets": [], "distances": [54.1], "durations": [39.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [501.0], "durations": [360.7]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [360.3], "durations": [259.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [5.9], "durations": [4.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Davenport"], "end_streets": ["Davenport"], "distances": [29.9], "durations": [21.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Davenport"], "distances": [0.0], "durations": [0.0]}

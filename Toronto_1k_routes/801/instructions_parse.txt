@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": ["Boon", "Boon"], "end_streets": [], "distances": [145.2], "durations": [104.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [101.6], "durations": [73.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Earlscourt"], "end_streets": ["Earlscourt"], "distances": [48.8], "durations": [35.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Morrison"], "end_streets": ["Morrison"], "distances": [100.8], "durations": [72.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Nairn"], "end_streets": ["Nairn"], "distances": [45.9], "durations": [33.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [100.0], "durations": [72.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Harvie"], "end_streets": ["Harvie"], "distances": [59.8], "durations": [43.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [308.7], "durations": [222.3]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [6.8], "durations": [4.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["McRoberts"], "end_streets": ["McRoberts"], "distances": [156.9], "durations": [112.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [51.8], "durations": [37.3]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

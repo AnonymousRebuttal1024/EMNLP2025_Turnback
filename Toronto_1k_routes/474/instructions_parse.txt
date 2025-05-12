@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": ["Argyle", "Argyle"], "end_streets": [], "distances": [736.1], "durations": [530.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Gladstone"], "end_streets": ["Gladstone"], "distances": [132.4], "durations": [95.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Peel"], "end_streets": ["Peel"], "distances": [5.7], "durations": [4.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [171.7], "durations": [123.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [112.8], "durations": [81.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Dufferin"], "end_streets": ["Dufferin"], "distances": [7.7], "durations": [5.6]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Dufferin"], "distances": [0.0], "durations": [0.0]}

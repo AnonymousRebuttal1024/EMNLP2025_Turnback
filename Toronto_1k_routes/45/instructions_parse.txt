@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Ardmore", "Ardmore"], "end_streets": [], "distances": [9.3], "durations": [6.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [833.9], "durations": [600.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [544.7], "durations": [392.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [18.8], "durations": [13.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [101.1], "durations": [72.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [72.9], "durations": [52.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [3.1], "durations": [2.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Chaplin"], "end_streets": ["Chaplin"], "distances": [38.0], "durations": [27.3]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Chaplin"], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["southwest"], "start_streets": ["Kings", "Kings"], "end_streets": [], "distances": [172.3], "durations": [124.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Park"], "end_streets": ["Park"], "distances": [322.2], "durations": [232.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [11.1], "durations": [8.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [22.8], "durations": [16.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [214.7], "durations": [154.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Cloverhill"], "end_streets": ["Cloverhill"], "distances": [45.5], "durations": [32.8]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Cloverhill"], "distances": [0.0], "durations": [0.0]}

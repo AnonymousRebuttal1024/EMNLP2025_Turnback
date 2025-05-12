@@ -1,0 +1,140 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.286997,
+        43.70691,
+        -79.284588,
+        43.710874
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.286997,
+                43.70691,
+                -79.284588,
+                43.710874
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 599.4,
+                        "duration": 431.5,
+                        "steps": [
+                            {
+                                "distance": 202.6,
+                                "duration": 145.8,
+                                "type": 11,
+                                "instruction": "Head east on Nancy Avenue",
+                                "name": "Nancy Avenue",
+                                "way_points": [
+                                    0,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 396.8,
+                                "duration": 285.7,
+                                "type": 0,
+                                "instruction": "Turn left onto Herron Avenue",
+                                "name": "Herron Avenue",
+                                "way_points": [
+                                    4,
+                                    9
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Herron Avenue, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    9,
+                                    9
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    9
+                ],
+                "summary": {
+                    "distance": 599.4,
+                    "duration": 431.5
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.286997,
+                        43.70691
+                    ],
+                    [
+                        -79.286888,
+                        43.706935
+                    ],
+                    [
+                        -79.285787,
+                        43.707171
+                    ],
+                    [
+                        -79.284684,
+                        43.707424
+                    ],
+                    [
+                        -79.284588,
+                        43.707446
+                    ],
+                    [
+                        -79.284908,
+                        43.708207
+                    ],
+                    [
+                        -79.285229,
+                        43.70893
+                    ],
+                    [
+                        -79.285549,
+                        43.709667
+                    ],
+                    [
+                        -79.285841,
+                        43.710398
+                    ],
+                    [
+                        -79.285939,
+                        43.710874
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731078277978,
+        "query": {
+            "coordinates": [
+                [
+                    -79.2869966,
+                    43.7069102
+                ],
+                [
+                    -79.285939,
+                    43.7108738
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

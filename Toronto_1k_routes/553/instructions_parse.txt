@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [7.9], "durations": [5.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [431.1], "durations": [310.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [15.3], "durations": [11.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [252.6], "durations": [181.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Verral"], "end_streets": ["Verral"], "distances": [66.8], "durations": [48.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Busy"], "end_streets": ["Busy"], "distances": [4.0], "durations": [2.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [57.2], "durations": [41.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [94.8], "durations": [68.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.8], "durations": [3.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Colgate"], "end_streets": ["Colgate"], "distances": [39.9], "durations": [28.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Colgate"], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [117.1], "durations": [84.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [53.5], "durations": [38.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Rutland"], "end_streets": ["Rutland"], "distances": [42.8], "durations": [30.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Laughton"], "end_streets": ["Laughton"], "distances": [24.3], "durations": [17.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [57.7], "durations": [41.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [335.5], "durations": [241.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [205.8], "durations": [148.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [380.4], "durations": [273.9]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [24.4], "durations": [17.6]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": [], "end_streets": [], "distances": [36.8], "durations": [26.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [11.7], "durations": [8.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

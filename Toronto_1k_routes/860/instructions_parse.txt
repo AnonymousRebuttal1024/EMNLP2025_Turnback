@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Briar", "Briar"], "end_streets": [], "distances": [644.3], "durations": [463.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [8.3], "durations": [5.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [20.7], "durations": [14.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [320.2], "durations": [230.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [526.4], "durations": [379.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [116.3], "durations": [83.7]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [88.7], "durations": [63.9]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": ["Blythwood"], "end_streets": ["Blythwood"], "distances": [16.3], "durations": [11.8]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Blythwood"], "distances": [0.0], "durations": [0.0]}

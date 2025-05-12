@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": ["Greer", "Greer"], "end_streets": [], "distances": [302.1], "durations": [217.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Chatsworth"], "end_streets": ["Chatsworth"], "distances": [23.9], "durations": [17.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [3.2], "durations": [2.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [264.1], "durations": [190.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [59.2], "durations": [42.6]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [98.9], "durations": [71.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Chatsworth"], "end_streets": ["Chatsworth"], "distances": [5.7], "durations": [4.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Duplex"], "end_streets": ["Duplex"], "distances": [914.2], "durations": [658.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Duplex"], "distances": [0.0], "durations": [0.0]}

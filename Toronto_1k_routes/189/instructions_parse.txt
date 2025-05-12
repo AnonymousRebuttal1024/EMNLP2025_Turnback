@@ -1,0 +1,5 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Mimico", "Mimico"], "end_streets": [], "distances": [247.2], "durations": [178.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [423.8], "durations": [305.1]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [337.0], "durations": [242.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Fleeceline"], "end_streets": ["Fleeceline"], "distances": [54.2], "durations": [39.0]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Fleeceline"], "distances": [0.0], "durations": [0.0]}

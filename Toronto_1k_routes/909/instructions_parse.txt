@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": ["Rhodes", "Rhodes"], "end_streets": [], "distances": [673.7], "durations": [485.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [70.8], "durations": [51.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Craven"], "end_streets": ["Craven"], "distances": [80.1], "durations": [57.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [50.8], "durations": [36.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Ashdale"], "end_streets": ["Ashdale"], "distances": [9.5], "durations": [6.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [4.9], "durations": [3.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [204.8], "durations": [147.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

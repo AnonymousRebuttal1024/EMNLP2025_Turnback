@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["southeast"], "start_streets": ["Triller", "Triller"], "end_streets": [], "distances": [18.4], "durations": [13.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [99.2], "durations": [71.5]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [109.6], "durations": [78.9]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [558.8], "durations": [402.4]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [11.2], "durations": [8.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [104.2], "durations": [75.0]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [7.0], "durations": [5.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Cowan"], "end_streets": ["Cowan"], "distances": [41.7], "durations": [30.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Milky"], "end_streets": ["Milky"], "distances": [250.9], "durations": [180.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [134.0], "durations": [96.5]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [46.8], "durations": [33.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Melbourne"], "end_streets": ["Melbourne"], "distances": [47.7], "durations": [34.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Melbourne"], "distances": [0.0], "durations": [0.0]}

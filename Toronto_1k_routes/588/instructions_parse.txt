@@ -1,0 +1,6 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [40.2], "durations": [29.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Brentcliffe"], "end_streets": ["Brentcliffe"], "distances": [325.2], "durations": [234.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Don"], "end_streets": ["Don"], "distances": [350.4], "durations": [252.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [94.7], "durations": [68.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Fredrick"], "end_streets": ["Fredrick"], "distances": [11.4], "durations": [8.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Fredrick"], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,184 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.310667,
+        43.671174,
+        -79.30418,
+        43.677442
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.310667,
+                43.671174,
+                -79.30418,
+                43.677442
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 905.8,
+                        "duration": 652.2,
+                        "steps": [
+                            {
+                                "distance": 66.6,
+                                "duration": 48.0,
+                                "type": 11,
+                                "instruction": "Head southeast on Brookside Drive",
+                                "name": "Brookside Drive",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 839.2,
+                                "duration": 604.2,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    1,
+                                    20
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at your destination, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    20,
+                                    20
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    20
+                ],
+                "summary": {
+                    "distance": 905.8,
+                    "duration": 652.2
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.304744,
+                        43.677442
+                    ],
+                    [
+                        -79.30418,
+                        43.677003
+                    ],
+                    [
+                        -79.30428,
+                        43.676958
+                    ],
+                    [
+                        -79.304914,
+                        43.676613
+                    ],
+                    [
+                        -79.305574,
+                        43.676126
+                    ],
+                    [
+                        -79.30574,
+                        43.675983
+                    ],
+                    [
+                        -79.30593,
+                        43.675819
+                    ],
+                    [
+                        -79.305968,
+                        43.675786
+                    ],
+                    [
+                        -79.30612,
+                        43.675655
+                    ],
+                    [
+                        -79.306591,
+                        43.675249
+                    ],
+                    [
+                        -79.30665,
+                        43.675197
+                    ],
+                    [
+                        -79.306705,
+                        43.675147
+                    ],
+                    [
+                        -79.307476,
+                        43.674447
+                    ],
+                    [
+                        -79.307876,
+                        43.674111
+                    ],
+                    [
+                        -79.307949,
+                        43.674045
+                    ],
+                    [
+                        -79.30804,
+                        43.673964
+                    ],
+                    [
+                        -79.308992,
+                        43.673113
+                    ],
+                    [
+                        -79.310078,
+                        43.672136
+                    ],
+                    [
+                        -79.310241,
+                        43.671937
+                    ],
+                    [
+                        -79.310429,
+                        43.671634
+                    ],
+                    [
+                        -79.310667,
+                        43.671174
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731076919634,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3047442,
+                    43.6774423
+                ],
+                [
+                    -79.3106667,
+                    43.6711743
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

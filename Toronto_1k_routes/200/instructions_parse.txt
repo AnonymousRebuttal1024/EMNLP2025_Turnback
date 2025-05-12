@@ -1,0 +1,4 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [91.3], "durations": [65.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Spit"], "end_streets": ["Spit"], "distances": [615.3], "durations": [443.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [27.6], "durations": [19.8]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

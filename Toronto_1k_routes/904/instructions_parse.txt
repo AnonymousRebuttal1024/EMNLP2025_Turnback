@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Langholm", "Langholm"], "end_streets": [], "distances": [188.6], "durations": [135.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Renshaw"], "end_streets": ["Renshaw"], "distances": [155.3], "durations": [111.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Tavistock"], "end_streets": ["Tavistock"], "distances": [277.1], "durations": [199.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [851.6], "durations": [613.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [7.4], "durations": [5.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [240.0], "durations": [172.8]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [29.6], "durations": [21.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Sir"], "end_streets": ["Sir"], "distances": [93.0], "durations": [66.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [108.2], "durations": [77.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [60.3], "durations": [43.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

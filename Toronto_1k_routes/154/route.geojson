@@ -1,0 +1,243 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.308231,
+        43.730694,
+        -79.303626,
+        43.735992
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.308231,
+                43.730694,
+                -79.303626,
+                43.735992
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 858.3,
+                        "duration": 618.0,
+                        "steps": [
+                            {
+                                "distance": 16.4,
+                                "duration": 11.8,
+                                "type": 11,
+                                "instruction": "Head south",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 63.4,
+                                "duration": 45.7,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    1,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 465.6,
+                                "duration": 335.2,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    4,
+                                    14
+                                ]
+                            },
+                            {
+                                "distance": 23.3,
+                                "duration": 16.8,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    14,
+                                    16
+                                ]
+                            },
+                            {
+                                "distance": 7.7,
+                                "duration": 5.5,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    16,
+                                    18
+                                ]
+                            },
+                            {
+                                "distance": 108.5,
+                                "duration": 78.1,
+                                "type": 0,
+                                "instruction": "Turn left onto Arncliffe Crescent",
+                                "name": "Arncliffe Crescent",
+                                "way_points": [
+                                    18,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 173.4,
+                                "duration": 124.9,
+                                "type": 3,
+                                "instruction": "Turn sharp right onto Shangarry Drive",
+                                "name": "Shangarry Drive",
+                                "way_points": [
+                                    19,
+                                    21
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Shangarry Drive, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    21,
+                                    21
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    21
+                ],
+                "summary": {
+                    "distance": 858.3,
+                    "duration": 618.0
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.308231,
+                        43.735951
+                    ],
+                    [
+                        -79.308168,
+                        43.73581
+                    ],
+                    [
+                        -79.307814,
+                        43.735885
+                    ],
+                    [
+                        -79.307768,
+                        43.735913
+                    ],
+                    [
+                        -79.307425,
+                        43.735992
+                    ],
+                    [
+                        -79.3074,
+                        43.735927
+                    ],
+                    [
+                        -79.307215,
+                        43.735452
+                    ],
+                    [
+                        -79.307188,
+                        43.735382
+                    ],
+                    [
+                        -79.307099,
+                        43.735153
+                    ],
+                    [
+                        -79.306896,
+                        43.734631
+                    ],
+                    [
+                        -79.306661,
+                        43.734065
+                    ],
+                    [
+                        -79.30637,
+                        43.73336
+                    ],
+                    [
+                        -79.306295,
+                        43.73318
+                    ],
+                    [
+                        -79.306025,
+                        43.732528
+                    ],
+                    [
+                        -79.305784,
+                        43.731977
+                    ],
+                    [
+                        -79.305663,
+                        43.731982
+                    ],
+                    [
+                        -79.305494,
+                        43.731986
+                    ],
+                    [
+                        -79.305487,
+                        43.731964
+                    ],
+                    [
+                        -79.305466,
+                        43.73192
+                    ],
+                    [
+                        -79.304171,
+                        43.732196
+                    ],
+                    [
+                        -79.304184,
+                        43.732089
+                    ],
+                    [
+                        -79.303626,
+                        43.730694
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077322367,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3082311,
+                    43.7359505
+                ],
+                [
+                    -79.3036256,
+                    43.7306942
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

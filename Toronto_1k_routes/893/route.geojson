@@ -1,0 +1,171 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.435338,
+        43.69601,
+        -79.426549,
+        43.697495
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.435338,
+                43.69601,
+                -79.426549,
+                43.697495
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 853.6,
+                        "duration": 614.6,
+                        "steps": [
+                            {
+                                "distance": 102.4,
+                                "duration": 73.7,
+                                "type": 11,
+                                "instruction": "Head east on Gloucester Grove",
+                                "name": "Gloucester Grove",
+                                "way_points": [
+                                    0,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 166.4,
+                                "duration": 119.8,
+                                "type": 1,
+                                "instruction": "Turn right onto Strathearn Road",
+                                "name": "Strathearn Road",
+                                "way_points": [
+                                    2,
+                                    7
+                                ]
+                            },
+                            {
+                                "distance": 584.8,
+                                "duration": 421.0,
+                                "type": 0,
+                                "instruction": "Turn left onto Ava Road",
+                                "name": "Ava Road",
+                                "way_points": [
+                                    7,
+                                    14
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Ava Road, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    14,
+                                    14
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    14
+                ],
+                "summary": {
+                    "distance": 853.6,
+                    "duration": 614.6
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.435338,
+                        43.697181
+                    ],
+                    [
+                        -79.435293,
+                        43.697191
+                    ],
+                    [
+                        -79.434113,
+                        43.697432
+                    ],
+                    [
+                        -79.433951,
+                        43.697001
+                    ],
+                    [
+                        -79.433947,
+                        43.69691
+                    ],
+                    [
+                        -79.433878,
+                        43.696821
+                    ],
+                    [
+                        -79.433592,
+                        43.696062
+                    ],
+                    [
+                        -79.433527,
+                        43.69601
+                    ],
+                    [
+                        -79.431623,
+                        43.696404
+                    ],
+                    [
+                        -79.431187,
+                        43.696496
+                    ],
+                    [
+                        -79.43095,
+                        43.696547
+                    ],
+                    [
+                        -79.429656,
+                        43.696826
+                    ],
+                    [
+                        -79.427657,
+                        43.697252
+                    ],
+                    [
+                        -79.426621,
+                        43.697478
+                    ],
+                    [
+                        -79.426549,
+                        43.697495
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079154166,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4353382,
+                    43.6971807
+                ],
+                [
+                    -79.4265487,
+                    43.6974945
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

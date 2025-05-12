@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [26.0], "durations": [18.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [49.9], "durations": [35.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [890.4], "durations": [641.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [59.8], "durations": [43.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [7.0], "durations": [5.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Ancaster"], "end_streets": ["Ancaster"], "distances": [194.7], "durations": [140.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [79.9], "durations": [57.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Spalding"], "end_streets": ["Spalding"], "distances": [191.8], "durations": [138.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [99.7], "durations": [71.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Plewes"], "end_streets": ["Plewes"], "distances": [8.0], "durations": [5.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Garratt"], "end_streets": ["Garratt"], "distances": [96.7], "durations": [69.6]},
+{"actions": ["Continue", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [70.2], "durations": [50.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

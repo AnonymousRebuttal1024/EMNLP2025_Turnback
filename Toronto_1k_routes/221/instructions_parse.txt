@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [38.0], "durations": [27.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [503.0], "durations": [362.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Wingold"], "end_streets": ["Wingold"], "distances": [20.9], "durations": [15.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [758.2], "durations": [545.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [61.5], "durations": [44.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Wenderly"], "end_streets": ["Wenderly"], "distances": [43.8], "durations": [31.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Wenderly"], "distances": [0.0], "durations": [0.0]}

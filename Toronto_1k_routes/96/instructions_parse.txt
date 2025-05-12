@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [16.5], "durations": [11.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [251.3], "durations": [180.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Stamford"], "end_streets": ["Stamford"], "distances": [89.5], "durations": [64.4]},
+{"actions": ["Turn", "continue"], "directions": ["left", "North", "North"], "start_streets": ["Stamford"], "end_streets": ["Stamford"], "distances": [184.6], "durations": [132.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Karnwood"], "end_streets": ["Karnwood"], "distances": [474.2], "durations": [341.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Knightsbridge"], "end_streets": ["Knightsbridge"], "distances": [86.3], "durations": [62.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [273.2], "durations": [196.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Kingswell"], "end_streets": ["Kingswell"], "distances": [12.3], "durations": [8.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Kingswell"], "distances": [0.0], "durations": [0.0]}

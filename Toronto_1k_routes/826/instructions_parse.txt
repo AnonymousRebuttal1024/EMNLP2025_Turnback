@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [11.2], "durations": [8.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Monastery"], "end_streets": ["Monastery"], "distances": [61.5], "durations": [44.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Fairfax"], "end_streets": ["Fairfax"], "distances": [193.4], "durations": [139.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [17.3], "durations": [12.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [31.3], "durations": [22.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [38.4], "durations": [27.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [591.8], "durations": [426.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [314.3], "durations": [226.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [237.7], "durations": [171.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [175.6], "durations": [126.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [58.6], "durations": [42.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

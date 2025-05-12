@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": ["Portland", "Portland"], "end_streets": [], "distances": [336.0], "durations": [241.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.7], "durations": [3.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [284.0], "durations": [204.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [54.5], "durations": [39.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [148.2], "durations": [106.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Carr"], "end_streets": ["Carr"], "distances": [4.2], "durations": [3.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Denison"], "end_streets": ["Denison"], "distances": [332.4], "durations": [239.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [197.4], "durations": [142.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [173.7], "durations": [125.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Kensington"], "end_streets": ["Kensington"], "distances": [3.8], "durations": [2.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Kensington"], "end_streets": ["Kensington"], "distances": [35.5], "durations": [25.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [37.1], "durations": [26.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

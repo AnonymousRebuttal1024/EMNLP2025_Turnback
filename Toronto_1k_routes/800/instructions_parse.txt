@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": ["Avenal", "Avenal"], "end_streets": [], "distances": [322.6], "durations": [232.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Glen"], "end_streets": ["Glen"], "distances": [645.3], "durations": [464.6]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": ["Old"], "end_streets": ["Old"], "distances": [181.3], "durations": [130.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [3.8], "durations": [2.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [105.2], "durations": [75.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [2.7], "durations": [2.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Elm"], "end_streets": ["Elm"], "distances": [38.3], "durations": [27.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Elm"], "end_streets": ["Elm"], "distances": [286.3], "durations": [206.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Newgate"], "end_streets": ["Newgate"], "distances": [6.5], "durations": [4.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Newgate"], "distances": [0.0], "durations": [0.0]}

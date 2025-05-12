@@ -1,0 +1,278 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.311013,
+        43.707082,
+        -79.304193,
+        43.711511
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.311013,
+                43.707082,
+                -79.304193,
+                43.711511
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 898.1,
+                        "duration": 646.6,
+                        "steps": [
+                            {
+                                "distance": 14.6,
+                                "duration": 10.5,
+                                "type": 11,
+                                "instruction": "Head southwest",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 287.3,
+                                "duration": 206.8,
+                                "type": 0,
+                                "instruction": "Turn left onto Dohme Avenue",
+                                "name": "Dohme Avenue",
+                                "way_points": [
+                                    1,
+                                    11
+                                ]
+                            },
+                            {
+                                "distance": 41.9,
+                                "duration": 30.2,
+                                "type": 0,
+                                "instruction": "Turn left onto Westview Boulevard",
+                                "name": "Westview Boulevard",
+                                "way_points": [
+                                    11,
+                                    12
+                                ]
+                            },
+                            {
+                                "distance": 235.8,
+                                "duration": 169.8,
+                                "type": 1,
+                                "instruction": "Turn right onto Selwyn Avenue",
+                                "name": "Selwyn Avenue",
+                                "way_points": [
+                                    12,
+                                    18
+                                ]
+                            },
+                            {
+                                "distance": 5.1,
+                                "duration": 3.7,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    18,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 168.3,
+                                "duration": 121.2,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    19,
+                                    23
+                                ]
+                            },
+                            {
+                                "distance": 135.3,
+                                "duration": 97.4,
+                                "type": 12,
+                                "instruction": "Keep left",
+                                "name": "-",
+                                "way_points": [
+                                    23,
+                                    26
+                                ]
+                            },
+                            {
+                                "distance": 9.8,
+                                "duration": 7.1,
+                                "type": 1,
+                                "instruction": "Turn right onto Merritt Road",
+                                "name": "Merritt Road",
+                                "way_points": [
+                                    26,
+                                    27
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Merritt Road, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    27,
+                                    27
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    27
+                ],
+                "summary": {
+                    "distance": 898.1,
+                    "duration": 646.6
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.31093,
+                        43.711511
+                    ],
+                    [
+                        -79.311013,
+                        43.711394
+                    ],
+                    [
+                        -79.310714,
+                        43.711268
+                    ],
+                    [
+                        -79.309968,
+                        43.710953
+                    ],
+                    [
+                        -79.309313,
+                        43.710677
+                    ],
+                    [
+                        -79.309112,
+                        43.710592
+                    ],
+                    [
+                        -79.309002,
+                        43.710545
+                    ],
+                    [
+                        -79.308886,
+                        43.710495
+                    ],
+                    [
+                        -79.308701,
+                        43.710414
+                    ],
+                    [
+                        -79.30852,
+                        43.710335
+                    ],
+                    [
+                        -79.307992,
+                        43.710129
+                    ],
+                    [
+                        -79.307919,
+                        43.710101
+                    ],
+                    [
+                        -79.307658,
+                        43.710428
+                    ],
+                    [
+                        -79.307588,
+                        43.710401
+                    ],
+                    [
+                        -79.307485,
+                        43.710339
+                    ],
+                    [
+                        -79.307452,
+                        43.710293
+                    ],
+                    [
+                        -79.307248,
+                        43.709799
+                    ],
+                    [
+                        -79.306959,
+                        43.709102
+                    ],
+                    [
+                        -79.306677,
+                        43.708462
+                    ],
+                    [
+                        -79.306615,
+                        43.708474
+                    ],
+                    [
+                        -79.306569,
+                        43.708366
+                    ],
+                    [
+                        -79.306148,
+                        43.707379
+                    ],
+                    [
+                        -79.306089,
+                        43.707288
+                    ],
+                    [
+                        -79.305848,
+                        43.707086
+                    ],
+                    [
+                        -79.3058,
+                        43.707082
+                    ],
+                    [
+                        -79.304326,
+                        43.70741
+                    ],
+                    [
+                        -79.304237,
+                        43.70743
+                    ],
+                    [
+                        -79.304193,
+                        43.707347
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731078276558,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3109304,
+                    43.7115109
+                ],
+                [
+                    -79.3041934,
+                    43.7073469
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

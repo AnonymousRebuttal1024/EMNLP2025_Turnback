@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [68.2], "durations": [49.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [81.7], "durations": [58.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Temple"], "end_streets": ["Temple"], "distances": [12.7], "durations": [9.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Tyndall"], "end_streets": ["Tyndall"], "distances": [293.0], "durations": [211.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [141.0], "durations": [101.5]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [318.4], "durations": [229.2]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [110.4], "durations": [79.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [188.5], "durations": [135.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [7.4], "durations": [5.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Jameson"], "end_streets": ["Jameson"], "distances": [1.5], "durations": [1.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Jameson"], "distances": [0.0], "durations": [0.0]}

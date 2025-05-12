@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [8.2], "durations": [5.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [346.6], "durations": [249.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [225.8], "durations": [162.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [286.8], "durations": [206.5]},
+{"actions": ["Turn", "continue"], "directions": ["right", "East", "East"], "start_streets": ["East"], "end_streets": ["East"], "distances": [16.5], "durations": [11.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [683.2], "durations": [491.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Sackville"], "end_streets": ["Sackville"], "distances": [26.9], "durations": [19.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [4.7], "durations": [3.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

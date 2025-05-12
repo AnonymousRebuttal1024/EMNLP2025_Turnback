@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [69.6], "durations": [50.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [169.6], "durations": [122.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.7], "durations": [4.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Frater"], "end_streets": ["Frater"], "distances": [4.7], "durations": [3.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Binswood"], "end_streets": ["Binswood"], "distances": [82.7], "durations": [59.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Sammon"], "end_streets": ["Sammon"], "distances": [87.1], "durations": [62.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Woodington"], "end_streets": ["Woodington"], "distances": [163.7], "durations": [117.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Springdale"], "end_streets": ["Springdale"], "distances": [238.3], "durations": [171.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.3], "durations": [4.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

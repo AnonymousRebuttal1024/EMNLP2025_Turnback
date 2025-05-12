@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [6.6], "durations": [4.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Taunton"], "end_streets": ["Taunton"], "distances": [257.1], "durations": [185.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Soudan"], "end_streets": ["Soudan"], "distances": [71.9], "durations": [51.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [5.6], "durations": [4.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [25.0], "durations": [18.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [2.6], "durations": [1.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [191.6], "durations": [138.0]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [210.9], "durations": [151.8]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [509.4], "durations": [366.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [3.0], "durations": [2.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [310.4], "durations": [223.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [20.0], "durations": [14.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

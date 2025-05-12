@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": ["Arlington", "Arlington"], "end_streets": [], "distances": [429.2], "durations": [309.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Vaughan"], "end_streets": ["Vaughan"], "distances": [11.7], "durations": [8.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Arlington"], "end_streets": ["Arlington"], "distances": [183.7], "durations": [132.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Earlsdale"], "end_streets": ["Earlsdale"], "distances": [266.9], "durations": [192.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Winona"], "end_streets": ["Winona"], "distances": [43.5], "durations": [31.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Earlsdale"], "end_streets": ["Earlsdale"], "distances": [316.9], "durations": [228.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Oakwood"], "end_streets": ["Oakwood"], "distances": [11.5], "durations": [8.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Earlsdale"], "end_streets": ["Earlsdale"], "distances": [56.9], "durations": [40.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [53.5], "durations": [38.6]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

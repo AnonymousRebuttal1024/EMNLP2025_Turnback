@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["southeast"], "start_streets": [], "end_streets": [], "distances": [16.4], "durations": [11.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [8.7], "durations": [6.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [18.1], "durations": [13.0]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [15.8], "durations": [11.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Riverside"], "end_streets": ["Riverside"], "distances": [249.9], "durations": [179.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Old"], "end_streets": ["Old"], "distances": [408.1], "durations": [293.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Humberview"], "end_streets": ["Humberview"], "distances": [39.7], "durations": [28.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Humbercrest"], "end_streets": ["Humbercrest"], "distances": [296.7], "durations": [213.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [70.4], "durations": [50.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Valleyview"], "end_streets": ["Valleyview"], "distances": [86.3], "durations": [62.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Valleyview"], "distances": [0.0], "durations": [0.0]}

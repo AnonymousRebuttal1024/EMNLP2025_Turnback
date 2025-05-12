@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": ["Parkade", "Parkade"], "end_streets": [], "distances": [31.5], "durations": [22.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Maginn"], "end_streets": ["Maginn"], "distances": [51.5], "durations": [37.1]},
+{"actions": ["Continue", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [58.0], "durations": [41.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [48.4], "durations": [34.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Karl"], "end_streets": ["Karl"], "distances": [7.3], "durations": [5.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Clock"], "end_streets": ["Clock"], "distances": [80.6], "durations": [58.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [83.3], "durations": [60.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [15.2], "durations": [11.0]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [27.6], "durations": [19.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [152.3], "durations": [109.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [86.3], "durations": [62.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

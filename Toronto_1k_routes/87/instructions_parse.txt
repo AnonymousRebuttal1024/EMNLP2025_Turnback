@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": ["Denton", "Denton"], "end_streets": [], "distances": [902.9], "durations": [650.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [14.2], "durations": [10.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [143.9], "durations": [103.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [239.4], "durations": [172.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [184.4], "durations": [132.7]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [6.1], "durations": [4.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Newman"], "end_streets": ["Newman"], "distances": [5.9], "durations": [4.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Newman"], "distances": [0.0], "durations": [0.0]}

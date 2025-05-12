@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [66.7], "durations": [48.0]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [346.1], "durations": [249.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [156.2], "durations": [112.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [273.4], "durations": [196.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [5.1], "durations": [3.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Broadway"], "end_streets": ["Broadway"], "distances": [947.5], "durations": [682.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [6.0], "durations": [4.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [7.2], "durations": [5.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Bessborough"], "end_streets": ["Bessborough"], "distances": [177.5], "durations": [127.8]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Bessborough"], "distances": [0.0], "durations": [0.0]}

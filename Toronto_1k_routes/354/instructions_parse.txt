@@ -1,0 +1,5 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": ["Sutherland", "Sutherland"], "end_streets": [], "distances": [805.9], "durations": [580.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [8.7], "durations": [6.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [24.9], "durations": [17.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [842.9], "durations": [606.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

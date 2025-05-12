@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": ["Spadina", "Spadina"], "end_streets": [], "distances": [8.8], "durations": [6.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.6], "durations": [4.7]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [184.2], "durations": [132.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Baldwin"], "end_streets": ["Baldwin"], "distances": [139.6], "durations": [100.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [270.3], "durations": [194.6]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [566.1], "durations": [407.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [12.7], "durations": [9.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [113.8], "durations": [81.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [89.9], "durations": [64.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

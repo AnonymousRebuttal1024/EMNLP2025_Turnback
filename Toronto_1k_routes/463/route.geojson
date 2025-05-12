@@ -1,0 +1,323 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.300019,
+        43.722606,
+        -79.293017,
+        43.729978
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.300019,
+                43.722606,
+                -79.293017,
+                43.729978
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1358.1,
+                        "duration": 977.9,
+                        "steps": [
+                            {
+                                "distance": 61.4,
+                                "duration": 44.2,
+                                "type": 11,
+                                "instruction": "Head east",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 78.4,
+                                "duration": 56.5,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    1,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 36.9,
+                                "duration": 26.6,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    2,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 315.0,
+                                "duration": 226.8,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    5,
+                                    9
+                                ]
+                            },
+                            {
+                                "distance": 263.3,
+                                "duration": 189.6,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    9,
+                                    14
+                                ]
+                            },
+                            {
+                                "distance": 42.0,
+                                "duration": 30.3,
+                                "type": 3,
+                                "instruction": "Turn sharp right",
+                                "name": "-",
+                                "way_points": [
+                                    14,
+                                    17
+                                ]
+                            },
+                            {
+                                "distance": 2.1,
+                                "duration": 1.5,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    17,
+                                    18
+                                ]
+                            },
+                            {
+                                "distance": 321.9,
+                                "duration": 231.7,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    18,
+                                    23
+                                ]
+                            },
+                            {
+                                "distance": 23.0,
+                                "duration": 16.6,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    23,
+                                    25
+                                ]
+                            },
+                            {
+                                "distance": 160.2,
+                                "duration": 115.3,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    25,
+                                    27
+                                ]
+                            },
+                            {
+                                "distance": 53.9,
+                                "duration": 38.8,
+                                "type": 0,
+                                "instruction": "Turn left onto Gatineau Corridor Recreation Trail",
+                                "name": "Gatineau Corridor Recreation Trail",
+                                "way_points": [
+                                    27,
+                                    30
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Gatineau Corridor Recreation Trail, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    30,
+                                    30
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    30
+                ],
+                "summary": {
+                    "distance": 1358.1,
+                    "duration": 977.9
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.293873,
+                        43.722606
+                    ],
+                    [
+                        -79.293137,
+                        43.722753
+                    ],
+                    [
+                        -79.293413,
+                        43.723429
+                    ],
+                    [
+                        -79.293271,
+                        43.723491
+                    ],
+                    [
+                        -79.293075,
+                        43.723573
+                    ],
+                    [
+                        -79.293017,
+                        43.723597
+                    ],
+                    [
+                        -79.293472,
+                        43.72469
+                    ],
+                    [
+                        -79.293487,
+                        43.724726
+                    ],
+                    [
+                        -79.293601,
+                        43.724738
+                    ],
+                    [
+                        -79.294247,
+                        43.726238
+                    ],
+                    [
+                        -79.294426,
+                        43.726199
+                    ],
+                    [
+                        -79.295319,
+                        43.726008
+                    ],
+                    [
+                        -79.295798,
+                        43.725905
+                    ],
+                    [
+                        -79.297302,
+                        43.725543
+                    ],
+                    [
+                        -79.297352,
+                        43.725503
+                    ],
+                    [
+                        -79.29737,
+                        43.725573
+                    ],
+                    [
+                        -79.297403,
+                        43.725782
+                    ],
+                    [
+                        -79.297418,
+                        43.725878
+                    ],
+                    [
+                        -79.297393,
+                        43.725882
+                    ],
+                    [
+                        -79.297519,
+                        43.726192
+                    ],
+                    [
+                        -79.297539,
+                        43.726282
+                    ],
+                    [
+                        -79.297696,
+                        43.726656
+                    ],
+                    [
+                        -79.2985,
+                        43.728581
+                    ],
+                    [
+                        -79.298528,
+                        43.728657
+                    ],
+                    [
+                        -79.29866,
+                        43.728628
+                    ],
+                    [
+                        -79.298802,
+                        43.728597
+                    ],
+                    [
+                        -79.298958,
+                        43.728965
+                    ],
+                    [
+                        -79.299373,
+                        43.729978
+                    ],
+                    [
+                        -79.299632,
+                        43.729913
+                    ],
+                    [
+                        -79.299734,
+                        43.729901
+                    ],
+                    [
+                        -79.300019,
+                        43.729952
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731078087240,
+        "query": {
+            "coordinates": [
+                [
+                    -79.2938728,
+                    43.7226061
+                ],
+                [
+                    -79.3000193,
+                    43.7299522
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [39.0], "durations": [28.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [36.6], "durations": [26.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [674.6], "durations": [485.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [434.2], "durations": [312.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Southill"], "end_streets": ["Southill"], "distances": [211.7], "durations": [152.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Southill"], "distances": [0.0], "durations": [0.0]}

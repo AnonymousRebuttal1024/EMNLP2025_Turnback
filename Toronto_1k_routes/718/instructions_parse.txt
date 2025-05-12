@@ -1,0 +1,6 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Floyd", "Floyd"], "end_streets": [], "distances": [348.1], "durations": [250.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Donlands"], "end_streets": ["Donlands"], "distances": [45.5], "durations": [32.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Memorial"], "end_streets": ["Memorial"], "distances": [575.7], "durations": [414.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [8.3], "durations": [6.0]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": [], "end_streets": [], "distances": [85.1], "durations": [61.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

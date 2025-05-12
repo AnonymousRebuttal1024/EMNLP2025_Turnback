@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Bernard", "Bernard"], "end_streets": [], "distances": [7.5], "durations": [5.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [301.7], "durations": [217.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [341.3], "durations": [245.8]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [16.6], "durations": [12.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [1.5], "durations": [1.1]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [247.5], "durations": [178.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Avenue"], "end_streets": ["Avenue"], "distances": [8.9], "durations": [6.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Avenue"], "distances": [0.0], "durations": [0.0]}

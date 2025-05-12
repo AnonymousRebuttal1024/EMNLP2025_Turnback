@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["east", "West", "West"], "start_streets": ["Hillsdale", "Hillsdale"], "end_streets": [], "distances": [109.0], "durations": [78.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [77.8], "durations": [56.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [127.4], "durations": [91.7]},
+{"actions": ["Continue", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [38.0], "durations": [27.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [64.6], "durations": [46.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.9], "durations": [3.5]},
+{"actions": ["Turn", "continue"], "directions": ["left", "East", "East"], "start_streets": ["Manor"], "end_streets": ["Manor"], "distances": [1184.7], "durations": [853.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.6], "durations": [3.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [196.1], "durations": [141.2]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [97.1], "durations": [69.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

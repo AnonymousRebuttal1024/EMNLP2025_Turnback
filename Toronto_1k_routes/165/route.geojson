@@ -1,0 +1,301 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.427831,
+        43.706648,
+        -79.422557,
+        43.716253
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.427831,
+                43.706648,
+                -79.422557,
+                43.716253
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1585.6,
+                        "duration": 1141.6,
+                        "steps": [
+                            {
+                                "distance": 171.9,
+                                "duration": 123.8,
+                                "type": 11,
+                                "instruction": "Head west on Coldstream Avenue",
+                                "name": "Coldstream Avenue",
+                                "way_points": [
+                                    0,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 81.5,
+                                "duration": 58.7,
+                                "type": 0,
+                                "instruction": "Turn left onto Glen Rush Boulevard",
+                                "name": "Glen Rush Boulevard",
+                                "way_points": [
+                                    2,
+                                    3
+                                ]
+                            },
+                            {
+                                "distance": 190.4,
+                                "duration": 137.1,
+                                "type": 1,
+                                "instruction": "Turn right onto Glengrove Avenue",
+                                "name": "Glengrove Avenue",
+                                "way_points": [
+                                    3,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 325.8,
+                                "duration": 234.6,
+                                "type": 0,
+                                "instruction": "Turn left onto Forest Wood",
+                                "name": "Forest Wood",
+                                "way_points": [
+                                    5,
+                                    12
+                                ]
+                            },
+                            {
+                                "distance": 119.2,
+                                "duration": 85.8,
+                                "type": 1,
+                                "instruction": "Turn right onto Strathallan Wood",
+                                "name": "Strathallan Wood",
+                                "way_points": [
+                                    12,
+                                    13
+                                ]
+                            },
+                            {
+                                "distance": 397.8,
+                                "duration": 286.4,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    13,
+                                    20
+                                ]
+                            },
+                            {
+                                "distance": 9.8,
+                                "duration": 7.0,
+                                "type": 13,
+                                "instruction": "Keep right",
+                                "name": "-",
+                                "way_points": [
+                                    20,
+                                    21
+                                ]
+                            },
+                            {
+                                "distance": 86.8,
+                                "duration": 62.5,
+                                "type": 0,
+                                "instruction": "Turn left onto Briar Hill Avenue",
+                                "name": "Briar Hill Avenue",
+                                "way_points": [
+                                    21,
+                                    22
+                                ]
+                            },
+                            {
+                                "distance": 202.4,
+                                "duration": 145.7,
+                                "type": 1,
+                                "instruction": "Turn right onto Chaplin Crescent",
+                                "name": "Chaplin Crescent",
+                                "way_points": [
+                                    22,
+                                    30
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Chaplin Crescent, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    30,
+                                    30
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    30
+                ],
+                "summary": {
+                    "distance": 1585.6,
+                    "duration": 1141.6
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.422557,
+                        43.716253
+                    ],
+                    [
+                        -79.422731,
+                        43.71621
+                    ],
+                    [
+                        -79.424601,
+                        43.715798
+                    ],
+                    [
+                        -79.424363,
+                        43.715085
+                    ],
+                    [
+                        -79.425636,
+                        43.714823
+                    ],
+                    [
+                        -79.426646,
+                        43.71463
+                    ],
+                    [
+                        -79.426431,
+                        43.714123
+                    ],
+                    [
+                        -79.426077,
+                        43.71278
+                    ],
+                    [
+                        -79.426029,
+                        43.712408
+                    ],
+                    [
+                        -79.426064,
+                        43.712352
+                    ],
+                    [
+                        -79.426308,
+                        43.712241
+                    ],
+                    [
+                        -79.426406,
+                        43.71212
+                    ],
+                    [
+                        -79.426408,
+                        43.711872
+                    ],
+                    [
+                        -79.427831,
+                        43.711569
+                    ],
+                    [
+                        -79.427602,
+                        43.710662
+                    ],
+                    [
+                        -79.427552,
+                        43.710425
+                    ],
+                    [
+                        -79.427392,
+                        43.709743
+                    ],
+                    [
+                        -79.427212,
+                        43.708942
+                    ],
+                    [
+                        -79.427187,
+                        43.708839
+                    ],
+                    [
+                        -79.426984,
+                        43.708075
+                    ],
+                    [
+                        -79.426953,
+                        43.708055
+                    ],
+                    [
+                        -79.42693,
+                        43.707968
+                    ],
+                    [
+                        -79.425894,
+                        43.708189
+                    ],
+                    [
+                        -79.425872,
+                        43.708129
+                    ],
+                    [
+                        -79.425712,
+                        43.707755
+                    ],
+                    [
+                        -79.425526,
+                        43.707434
+                    ],
+                    [
+                        -79.425472,
+                        43.707374
+                    ],
+                    [
+                        -79.42542,
+                        43.707314
+                    ],
+                    [
+                        -79.425177,
+                        43.707045
+                    ],
+                    [
+                        -79.424712,
+                        43.706686
+                    ],
+                    [
+                        -79.424642,
+                        43.706648
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077338886,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4225573,
+                    43.7162531
+                ],
+                [
+                    -79.4246422,
+                    43.7066475
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

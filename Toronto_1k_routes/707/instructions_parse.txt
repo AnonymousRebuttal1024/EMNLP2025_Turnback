@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [16.5], "durations": [11.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [98.7], "durations": [71.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [7.7], "durations": [5.5]},
+{"actions": ["Turn", "continue"], "directions": ["left", "East", "East"], "start_streets": ["Dundas"], "end_streets": ["Dundas"], "distances": [168.6], "durations": [121.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Jones"], "end_streets": ["Jones"], "distances": [10.0], "durations": [7.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [10.9], "durations": [7.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [179.2], "durations": [129.0]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [173.5], "durations": [124.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [35.9], "durations": [25.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [151.9], "durations": [109.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [93.6], "durations": [67.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Lappin"], "end_streets": ["Lappin"], "distances": [89.7], "durations": [64.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["St"], "end_streets": ["St"], "distances": [39.9], "durations": [28.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [3.6], "durations": [2.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [165.2], "durations": [118.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [78.3], "durations": [56.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [241.1], "durations": [173.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [13.3], "durations": [9.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [7.9], "durations": [5.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Brandon"], "end_streets": ["Brandon"], "distances": [167.5], "durations": [120.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Primrose"], "end_streets": ["Primrose"], "distances": [41.3], "durations": [29.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [249.3], "durations": [179.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

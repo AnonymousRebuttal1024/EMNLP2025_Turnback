@@ -1,0 +1,247 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.393666,
+        43.674295,
+        -79.38909,
+        43.678279
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.393666,
+                43.674295,
+                -79.38909,
+                43.678279
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 727.7,
+                        "duration": 523.9,
+                        "steps": [
+                            {
+                                "distance": 8.7,
+                                "duration": 6.3,
+                                "type": 11,
+                                "instruction": "Head west",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 17.4,
+                                "duration": 12.6,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    1,
+                                    3
+                                ]
+                            },
+                            {
+                                "distance": 3.3,
+                                "duration": 2.4,
+                                "type": 4,
+                                "instruction": "Turn slight left",
+                                "name": "-",
+                                "way_points": [
+                                    3,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 285.7,
+                                "duration": 205.7,
+                                "type": 5,
+                                "instruction": "Turn slight right",
+                                "name": "-",
+                                "way_points": [
+                                    4,
+                                    15
+                                ]
+                            },
+                            {
+                                "distance": 340.6,
+                                "duration": 245.2,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    15,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 7.6,
+                                "duration": 5.5,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    19,
+                                    20
+                                ]
+                            },
+                            {
+                                "distance": 64.4,
+                                "duration": 46.3,
+                                "type": 1,
+                                "instruction": "Turn right onto New Street",
+                                "name": "New Street",
+                                "way_points": [
+                                    20,
+                                    22
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at New Street, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    22,
+                                    22
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    22
+                ],
+                "summary": {
+                    "distance": 727.7,
+                    "duration": 523.9
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.39007,
+                        43.678279
+                    ],
+                    [
+                        -79.390174,
+                        43.678256
+                    ],
+                    [
+                        -79.390149,
+                        43.678185
+                    ],
+                    [
+                        -79.39012,
+                        43.678104
+                    ],
+                    [
+                        -79.390087,
+                        43.678086
+                    ],
+                    [
+                        -79.389819,
+                        43.6774
+                    ],
+                    [
+                        -79.389803,
+                        43.677358
+                    ],
+                    [
+                        -79.389784,
+                        43.677305
+                    ],
+                    [
+                        -79.389661,
+                        43.677038
+                    ],
+                    [
+                        -79.389585,
+                        43.676862
+                    ],
+                    [
+                        -79.389566,
+                        43.67681
+                    ],
+                    [
+                        -79.389375,
+                        43.676319
+                    ],
+                    [
+                        -79.389346,
+                        43.676252
+                    ],
+                    [
+                        -79.389312,
+                        43.676169
+                    ],
+                    [
+                        -79.389184,
+                        43.675862
+                    ],
+                    [
+                        -79.38909,
+                        43.675621
+                    ],
+                    [
+                        -79.391468,
+                        43.675106
+                    ],
+                    [
+                        -79.392873,
+                        43.674822
+                    ],
+                    [
+                        -79.392981,
+                        43.674757
+                    ],
+                    [
+                        -79.393099,
+                        43.674687
+                    ],
+                    [
+                        -79.393027,
+                        43.674642
+                    ],
+                    [
+                        -79.393354,
+                        43.674456
+                    ],
+                    [
+                        -79.393666,
+                        43.674295
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079112124,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3900701,
+                    43.6782787
+                ],
+                [
+                    -79.3936662,
+                    43.6742945
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

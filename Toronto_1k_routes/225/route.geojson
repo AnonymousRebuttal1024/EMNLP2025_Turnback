@@ -1,0 +1,222 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.43319,
+        43.682593,
+        -79.423341,
+        43.68721
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.43319,
+                43.682593,
+                -79.423341,
+                43.68721
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1293.9,
+                        "duration": 931.6,
+                        "steps": [
+                            {
+                                "distance": 165.2,
+                                "duration": 118.9,
+                                "type": 11,
+                                "instruction": "Head east on Earlsdale Avenue",
+                                "name": "Earlsdale Avenue",
+                                "way_points": [
+                                    0,
+                                    3
+                                ]
+                            },
+                            {
+                                "distance": 85.7,
+                                "duration": 61.7,
+                                "type": 1,
+                                "instruction": "Turn right onto Arlington Avenue",
+                                "name": "Arlington Avenue",
+                                "way_points": [
+                                    3,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 180.4,
+                                "duration": 129.9,
+                                "type": 0,
+                                "instruction": "Turn left onto Valewood Avenue",
+                                "name": "Valewood Avenue",
+                                "way_points": [
+                                    4,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 181.4,
+                                "duration": 130.6,
+                                "type": 1,
+                                "instruction": "Turn right onto Cherrywood Avenue",
+                                "name": "Cherrywood Avenue",
+                                "way_points": [
+                                    6,
+                                    7
+                                ]
+                            },
+                            {
+                                "distance": 85.6,
+                                "duration": 61.6,
+                                "type": 0,
+                                "instruction": "Turn left onto Maplewood Avenue",
+                                "name": "Maplewood Avenue",
+                                "way_points": [
+                                    7,
+                                    8
+                                ]
+                            },
+                            {
+                                "distance": 92.5,
+                                "duration": 66.6,
+                                "type": 6,
+                                "instruction": "Continue straight onto Maplewood Avenue",
+                                "name": "Maplewood Avenue",
+                                "way_points": [
+                                    8,
+                                    9
+                                ]
+                            },
+                            {
+                                "distance": 103.5,
+                                "duration": 74.5,
+                                "type": 6,
+                                "instruction": "Continue straight onto Maplewood Avenue",
+                                "name": "Maplewood Avenue",
+                                "way_points": [
+                                    9,
+                                    10
+                                ]
+                            },
+                            {
+                                "distance": 399.6,
+                                "duration": 287.7,
+                                "type": 1,
+                                "instruction": "Turn right onto Wychwood Avenue",
+                                "name": "Wychwood Avenue",
+                                "way_points": [
+                                    10,
+                                    13
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Wychwood Avenue, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    13,
+                                    13
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    13
+                ],
+                "summary": {
+                    "distance": 1293.9,
+                    "duration": 931.6
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.43319,
+                        43.686829
+                    ],
+                    [
+                        -79.433084,
+                        43.686829
+                    ],
+                    [
+                        -79.432202,
+                        43.687016
+                    ],
+                    [
+                        -79.431209,
+                        43.68721
+                    ],
+                    [
+                        -79.430913,
+                        43.686469
+                    ],
+                    [
+                        -79.429875,
+                        43.686703
+                    ],
+                    [
+                        -79.428757,
+                        43.686918
+                    ],
+                    [
+                        -79.428113,
+                        43.685354
+                    ],
+                    [
+                        -79.427088,
+                        43.685561
+                    ],
+                    [
+                        -79.425982,
+                        43.685791
+                    ],
+                    [
+                        -79.424742,
+                        43.686041
+                    ],
+                    [
+                        -79.424597,
+                        43.685676
+                    ],
+                    [
+                        -79.423899,
+                        43.683926
+                    ],
+                    [
+                        -79.423341,
+                        43.682593
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077489167,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4331905,
+                    43.6868288
+                ],
+                [
+                    -79.4233406,
+                    43.6825934
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

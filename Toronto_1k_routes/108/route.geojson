@@ -1,0 +1,263 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.404607,
+        43.672665,
+        -79.397556,
+        43.677208
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.404607,
+                43.672665,
+                -79.397556,
+                43.677208
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 925.0,
+                        "duration": 666.0,
+                        "steps": [
+                            {
+                                "distance": 7.5,
+                                "duration": 5.4,
+                                "type": 11,
+                                "instruction": "Head east on Bernard Avenue",
+                                "name": "Bernard Avenue",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 301.7,
+                                "duration": 217.2,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    1,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 341.3,
+                                "duration": 245.8,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    4,
+                                    15
+                                ]
+                            },
+                            {
+                                "distance": 16.6,
+                                "duration": 12.0,
+                                "type": 12,
+                                "instruction": "Keep left",
+                                "name": "-",
+                                "way_points": [
+                                    15,
+                                    17
+                                ]
+                            },
+                            {
+                                "distance": 1.5,
+                                "duration": 1.1,
+                                "type": 4,
+                                "instruction": "Turn slight left",
+                                "name": "-",
+                                "way_points": [
+                                    17,
+                                    18
+                                ]
+                            },
+                            {
+                                "distance": 247.5,
+                                "duration": 178.2,
+                                "type": 13,
+                                "instruction": "Keep right",
+                                "name": "-",
+                                "way_points": [
+                                    18,
+                                    25
+                                ]
+                            },
+                            {
+                                "distance": 8.9,
+                                "duration": 6.4,
+                                "type": 0,
+                                "instruction": "Turn left onto Avenue Road",
+                                "name": "Avenue Road",
+                                "way_points": [
+                                    25,
+                                    26
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Avenue Road, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    26,
+                                    26
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    26
+                ],
+                "summary": {
+                    "distance": 925.0,
+                    "duration": 666.0
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.403678,
+                        43.672665
+                    ],
+                    [
+                        -79.403589,
+                        43.672683
+                    ],
+                    [
+                        -79.403598,
+                        43.672728
+                    ],
+                    [
+                        -79.403788,
+                        43.67327
+                    ],
+                    [
+                        -79.404607,
+                        43.675294
+                    ],
+                    [
+                        -79.40413,
+                        43.675396
+                    ],
+                    [
+                        -79.403667,
+                        43.67549
+                    ],
+                    [
+                        -79.403582,
+                        43.67551
+                    ],
+                    [
+                        -79.403489,
+                        43.67553
+                    ],
+                    [
+                        -79.402618,
+                        43.675707
+                    ],
+                    [
+                        -79.402443,
+                        43.675745
+                    ],
+                    [
+                        -79.402281,
+                        43.675781
+                    ],
+                    [
+                        -79.402195,
+                        43.675832
+                    ],
+                    [
+                        -79.401819,
+                        43.675944
+                    ],
+                    [
+                        -79.400615,
+                        43.676258
+                    ],
+                    [
+                        -79.40059,
+                        43.676258
+                    ],
+                    [
+                        -79.4005,
+                        43.676297
+                    ],
+                    [
+                        -79.400413,
+                        43.676335
+                    ],
+                    [
+                        -79.400408,
+                        43.676348
+                    ],
+                    [
+                        -79.400337,
+                        43.676393
+                    ],
+                    [
+                        -79.399611,
+                        43.676681
+                    ],
+                    [
+                        -79.399419,
+                        43.676739
+                    ],
+                    [
+                        -79.398322,
+                        43.676987
+                    ],
+                    [
+                        -79.397749,
+                        43.677109
+                    ],
+                    [
+                        -79.397706,
+                        43.677103
+                    ],
+                    [
+                        -79.397556,
+                        43.677131
+                    ],
+                    [
+                        -79.397586,
+                        43.677208
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077193158,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4036785,
+                    43.6726649
+                ],
+                [
+                    -79.3975864,
+                    43.6772081
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

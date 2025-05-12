@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [2.8], "durations": [2.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.2], "durations": [3.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [53.9], "durations": [38.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [155.7], "durations": [112.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [22.7], "durations": [16.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [45.3], "durations": [32.6]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [146.7], "durations": [105.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [3.4], "durations": [2.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["St"], "end_streets": ["St"], "distances": [118.8], "durations": [85.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["St"], "end_streets": ["St"], "distances": [8.6], "durations": [6.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["St"], "end_streets": ["St", "Weybourne", "Weybourne"], "distances": [5.7], "durations": [4.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["St", "Weybourne"], "distances": [0.0], "durations": [0.0]}

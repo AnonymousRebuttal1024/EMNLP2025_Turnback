@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["northeast"], "start_streets": [], "end_streets": [], "distances": [126.5], "durations": [91.1]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [84.6], "durations": [60.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [1.4], "durations": [1.0]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.8], "durations": [4.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Woodmount"], "end_streets": ["Woodmount"], "distances": [448.0], "durations": [322.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Frater"], "end_streets": ["Frater"], "distances": [192.3], "durations": [138.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [88.6], "durations": [63.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [77.9], "durations": [56.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Queensdale"], "end_streets": ["Queensdale"], "distances": [8.3], "durations": [6.0]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Queensdale"], "distances": [0.0], "durations": [0.0]}

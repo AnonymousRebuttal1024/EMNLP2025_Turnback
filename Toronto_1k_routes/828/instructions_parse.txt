@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": ["Bayview", "Bayview"], "end_streets": [], "distances": [14.5], "durations": [10.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [472.0], "durations": [339.9]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [12.0], "durations": [8.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Nesbitt"], "end_streets": ["Nesbitt"], "distances": [443.0], "durations": [319.0]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [227.3], "durations": [163.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [154.8], "durations": [111.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [85.5], "durations": [61.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [226.1], "durations": [162.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Edgewood"], "end_streets": ["Edgewood"], "distances": [4.5], "durations": [3.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Glen"], "end_streets": ["Glen"], "distances": [93.7], "durations": [67.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Glen"], "distances": [0.0], "durations": [0.0]}

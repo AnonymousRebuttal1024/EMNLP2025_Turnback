@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["St", "St"], "end_streets": [], "distances": [107.0], "durations": [77.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [9.0], "durations": [6.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.8], "durations": [4.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Chaplin"], "end_streets": ["Chaplin"], "distances": [218.0], "durations": [156.9]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": ["Chaplin"], "end_streets": ["Chaplin"], "distances": [636.4], "durations": [458.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [22.3], "durations": [16.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [458.4], "durations": [330.0]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

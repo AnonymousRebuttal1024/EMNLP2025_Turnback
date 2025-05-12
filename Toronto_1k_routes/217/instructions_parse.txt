@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [124.5], "durations": [89.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [15.2], "durations": [10.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [407.4], "durations": [293.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [30.2], "durations": [21.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [81.8], "durations": [58.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [46.8], "durations": [33.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Brookwood"], "end_streets": ["Brookwood"], "distances": [135.2], "durations": [97.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Brookwood"], "distances": [0.0], "durations": [0.0]}

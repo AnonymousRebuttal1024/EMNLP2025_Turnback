@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [8.1], "durations": [5.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [68.1], "durations": [49.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Dawes"], "end_streets": ["Dawes"], "distances": [247.0], "durations": [177.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Westbourne"], "end_streets": ["Westbourne"], "distances": [165.8], "durations": [119.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [155.2], "durations": [111.8]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [420.8], "durations": [303.0]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [253.2], "durations": [182.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Moreau"], "end_streets": ["Moreau"], "distances": [353.4], "durations": [254.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Moreau"], "distances": [0.0], "durations": [0.0]}

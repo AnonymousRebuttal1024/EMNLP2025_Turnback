@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": ["Cyrill", "Cyrill"], "end_streets": [], "distances": [4.4], "durations": [3.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Ulster"], "end_streets": ["Ulster"], "distances": [150.8], "durations": [108.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Major"], "end_streets": ["Major"], "distances": [151.4], "durations": [109.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Kosower"], "end_streets": ["Kosower"], "distances": [145.2], "durations": [104.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Sussex"], "end_streets": ["Sussex"], "distances": [148.7], "durations": [107.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [65.6], "durations": [47.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [17.1], "durations": [12.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [29.8], "durations": [21.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [199.0], "durations": [143.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [87.8], "durations": [63.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

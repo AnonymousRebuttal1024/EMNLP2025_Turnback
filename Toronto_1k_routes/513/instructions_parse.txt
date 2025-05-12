@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [88.6], "durations": [63.8]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [150.6], "durations": [108.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [15.9], "durations": [11.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [195.5], "durations": [140.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [136.0], "durations": [97.9]},
+{"actions": ["Turn", "continue"], "directions": ["left", "West", "West"], "start_streets": ["West"], "end_streets": ["West"], "distances": [19.5], "durations": [14.1]},
+{"actions": ["Continue", "continue"], "directions": [], "start_streets": ["Wallace"], "end_streets": ["Wallace"], "distances": [140.7], "durations": [101.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [95.9], "durations": [69.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

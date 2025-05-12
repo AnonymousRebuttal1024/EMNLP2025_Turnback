@@ -1,0 +1,306 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.449254,
+        43.681387,
+        -79.438709,
+        43.687583
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.449254,
+                43.681387,
+                -79.438709,
+                43.687583
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1401.5,
+                        "duration": 1009.1,
+                        "steps": [
+                            {
+                                "distance": 96.1,
+                                "duration": 69.2,
+                                "type": 11,
+                                "instruction": "Head east on Hope Street",
+                                "name": "Hope Street",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 349.0,
+                                "duration": 251.3,
+                                "type": 0,
+                                "instruction": "Turn left onto Boon Avenue",
+                                "name": "Boon Avenue",
+                                "way_points": [
+                                    1,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 263.4,
+                                "duration": 189.7,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    6,
+                                    20
+                                ]
+                            },
+                            {
+                                "distance": 2.5,
+                                "duration": 1.8,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    20,
+                                    21
+                                ]
+                            },
+                            {
+                                "distance": 190.9,
+                                "duration": 137.4,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    21,
+                                    26
+                                ]
+                            },
+                            {
+                                "distance": 14.2,
+                                "duration": 10.2,
+                                "type": 0,
+                                "instruction": "Turn left onto Northcliffe Boulevard",
+                                "name": "Northcliffe Boulevard",
+                                "way_points": [
+                                    26,
+                                    28
+                                ]
+                            },
+                            {
+                                "distance": 439.4,
+                                "duration": 316.3,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    28,
+                                    33
+                                ]
+                            },
+                            {
+                                "distance": 46.1,
+                                "duration": 33.2,
+                                "type": 0,
+                                "instruction": "Turn left onto Oakwood Avenue",
+                                "name": "Oakwood Avenue",
+                                "way_points": [
+                                    33,
+                                    34
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Oakwood Avenue, on the left",
+                                "name": "-",
+                                "way_points": [
+                                    34,
+                                    34
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    34
+                ],
+                "summary": {
+                    "distance": 1401.5,
+                    "duration": 1009.1
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.449157,
+                        43.681387
+                    ],
+                    [
+                        -79.448017,
+                        43.681648
+                    ],
+                    [
+                        -79.448174,
+                        43.682047
+                    ],
+                    [
+                        -79.448686,
+                        43.683299
+                    ],
+                    [
+                        -79.448877,
+                        43.68373
+                    ],
+                    [
+                        -79.449031,
+                        43.684134
+                    ],
+                    [
+                        -79.449254,
+                        43.684656
+                    ],
+                    [
+                        -79.449182,
+                        43.684671
+                    ],
+                    [
+                        -79.449165,
+                        43.684684
+                    ],
+                    [
+                        -79.448635,
+                        43.684825
+                    ],
+                    [
+                        -79.448201,
+                        43.684939
+                    ],
+                    [
+                        -79.448109,
+                        43.684967
+                    ],
+                    [
+                        -79.44803,
+                        43.68499
+                    ],
+                    [
+                        -79.448001,
+                        43.68501
+                    ],
+                    [
+                        -79.447246,
+                        43.685245
+                    ],
+                    [
+                        -79.447209,
+                        43.685245
+                    ],
+                    [
+                        -79.447104,
+                        43.685273
+                    ],
+                    [
+                        -79.447028,
+                        43.685291
+                    ],
+                    [
+                        -79.446983,
+                        43.685318
+                    ],
+                    [
+                        -79.446618,
+                        43.685399
+                    ],
+                    [
+                        -79.446198,
+                        43.685478
+                    ],
+                    [
+                        -79.446175,
+                        43.685464
+                    ],
+                    [
+                        -79.446079,
+                        43.685485
+                    ],
+                    [
+                        -79.44597,
+                        43.685513
+                    ],
+                    [
+                        -79.445933,
+                        43.685538
+                    ],
+                    [
+                        -79.444986,
+                        43.685741
+                    ],
+                    [
+                        -79.443914,
+                        43.685974
+                    ],
+                    [
+                        -79.443938,
+                        43.686033
+                    ],
+                    [
+                        -79.443962,
+                        43.686097
+                    ],
+                    [
+                        -79.442804,
+                        43.686329
+                    ],
+                    [
+                        -79.441637,
+                        43.686561
+                    ],
+                    [
+                        -79.440615,
+                        43.686774
+                    ],
+                    [
+                        -79.439658,
+                        43.68698
+                    ],
+                    [
+                        -79.438709,
+                        43.687185
+                    ],
+                    [
+                        -79.438869,
+                        43.687583
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731078832595,
+        "query": {
+            "coordinates": [
+                [
+                    -79.449156,
+                    43.6813855
+                ],
+                [
+                    -79.4392633,
+                    43.6874997
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

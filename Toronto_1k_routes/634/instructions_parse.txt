@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["southwest"], "start_streets": [], "end_streets": [], "distances": [2.8], "durations": [2.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [10.3], "durations": [7.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [1.7], "durations": [1.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [4.5], "durations": [3.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Carlton"], "end_streets": ["Carlton"], "distances": [412.5], "durations": [297.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Exchange"], "end_streets": ["Exchange"], "distances": [4.6], "durations": [3.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [37.1], "durations": [26.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.4], "durations": [4.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [426.7], "durations": [307.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [245.1], "durations": [176.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

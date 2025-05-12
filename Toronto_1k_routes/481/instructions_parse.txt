@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["northwest"], "start_streets": ["Dallimore", "Dallimore"], "end_streets": [], "distances": [60.5], "durations": [43.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Dallimore"], "end_streets": ["Dallimore"], "distances": [45.2], "durations": [32.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Dallimore"], "end_streets": ["Dallimore"], "distances": [67.3], "durations": [48.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Green"], "end_streets": ["Green"], "distances": [101.7], "durations": [73.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Nob"], "end_streets": ["Nob"], "distances": [74.3], "durations": [53.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Moccasin"], "end_streets": ["Moccasin"], "distances": [403.6], "durations": [290.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [831.2], "durations": [598.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [13.8], "durations": [9.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [21.7], "durations": [15.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

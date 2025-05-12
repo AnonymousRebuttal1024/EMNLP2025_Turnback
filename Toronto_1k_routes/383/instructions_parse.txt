@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [314.2], "durations": [226.2]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [2.7], "durations": [2.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["River"], "end_streets": ["River"], "distances": [33.5], "durations": [24.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["River"], "end_streets": ["River"], "distances": [91.7], "durations": [66.0]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": ["Downtown"], "end_streets": ["Downtown"], "distances": [61.5], "durations": [44.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Riverdale"], "end_streets": ["Riverdale"], "distances": [12.7], "durations": [9.1]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": ["Riverdale"], "end_streets": ["Riverdale"], "distances": [215.3], "durations": [155.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [7.3], "durations": [5.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Winchester"], "end_streets": ["Winchester"], "distances": [481.5], "durations": [346.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [136.9], "durations": [98.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [28.4], "durations": [20.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

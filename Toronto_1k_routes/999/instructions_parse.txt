@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [249.7], "durations": [179.8]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [96.5], "durations": [69.4]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [272.7], "durations": [196.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [296.5], "durations": [213.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [529.9], "durations": [381.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Albany"], "end_streets": ["Albany"], "distances": [15.3], "durations": [11.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [88.5], "durations": [63.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [100.7], "durations": [72.5]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [7.3], "durations": [5.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Vermont"], "end_streets": ["Vermont"], "distances": [38.3], "durations": [27.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Tandy"], "end_streets": ["Tandy"], "distances": [4.0], "durations": [2.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Tandy"], "distances": [0.0], "durations": [0.0]}

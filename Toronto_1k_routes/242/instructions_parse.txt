@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [307.3], "durations": [221.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Lumsden"], "end_streets": ["Lumsden"], "distances": [303.0], "durations": [218.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Taylor"], "end_streets": ["Taylor"], "distances": [343.9], "durations": [247.6]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": ["Rexleigh"], "end_streets": ["Rexleigh"], "distances": [32.4], "durations": [23.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Rexleigh"], "end_streets": ["Rexleigh"], "distances": [30.1], "durations": [21.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Rexleigh"], "end_streets": ["Rexleigh"], "distances": [117.7], "durations": [84.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [15.7], "durations": [11.3]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [64.5], "durations": [46.5]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [5.4], "durations": [3.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Ravenwood"], "end_streets": ["Ravenwood"], "distances": [8.5], "durations": [6.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Ferris"], "end_streets": ["Ferris"], "distances": [91.6], "durations": [66.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [8.1], "durations": [5.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

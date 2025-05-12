@@ -1,0 +1,234 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.452277,
+        43.69316,
+        -79.442054,
+        43.695603
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.452277,
+                43.69316,
+                -79.442054,
+                43.695603
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 905.1,
+                        "duration": 651.6,
+                        "steps": [
+                            {
+                                "distance": 701.5,
+                                "duration": 505.1,
+                                "type": 11,
+                                "instruction": "Head northwest on Vaughan Road",
+                                "name": "Vaughan Road",
+                                "way_points": [
+                                    0,
+                                    18
+                                ]
+                            },
+                            {
+                                "distance": 38.9,
+                                "duration": 28.0,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    18,
+                                    20
+                                ]
+                            },
+                            {
+                                "distance": 162.4,
+                                "duration": 117.0,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    20,
+                                    26
+                                ]
+                            },
+                            {
+                                "distance": 2.2,
+                                "duration": 1.6,
+                                "type": 0,
+                                "instruction": "Turn left onto Kirknewton Road",
+                                "name": "Kirknewton Road",
+                                "way_points": [
+                                    26,
+                                    27
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Kirknewton Road, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    27,
+                                    27
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    27
+                ],
+                "summary": {
+                    "distance": 905.1,
+                    "duration": 651.6
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.442054,
+                        43.69316
+                    ],
+                    [
+                        -79.443041,
+                        43.693472
+                    ],
+                    [
+                        -79.443101,
+                        43.693489
+                    ],
+                    [
+                        -79.443284,
+                        43.693542
+                    ],
+                    [
+                        -79.443991,
+                        43.693756
+                    ],
+                    [
+                        -79.444518,
+                        43.693936
+                    ],
+                    [
+                        -79.444594,
+                        43.693958
+                    ],
+                    [
+                        -79.444671,
+                        43.693981
+                    ],
+                    [
+                        -79.445469,
+                        43.694207
+                    ],
+                    [
+                        -79.445698,
+                        43.694279
+                    ],
+                    [
+                        -79.44595,
+                        43.694355
+                    ],
+                    [
+                        -79.447105,
+                        43.694691
+                    ],
+                    [
+                        -79.448149,
+                        43.694997
+                    ],
+                    [
+                        -79.449221,
+                        43.695312
+                    ],
+                    [
+                        -79.449549,
+                        43.695388
+                    ],
+                    [
+                        -79.449775,
+                        43.695378
+                    ],
+                    [
+                        -79.449979,
+                        43.695338
+                    ],
+                    [
+                        -79.450063,
+                        43.695309
+                    ],
+                    [
+                        -79.450148,
+                        43.695292
+                    ],
+                    [
+                        -79.450274,
+                        43.695551
+                    ],
+                    [
+                        -79.450348,
+                        43.695603
+                    ],
+                    [
+                        -79.450409,
+                        43.695591
+                    ],
+                    [
+                        -79.451078,
+                        43.695442
+                    ],
+                    [
+                        -79.451155,
+                        43.695425
+                    ],
+                    [
+                        -79.451248,
+                        43.695403
+                    ],
+                    [
+                        -79.452187,
+                        43.69519
+                    ],
+                    [
+                        -79.452277,
+                        43.69517
+                    ],
+                    [
+                        -79.45227,
+                        43.695151
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731078709362,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4420541,
+                    43.69316
+                ],
+                [
+                    -79.4522653,
+                    43.6951516
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

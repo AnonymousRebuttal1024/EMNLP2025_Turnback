@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [32.3], "durations": [23.3]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": [], "end_streets": [], "distances": [317.0], "durations": [228.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Doncaster"], "end_streets": ["Doncaster"], "distances": [39.3], "durations": [28.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [7.3], "durations": [5.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [108.4], "durations": [78.0]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [8.9], "durations": [6.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

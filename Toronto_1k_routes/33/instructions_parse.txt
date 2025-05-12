@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [95.8], "durations": [68.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [326.9], "durations": [235.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.1], "durations": [4.4]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [134.2], "durations": [96.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Hanna"], "end_streets": ["Hanna"], "distances": [554.2], "durations": [399.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [3.3], "durations": [2.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [6.1], "durations": [4.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Sharron"], "end_streets": ["Sharron"], "distances": [150.1], "durations": [108.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Rumsey"], "end_streets": ["Rumsey"], "distances": [326.6], "durations": [235.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Rumsey"], "distances": [0.0], "durations": [0.0]}

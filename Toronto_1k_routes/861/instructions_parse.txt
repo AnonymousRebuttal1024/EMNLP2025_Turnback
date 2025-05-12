@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": ["Millwood", "Millwood"], "end_streets": [], "distances": [318.3], "durations": [229.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [12.3], "durations": [8.8]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.7], "durations": [4.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Forman"], "end_streets": ["Forman"], "distances": [97.3], "durations": [70.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [10.0], "durations": [7.2]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.7], "durations": [3.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Belsize"], "end_streets": ["Belsize"], "distances": [777.0], "durations": [559.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Wilfrid"], "end_streets": ["Wilfrid"], "distances": [46.9], "durations": [33.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Oswald"], "end_streets": ["Oswald"], "distances": [6.9], "durations": [5.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [5.9], "durations": [4.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

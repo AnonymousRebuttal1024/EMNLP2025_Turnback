@@ -1,0 +1,6 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [310.0], "durations": [223.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [116.5], "durations": [83.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Yorkdale"], "end_streets": ["Yorkdale"], "distances": [136.4], "durations": [98.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [20.2], "durations": [14.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [59.6], "durations": [42.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,239 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.425868,
+        43.674882,
+        -79.420772,
+        43.676815
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.425868,
+                43.674882,
+                -79.420772,
+                43.676815
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 648.2,
+                        "duration": 466.7,
+                        "steps": [
+                            {
+                                "distance": 174.5,
+                                "duration": 125.6,
+                                "type": 11,
+                                "instruction": "Head west",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 108.2,
+                                "duration": 77.9,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    2,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 20.6,
+                                "duration": 14.8,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    6,
+                                    8
+                                ]
+                            },
+                            {
+                                "distance": 152.4,
+                                "duration": 109.7,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    8,
+                                    13
+                                ]
+                            },
+                            {
+                                "distance": 177.8,
+                                "duration": 128.0,
+                                "type": 12,
+                                "instruction": "Keep left",
+                                "name": "-",
+                                "way_points": [
+                                    13,
+                                    18
+                                ]
+                            },
+                            {
+                                "distance": 6.5,
+                                "duration": 4.7,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    18,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 8.2,
+                                "duration": 5.9,
+                                "type": 0,
+                                "instruction": "Turn left onto Hillcrest Drive",
+                                "name": "Hillcrest Drive",
+                                "way_points": [
+                                    19,
+                                    20
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Hillcrest Drive, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    20,
+                                    20
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    20
+                ],
+                "summary": {
+                    "distance": 648.2,
+                    "duration": 466.7
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.420772,
+                        43.675645
+                    ],
+                    [
+                        -79.422361,
+                        43.675316
+                    ],
+                    [
+                        -79.422227,
+                        43.674955
+                    ],
+                    [
+                        -79.422583,
+                        43.674882
+                    ],
+                    [
+                        -79.422622,
+                        43.674884
+                    ],
+                    [
+                        -79.422663,
+                        43.674911
+                    ],
+                    [
+                        -79.422883,
+                        43.675528
+                    ],
+                    [
+                        -79.423014,
+                        43.675497
+                    ],
+                    [
+                        -79.423127,
+                        43.675471
+                    ],
+                    [
+                        -79.423178,
+                        43.675552
+                    ],
+                    [
+                        -79.423243,
+                        43.675654
+                    ],
+                    [
+                        -79.423245,
+                        43.675691
+                    ],
+                    [
+                        -79.423467,
+                        43.676203
+                    ],
+                    [
+                        -79.423645,
+                        43.676784
+                    ],
+                    [
+                        -79.423665,
+                        43.676805
+                    ],
+                    [
+                        -79.423731,
+                        43.676815
+                    ],
+                    [
+                        -79.424333,
+                        43.676691
+                    ],
+                    [
+                        -79.425652,
+                        43.676415
+                    ],
+                    [
+                        -79.42575,
+                        43.67638
+                    ],
+                    [
+                        -79.42577,
+                        43.676437
+                    ],
+                    [
+                        -79.425868,
+                        43.676416
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079331471,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4205409,
+                    43.6756907
+                ],
+                [
+                    -79.4258681,
+                    43.6764158
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

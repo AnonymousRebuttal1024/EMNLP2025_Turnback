@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": ["Hemlock", "Hemlock"], "end_streets": [], "distances": [29.4], "durations": [21.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Hemlock"], "end_streets": ["Hemlock"], "distances": [95.8], "durations": [69.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Maughan"], "end_streets": ["Maughan"], "distances": [62.9], "durations": [45.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [18.4], "durations": [13.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [135.5], "durations": [97.6]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [16.6], "durations": [12.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [31.1], "durations": [22.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [45.2], "durations": [32.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Battenberg"], "end_streets": ["Battenberg"], "distances": [91.9], "durations": [66.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Battenberg"], "distances": [0.0], "durations": [0.0]}

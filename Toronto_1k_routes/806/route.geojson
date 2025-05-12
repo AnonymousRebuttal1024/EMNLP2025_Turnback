@@ -1,0 +1,193 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.442841,
+        43.710486,
+        -79.428424,
+        43.715288
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.442841,
+                43.710486,
+                -79.428424,
+                43.715288
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1700.7,
+                        "duration": 1224.5,
+                        "steps": [
+                            {
+                                "distance": 177.0,
+                                "duration": 127.4,
+                                "type": 11,
+                                "instruction": "Head east on Dell Park Avenue",
+                                "name": "Dell Park Avenue",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 500.2,
+                                "duration": 360.2,
+                                "type": 1,
+                                "instruction": "Turn right onto Shermount Avenue",
+                                "name": "Shermount Avenue",
+                                "way_points": [
+                                    1,
+                                    8
+                                ]
+                            },
+                            {
+                                "distance": 493.2,
+                                "duration": 355.1,
+                                "type": 0,
+                                "instruction": "Turn left onto Glen Park Avenue",
+                                "name": "Glen Park Avenue",
+                                "way_points": [
+                                    8,
+                                    10
+                                ]
+                            },
+                            {
+                                "distance": 201.9,
+                                "duration": 145.4,
+                                "type": 1,
+                                "instruction": "Turn right onto Dalemount Avenue",
+                                "name": "Dalemount Avenue",
+                                "way_points": [
+                                    10,
+                                    12
+                                ]
+                            },
+                            {
+                                "distance": 328.4,
+                                "duration": 236.5,
+                                "type": 0,
+                                "instruction": "Turn left onto Hillmount Avenue",
+                                "name": "Hillmount Avenue",
+                                "way_points": [
+                                    12,
+                                    14
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Hillmount Avenue, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    14,
+                                    14
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    14
+                ],
+                "summary": {
+                    "distance": 1700.7,
+                    "duration": 1224.5
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.442841,
+                        43.714825
+                    ],
+                    [
+                        -79.440734,
+                        43.715288
+                    ],
+                    [
+                        -79.440384,
+                        43.714455
+                    ],
+                    [
+                        -79.440169,
+                        43.713938
+                    ],
+                    [
+                        -79.440029,
+                        43.713602
+                    ],
+                    [
+                        -79.439671,
+                        43.712733
+                    ],
+                    [
+                        -79.43931,
+                        43.711836
+                    ],
+                    [
+                        -79.438965,
+                        43.711024
+                    ],
+                    [
+                        -79.438953,
+                        43.710978
+                    ],
+                    [
+                        -79.436001,
+                        43.711594
+                    ],
+                    [
+                        -79.433065,
+                        43.712224
+                    ],
+                    [
+                        -79.432701,
+                        43.711374
+                    ],
+                    [
+                        -79.432341,
+                        43.710486
+                    ],
+                    [
+                        -79.429944,
+                        43.710993
+                    ],
+                    [
+                        -79.428424,
+                        43.711328
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731078963369,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4428408,
+                    43.7148249
+                ],
+                [
+                    -79.4284241,
+                    43.711328
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

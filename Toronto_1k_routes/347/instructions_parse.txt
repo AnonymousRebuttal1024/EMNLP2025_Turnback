@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [15.8], "durations": [11.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Cayuga"], "end_streets": ["Cayuga"], "distances": [52.9], "durations": [38.1]},
+{"actions": ["Turn", "continue"], "directions": ["left", "west", "North", "west", "North"], "start_streets": ["Lane"], "end_streets": ["Lane"], "distances": [5.5], "durations": [4.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [480.3], "durations": [345.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [52.1], "durations": [37.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [29.1], "durations": [20.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [20.4], "durations": [14.7]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [146.3], "durations": [105.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Forbes"], "end_streets": ["Forbes"], "distances": [111.7], "durations": [80.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Nashville"], "end_streets": ["Nashville"], "distances": [96.8], "durations": [69.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [5.8], "durations": [4.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

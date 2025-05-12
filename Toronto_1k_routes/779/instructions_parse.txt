@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": ["Court", "Court"], "end_streets": [], "distances": [5.6], "durations": [4.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Court"], "end_streets": ["Court"], "distances": [73.8], "durations": [53.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [55.5], "durations": [39.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [87.9], "durations": [63.3]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [139.5], "durations": [100.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [16.8], "durations": [12.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [196.5], "durations": [141.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Frederick"], "end_streets": ["Frederick"], "distances": [213.0], "durations": [153.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Frederick"], "end_streets": ["Frederick"], "distances": [5.3], "durations": [3.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [44.9], "durations": [32.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [111.8], "durations": [80.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

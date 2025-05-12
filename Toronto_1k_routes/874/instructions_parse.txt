@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [23.1], "durations": [16.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [18.2], "durations": [13.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [2.5], "durations": [1.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [1108.5], "durations": [798.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [238.0], "durations": [171.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [48.3], "durations": [34.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Simcoe"], "end_streets": ["Simcoe"], "distances": [44.0], "durations": [31.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Simcoe"], "distances": [0.0], "durations": [0.0]}

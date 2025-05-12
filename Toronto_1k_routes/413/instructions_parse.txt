@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [168.8], "durations": [121.5]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [836.9], "durations": [602.6]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [10.8], "durations": [7.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [2.2], "durations": [1.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [162.5], "durations": [117.0]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [418.2], "durations": [301.1]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left", "South", "South"], "start_streets": ["South"], "end_streets": ["South"], "distances": [30.4], "durations": [21.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Dunbar"], "end_streets": ["Dunbar"], "distances": [215.2], "durations": [154.9]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": ["Elm"], "end_streets": ["Elm"], "distances": [93.5], "durations": [67.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Glen"], "end_streets": ["Glen"], "distances": [7.1], "durations": [5.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Glen"], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [325.0], "durations": [234.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Strathearn"], "end_streets": ["Strathearn"], "distances": [134.9], "durations": [97.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Gloucester"], "end_streets": ["Gloucester"], "distances": [360.3], "durations": [259.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Winona"], "end_streets": ["Winona"], "distances": [9.4], "durations": [6.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Gloucester"], "end_streets": ["Gloucester"], "distances": [101.1], "durations": [72.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Alameda"], "end_streets": ["Alameda"], "distances": [76.7], "durations": [55.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Clovelly"], "end_streets": ["Clovelly"], "distances": [201.3], "durations": [144.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [90.3], "durations": [65.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Bude"], "end_streets": ["Bude"], "distances": [179.2], "durations": [129.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Vaughan"], "end_streets": ["Vaughan"], "distances": [15.9], "durations": [11.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Onslow"], "end_streets": ["Onslow"], "distances": [47.2], "durations": [34.0]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Onslow"], "distances": [0.0], "durations": [0.0]}

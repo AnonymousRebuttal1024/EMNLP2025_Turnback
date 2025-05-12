@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["southwest"], "start_streets": [], "end_streets": [], "distances": [145.6], "durations": [104.8]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": [], "end_streets": [], "distances": [19.6], "durations": [14.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Forest"], "end_streets": ["Forest"], "distances": [14.3], "durations": [10.3]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": ["Mount"], "end_streets": ["Mount"], "distances": [98.7], "durations": [71.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Glen"], "end_streets": ["Glen"], "distances": [356.8], "durations": [256.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [324.1], "durations": [233.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [22.5], "durations": [16.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [278.6], "durations": [200.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Woburn"], "end_streets": ["Woburn"], "distances": [257.9], "durations": [185.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Jedburgh"], "end_streets": ["Jedburgh"], "distances": [56.5], "durations": [40.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Jedburgh"], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": ["Gristmill", "Gristmill"], "end_streets": [], "distances": [38.0], "durations": [27.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [170.3], "durations": [122.6]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [158.7], "durations": [114.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [426.3], "durations": [306.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [61.7], "durations": [44.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Sumach"], "end_streets": ["Sumach"], "distances": [1096.6], "durations": [789.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Gildersleeve"], "end_streets": ["Gildersleeve"], "distances": [4.6], "durations": [3.3]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Gildersleeve"], "distances": [0.0], "durations": [0.0]}

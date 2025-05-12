@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [16.5], "durations": [11.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [119.3], "durations": [85.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [28.1], "durations": [20.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Ashtonbee"], "end_streets": ["Ashtonbee"], "distances": [250.1], "durations": [180.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [262.9], "durations": [189.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [23.8], "durations": [17.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [9.2], "durations": [6.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Bertrand"], "end_streets": ["Bertrand"], "distances": [186.7], "durations": [134.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [201.5], "durations": [145.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [39.9], "durations": [28.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

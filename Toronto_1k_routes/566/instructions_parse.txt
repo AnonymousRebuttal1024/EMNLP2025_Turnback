@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [4.4], "durations": [3.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Cumberland"], "end_streets": ["Cumberland"], "distances": [10.5], "durations": [7.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Yonge"], "end_streets": ["Yonge"], "distances": [18.3], "durations": [13.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Asquith"], "end_streets": ["Asquith"], "distances": [7.8], "durations": [5.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [5.4], "durations": [3.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [201.7], "durations": [145.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [78.3], "durations": [56.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [124.8], "durations": [89.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [18.3], "durations": [13.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [8.8], "durations": [6.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Park"], "end_streets": ["Park"], "distances": [369.2], "durations": [265.8]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": ["Park"], "end_streets": ["Park"], "distances": [18.9], "durations": [13.6]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Park"], "distances": [0.0], "durations": [0.0]}

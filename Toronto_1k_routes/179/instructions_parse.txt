@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["southeast"], "start_streets": [], "end_streets": [], "distances": [68.1], "durations": [49.0]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [496.6], "durations": [357.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [104.0], "durations": [74.9]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [217.8], "durations": [156.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [3.3], "durations": [2.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [14.3], "durations": [10.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [84.6], "durations": [60.9]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [6.7], "durations": [4.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Victor"], "end_streets": ["Victor"], "distances": [9.7], "durations": [7.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Broadview"], "end_streets": ["Broadview"], "distances": [13.0], "durations": [9.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Bridgepoint"], "end_streets": ["Bridgepoint"], "distances": [53.1], "durations": [38.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Bridgepoint"], "distances": [0.0], "durations": [0.0]}

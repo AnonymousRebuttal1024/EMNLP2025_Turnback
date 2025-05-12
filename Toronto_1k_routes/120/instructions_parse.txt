@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["southeast"], "start_streets": ["Northline", "Northline"], "end_streets": [], "distances": [172.1], "durations": [123.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Northline"], "end_streets": ["Northline"], "distances": [243.6], "durations": [175.4]},
+{"actions": ["Continue", "continue"], "directions": [], "start_streets": ["Northdale"], "end_streets": ["Northdale"], "distances": [83.6], "durations": [60.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Glenshaw"], "end_streets": ["Glenshaw"], "distances": [5.5], "durations": [4.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [79.3], "durations": [57.1]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [181.5], "durations": [130.6]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [8.2], "durations": [5.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Eden"], "end_streets": ["Eden"], "distances": [6.1], "durations": [4.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Denvale"], "end_streets": ["Denvale"], "distances": [151.7], "durations": [109.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Denvale"], "end_streets": ["Denvale"], "distances": [100.5], "durations": [72.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Presteign"], "end_streets": ["Presteign"], "distances": [5.2], "durations": [3.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [10.0], "durations": [7.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

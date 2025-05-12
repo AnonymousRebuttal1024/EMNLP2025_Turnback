@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Barker", "Barker"], "end_streets": [], "distances": [9.7], "durations": [7.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [84.8], "durations": [61.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Holborne"], "end_streets": ["Holborne"], "distances": [18.1], "durations": [13.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [71.9], "durations": [51.8]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [84.0], "durations": [60.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [866.4], "durations": [623.8]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

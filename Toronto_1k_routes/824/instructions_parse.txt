@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": ["Rajah", "Rajah"], "end_streets": [], "distances": [99.4], "durations": [71.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [53.6], "durations": [38.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [96.1], "durations": [69.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [20.3], "durations": [14.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [57.9], "durations": [41.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [10.4], "durations": [7.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [161.9], "durations": [116.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Ameer"], "end_streets": ["Ameer"], "distances": [42.4], "durations": [30.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Ameer"], "distances": [0.0], "durations": [0.0]}

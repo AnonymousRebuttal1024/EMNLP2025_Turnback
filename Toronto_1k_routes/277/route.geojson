@@ -1,0 +1,251 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.306217,
+        43.72426,
+        -79.302936,
+        43.730694
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.306217,
+                43.72426,
+                -79.302936,
+                43.730694
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1112.3,
+                        "duration": 800.8,
+                        "steps": [
+                            {
+                                "distance": 112.0,
+                                "duration": 80.6,
+                                "type": 11,
+                                "instruction": "Head south on Shangarry Drive",
+                                "name": "Shangarry Drive",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 108.9,
+                                "duration": 78.4,
+                                "type": 1,
+                                "instruction": "Turn right onto Biscayne Boulevard",
+                                "name": "Biscayne Boulevard",
+                                "way_points": [
+                                    1,
+                                    3
+                                ]
+                            },
+                            {
+                                "distance": 77.9,
+                                "duration": 56.1,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    3,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 18.7,
+                                "duration": 13.5,
+                                "type": 1,
+                                "instruction": "Turn right onto Gatineau Corridor Recreation Trail",
+                                "name": "Gatineau Corridor Recreation Trail",
+                                "way_points": [
+                                    4,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 456.7,
+                                "duration": 328.8,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    6,
+                                    14
+                                ]
+                            },
+                            {
+                                "distance": 266.7,
+                                "duration": 192.0,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    14,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 71.4,
+                                "duration": 51.4,
+                                "type": 2,
+                                "instruction": "Turn sharp left",
+                                "name": "-",
+                                "way_points": [
+                                    19,
+                                    23
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at your destination, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    23,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    23
+                ],
+                "summary": {
+                    "distance": 1112.3,
+                    "duration": 800.8
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.303626,
+                        43.730694
+                    ],
+                    [
+                        -79.303213,
+                        43.729733
+                    ],
+                    [
+                        -79.303865,
+                        43.729377
+                    ],
+                    [
+                        -79.304369,
+                        43.72924
+                    ],
+                    [
+                        -79.304123,
+                        43.728562
+                    ],
+                    [
+                        -79.304233,
+                        43.728545
+                    ],
+                    [
+                        -79.304345,
+                        43.728512
+                    ],
+                    [
+                        -79.304045,
+                        43.727766
+                    ],
+                    [
+                        -79.303647,
+                        43.726693
+                    ],
+                    [
+                        -79.303621,
+                        43.726631
+                    ],
+                    [
+                        -79.30325,
+                        43.725749
+                    ],
+                    [
+                        -79.302999,
+                        43.724863
+                    ],
+                    [
+                        -79.302975,
+                        43.724787
+                    ],
+                    [
+                        -79.30294,
+                        43.72459
+                    ],
+                    [
+                        -79.302936,
+                        43.724538
+                    ],
+                    [
+                        -79.303574,
+                        43.724504
+                    ],
+                    [
+                        -79.303679,
+                        43.724515
+                    ],
+                    [
+                        -79.304314,
+                        43.724531
+                    ],
+                    [
+                        -79.304691,
+                        43.72457
+                    ],
+                    [
+                        -79.306217,
+                        43.72479
+                    ],
+                    [
+                        -79.306192,
+                        43.724712
+                    ],
+                    [
+                        -79.305976,
+                        43.724461
+                    ],
+                    [
+                        -79.305824,
+                        43.724377
+                    ],
+                    [
+                        -79.30575,
+                        43.72426
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077627376,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3036256,
+                    43.7306942
+                ],
+                [
+                    -79.3057498,
+                    43.7242596
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.371605,
+        43.671202,
+        -79.360221,
+        43.675711
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.371605,
+                43.671202,
+                -79.360221,
+                43.675711
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1274.6,
+                        "duration": 917.7,
+                        "steps": [
+                            {
+                                "distance": 15.3,
+                                "duration": 11.0,
+                                "type": 11,
+                                "instruction": "Head north",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 53.2,
+                                "duration": 38.3,
+                                "type": 3,
+                                "instruction": "Turn sharp right",
+                                "name": "-",
+                                "way_points": [
+                                    1,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 35.8,
+                                "duration": 25.8,
+                                "type": 2,
+                                "instruction": "Turn sharp left",
+                                "name": "-",
+                                "way_points": [
+                                    2,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 16.9,
+                                "duration": 12.2,
+                                "type": 13,
+                                "instruction": "Keep right",
+                                "name": "-",
+                                "way_points": [
+                                    6,
+                                    8
+                                ]
+                            },
+                            {
+                                "distance": 23.7,
+                                "duration": 17.1,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    8,
+                                    10
+                                ]
+                            },
+                            {
+                                "distance": 941.6,
+                                "duration": 678.0,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    10,
+                                    25
+                                ]
+                            },
+                            {
+                                "distance": 188.1,
+                                "duration": 135.4,
+                                "type": 1,
+                                "instruction": "Turn right onto Riverdale Meadow Trail",
+                                "name": "Riverdale Meadow Trail",
+                                "way_points": [
+                                    25,
+                                    29
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Riverdale Meadow Trail, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    29,
+                                    29
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    29
+                ],
+                "summary": {
+                    "distance": 1274.6,
+                    "duration": 917.7
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.371546,
+                        43.671202
+                    ],
+                    [
+                        -79.371605,
+                        43.671333
+                    ],
+                    [
+                        -79.370943,
+                        43.671339
+                    ],
+                    [
+                        -79.370972,
+                        43.671387
+                    ],
+                    [
+                        -79.371037,
+                        43.671493
+                    ],
+                    [
+                        -79.371043,
+                        43.67158
+                    ],
+                    [
+                        -79.371098,
+                        43.671633
+                    ],
+                    [
+                        -79.371094,
+                        43.671679
+                    ],
+                    [
+                        -79.371089,
+                        43.671785
+                    ],
+                    [
+                        -79.370923,
+                        43.671774
+                    ],
+                    [
+                        -79.370796,
+                        43.671765
+                    ],
+                    [
+                        -79.370683,
+                        43.671909
+                    ],
+                    [
+                        -79.370471,
+                        43.672054
+                    ],
+                    [
+                        -79.369337,
+                        43.672834
+                    ],
+                    [
+                        -79.369038,
+                        43.673049
+                    ],
+                    [
+                        -79.368785,
+                        43.673202
+                    ],
+                    [
+                        -79.368702,
+                        43.673258
+                    ],
+                    [
+                        -79.368632,
+                        43.673312
+                    ],
+                    [
+                        -79.367962,
+                        43.673772
+                    ],
+                    [
+                        -79.367903,
+                        43.673809
+                    ],
+                    [
+                        -79.367834,
+                        43.673851
+                    ],
+                    [
+                        -79.36705,
+                        43.674417
+                    ],
+                    [
+                        -79.366852,
+                        43.674511
+                    ],
+                    [
+                        -79.366653,
+                        43.674573
+                    ],
+                    [
+                        -79.361031,
+                        43.675679
+                    ],
+                    [
+                        -79.36086,
+                        43.675711
+                    ],
+                    [
+                        -79.360731,
+                        43.675349
+                    ],
+                    [
+                        -79.360321,
+                        43.674275
+                    ],
+                    [
+                        -79.360265,
+                        43.674173
+                    ],
+                    [
+                        -79.360221,
+                        43.674084
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079528485,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3715465,
+                    43.6712021
+                ],
+                [
+                    -79.3602212,
+                    43.6740844
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

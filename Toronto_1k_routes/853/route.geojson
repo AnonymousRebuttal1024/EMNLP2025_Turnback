@@ -1,0 +1,291 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.402043,
+        43.661158,
+        -79.393485,
+        43.663086
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.402043,
+                43.661158,
+                -79.393485,
+                43.663086
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 862.9,
+                        "duration": 621.3,
+                        "steps": [
+                            {
+                                "distance": 364.2,
+                                "duration": 262.2,
+                                "type": 11,
+                                "instruction": "Head east on Willcocks Street",
+                                "name": "Willcocks Street",
+                                "way_points": [
+                                    0,
+                                    8
+                                ]
+                            },
+                            {
+                                "distance": 4.0,
+                                "duration": 2.9,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    8,
+                                    9
+                                ]
+                            },
+                            {
+                                "distance": 98.7,
+                                "duration": 71.0,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    9,
+                                    12
+                                ]
+                            },
+                            {
+                                "distance": 2.9,
+                                "duration": 2.1,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    12,
+                                    13
+                                ]
+                            },
+                            {
+                                "distance": 260.5,
+                                "duration": 187.6,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    13,
+                                    26
+                                ]
+                            },
+                            {
+                                "distance": 5.8,
+                                "duration": 4.1,
+                                "type": 1,
+                                "instruction": "Turn right onto Hart House Circle",
+                                "name": "Hart House Circle",
+                                "way_points": [
+                                    26,
+                                    27
+                                ]
+                            },
+                            {
+                                "distance": 126.9,
+                                "duration": 91.4,
+                                "type": 1,
+                                "instruction": "Turn right onto Hart House Circle",
+                                "name": "Hart House Circle",
+                                "way_points": [
+                                    27,
+                                    33
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Hart House Circle, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    33,
+                                    33
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    33
+                ],
+                "summary": {
+                    "distance": 862.9,
+                    "duration": 621.3
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.402043,
+                        43.661158
+                    ],
+                    [
+                        -79.401574,
+                        43.661261
+                    ],
+                    [
+                        -79.401496,
+                        43.661276
+                    ],
+                    [
+                        -79.40129,
+                        43.661317
+                    ],
+                    [
+                        -79.401214,
+                        43.661331
+                    ],
+                    [
+                        -79.399435,
+                        43.6617
+                    ],
+                    [
+                        -79.399335,
+                        43.661722
+                    ],
+                    [
+                        -79.399263,
+                        43.661737
+                    ],
+                    [
+                        -79.397693,
+                        43.662065
+                    ],
+                    [
+                        -79.397678,
+                        43.66203
+                    ],
+                    [
+                        -79.397592,
+                        43.662049
+                    ],
+                    [
+                        -79.397487,
+                        43.662069
+                    ],
+                    [
+                        -79.396493,
+                        43.662258
+                    ],
+                    [
+                        -79.396489,
+                        43.662283
+                    ],
+                    [
+                        -79.396328,
+                        43.6623
+                    ],
+                    [
+                        -79.39621,
+                        43.662286
+                    ],
+                    [
+                        -79.395993,
+                        43.662295
+                    ],
+                    [
+                        -79.395821,
+                        43.662335
+                    ],
+                    [
+                        -79.395456,
+                        43.662461
+                    ],
+                    [
+                        -79.395085,
+                        43.662496
+                    ],
+                    [
+                        -79.394831,
+                        43.662552
+                    ],
+                    [
+                        -79.394799,
+                        43.66257
+                    ],
+                    [
+                        -79.394719,
+                        43.662592
+                    ],
+                    [
+                        -79.394605,
+                        43.662623
+                    ],
+                    [
+                        -79.394035,
+                        43.662798
+                    ],
+                    [
+                        -79.393654,
+                        43.663016
+                    ],
+                    [
+                        -79.393525,
+                        43.663086
+                    ],
+                    [
+                        -79.393485,
+                        43.663044
+                    ],
+                    [
+                        -79.393592,
+                        43.662974
+                    ],
+                    [
+                        -79.393728,
+                        43.662828
+                    ],
+                    [
+                        -79.393816,
+                        43.662762
+                    ],
+                    [
+                        -79.393941,
+                        43.662699
+                    ],
+                    [
+                        -79.394502,
+                        43.662543
+                    ],
+                    [
+                        -79.39479,
+                        43.66246
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079034001,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4020435,
+                    43.6611584
+                ],
+                [
+                    -79.3947899,
+                    43.6624603
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

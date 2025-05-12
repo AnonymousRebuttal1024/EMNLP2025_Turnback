@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [238.6], "durations": [171.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [15.7], "durations": [11.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [89.1], "durations": [64.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [101.4], "durations": [73.0]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [120.9], "durations": [87.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Durie"], "end_streets": ["Durie"], "distances": [4.7], "durations": [3.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Ardagh"], "end_streets": ["Ardagh"], "distances": [84.7], "durations": [61.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [6.3], "durations": [4.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [2.1], "durations": [1.5]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [7.6], "durations": [5.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": ["George", "George"], "end_streets": [], "distances": [337.7], "durations": [243.2]},
+{"actions": ["Turn", "continue"], "directions": ["right", "East", "East"], "start_streets": ["Gerrard"], "end_streets": ["Gerrard"], "distances": [11.3], "durations": [8.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Horticultural"], "end_streets": ["Horticultural"], "distances": [93.6], "durations": [67.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [132.8], "durations": [95.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [2.7], "durations": [2.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [693.0], "durations": [498.9]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [88.1], "durations": [63.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [11.0], "durations": [7.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [307.4], "durations": [221.3]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

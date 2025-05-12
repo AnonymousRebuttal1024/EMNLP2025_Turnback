@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [19.6], "durations": [14.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [2.8], "durations": [2.0]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [277.2], "durations": [199.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [4.9], "durations": [3.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Kerr"], "end_streets": ["Kerr"], "distances": [44.6], "durations": [32.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Greenwood"], "end_streets": ["Greenwood"], "distances": [23.0], "durations": [16.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Dorothy"], "end_streets": ["Dorothy"], "distances": [77.9], "durations": [56.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Hiltz"], "end_streets": ["Hiltz"], "distances": [190.9], "durations": [137.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [140.1], "durations": [100.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Alton"], "end_streets": ["Alton"], "distances": [71.5], "durations": [51.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Memory"], "end_streets": ["Memory"], "distances": [21.2], "durations": [15.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [20.7], "durations": [14.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

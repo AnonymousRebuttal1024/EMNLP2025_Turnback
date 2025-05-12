@@ -1,0 +1,231 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.333873,
+        43.669291,
+        -79.330443,
+        43.671709
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.333873,
+                43.669291,
+                -79.330443,
+                43.671709
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 502.8,
+                        "duration": 362.0,
+                        "steps": [
+                            {
+                                "distance": 230.2,
+                                "duration": 165.8,
+                                "type": 11,
+                                "instruction": "Head south on Leslie Street",
+                                "name": "Leslie Street",
+                                "way_points": [
+                                    0,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 81.6,
+                                "duration": 58.8,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    6,
+                                    10
+                                ]
+                            },
+                            {
+                                "distance": 7.8,
+                                "duration": 5.6,
+                                "type": 12,
+                                "instruction": "Keep left",
+                                "name": "-",
+                                "way_points": [
+                                    10,
+                                    11
+                                ]
+                            },
+                            {
+                                "distance": 74.8,
+                                "duration": 53.8,
+                                "type": 1,
+                                "instruction": "Turn right onto Hastings Avenue",
+                                "name": "Hastings Avenue",
+                                "way_points": [
+                                    11,
+                                    12
+                                ]
+                            },
+                            {
+                                "distance": 7.5,
+                                "duration": 5.4,
+                                "type": 0,
+                                "instruction": "Turn left onto Stanton Avenue",
+                                "name": "Stanton Avenue",
+                                "way_points": [
+                                    12,
+                                    13
+                                ]
+                            },
+                            {
+                                "distance": 5.7,
+                                "duration": 4.1,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    13,
+                                    14
+                                ]
+                            },
+                            {
+                                "distance": 95.2,
+                                "duration": 68.5,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    14,
+                                    18
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at your destination, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    18,
+                                    18
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    18
+                ],
+                "summary": {
+                    "distance": 502.8,
+                    "duration": 362.0
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.333873,
+                        43.671709
+                    ],
+                    [
+                        -79.333858,
+                        43.671674
+                    ],
+                    [
+                        -79.333461,
+                        43.670751
+                    ],
+                    [
+                        -79.333237,
+                        43.670239
+                    ],
+                    [
+                        -79.333081,
+                        43.669883
+                    ],
+                    [
+                        -79.333049,
+                        43.669809
+                    ],
+                    [
+                        -79.333018,
+                        43.669733
+                    ],
+                    [
+                        -79.332953,
+                        43.669748
+                    ],
+                    [
+                        -79.332917,
+                        43.669768
+                    ],
+                    [
+                        -79.332081,
+                        43.669946
+                    ],
+                    [
+                        -79.332051,
+                        43.669946
+                    ],
+                    [
+                        -79.331958,
+                        43.669965
+                    ],
+                    [
+                        -79.331685,
+                        43.669322
+                    ],
+                    [
+                        -79.331596,
+                        43.66934
+                    ],
+                    [
+                        -79.331578,
+                        43.669291
+                    ],
+                    [
+                        -79.331279,
+                        43.669351
+                    ],
+                    [
+                        -79.331243,
+                        43.669359
+                    ],
+                    [
+                        -79.33078,
+                        43.66946
+                    ],
+                    [
+                        -79.330443,
+                        43.669533
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079238201,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3338729,
+                    43.6717093
+                ],
+                [
+                    -79.3304435,
+                    43.6695328
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

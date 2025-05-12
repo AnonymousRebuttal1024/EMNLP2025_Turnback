@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["northeast"], "start_streets": [], "end_streets": [], "distances": [19.9], "durations": [14.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [1.3], "durations": [1.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [707.4], "durations": [509.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [105.9], "durations": [76.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [39.0], "durations": [28.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [33.7], "durations": [24.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Larch"], "end_streets": ["Larch"], "distances": [4.8], "durations": [3.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Grange"], "end_streets": ["Grange"], "distances": [68.0], "durations": [49.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.5], "durations": [3.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [189.6], "durations": [136.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

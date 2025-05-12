@@ -1,0 +1,234 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.489436,
+        43.676825,
+        -79.483723,
+        43.679718
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.489436,
+                43.676825,
+                -79.483723,
+                43.679718
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 734.5,
+                        "duration": 528.8,
+                        "steps": [
+                            {
+                                "distance": 26.1,
+                                "duration": 18.8,
+                                "type": 11,
+                                "instruction": "Head east on Cordella Avenue",
+                                "name": "Cordella Avenue",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 170.1,
+                                "duration": 122.4,
+                                "type": 1,
+                                "instruction": "Turn right onto Cliff Street",
+                                "name": "Cliff Street",
+                                "way_points": [
+                                    1,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 123.1,
+                                "duration": 88.7,
+                                "type": 1,
+                                "instruction": "Turn right onto Alliance Avenue",
+                                "name": "Alliance Avenue",
+                                "way_points": [
+                                    2,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 74.4,
+                                "duration": 53.6,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    5,
+                                    7
+                                ]
+                            },
+                            {
+                                "distance": 22.0,
+                                "duration": 15.8,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    7,
+                                    8
+                                ]
+                            },
+                            {
+                                "distance": 129.5,
+                                "duration": 93.2,
+                                "type": 1,
+                                "instruction": "Turn right onto Alliance Avenue",
+                                "name": "Alliance Avenue",
+                                "way_points": [
+                                    8,
+                                    10
+                                ]
+                            },
+                            {
+                                "distance": 5.3,
+                                "duration": 3.8,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    10,
+                                    11
+                                ]
+                            },
+                            {
+                                "distance": 184.0,
+                                "duration": 132.5,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    11,
+                                    16
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at your destination, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    16,
+                                    16
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    16
+                ],
+                "summary": {
+                    "distance": 734.5,
+                    "duration": 528.8
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.484623,
+                        43.679647
+                    ],
+                    [
+                        -79.484314,
+                        43.679718
+                    ],
+                    [
+                        -79.483723,
+                        43.678249
+                    ],
+                    [
+                        -79.48381,
+                        43.678163
+                    ],
+                    [
+                        -79.483899,
+                        43.67811
+                    ],
+                    [
+                        -79.485111,
+                        43.67784
+                    ],
+                    [
+                        -79.48519,
+                        43.678026
+                    ],
+                    [
+                        -79.485818,
+                        43.677891
+                    ],
+                    [
+                        -79.485732,
+                        43.677703
+                    ],
+                    [
+                        -79.486515,
+                        43.677531
+                    ],
+                    [
+                        -79.487272,
+                        43.677364
+                    ],
+                    [
+                        -79.487252,
+                        43.677318
+                    ],
+                    [
+                        -79.487817,
+                        43.677192
+                    ],
+                    [
+                        -79.488603,
+                        43.677017
+                    ],
+                    [
+                        -79.489213,
+                        43.676876
+                    ],
+                    [
+                        -79.489332,
+                        43.676846
+                    ],
+                    [
+                        -79.489436,
+                        43.676825
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077008344,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4846233,
+                    43.6796474
+                ],
+                [
+                    -79.4894357,
+                    43.6768252
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

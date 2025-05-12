@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": ["Ennerdale", "Ennerdale"], "end_streets": [], "distances": [37.4], "durations": [26.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Holmesdale"], "end_streets": ["Holmesdale"], "distances": [205.8], "durations": [148.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Preston"], "end_streets": ["Preston"], "distances": [210.1], "durations": [151.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [54.9], "durations": [39.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [14.7], "durations": [10.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [11.5], "durations": [8.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Gibson"], "end_streets": ["Gibson"], "distances": [118.0], "durations": [85.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Amherst"], "end_streets": ["Amherst"], "distances": [184.8], "durations": [133.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Lauder"], "end_streets": ["Lauder"], "distances": [24.3], "durations": [17.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Amherst"], "end_streets": ["Amherst"], "distances": [86.6], "durations": [62.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [12.5], "durations": [9.0]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["northeast"], "start_streets": [], "end_streets": [], "distances": [25.1], "durations": [18.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [21.7], "durations": [15.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [13.7], "durations": [9.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [628.6], "durations": [452.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [61.4], "durations": [44.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [238.6], "durations": [171.8]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [6.8], "durations": [4.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Wolfrey"], "end_streets": ["Wolfrey"], "distances": [317.3], "durations": [228.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Bowden"], "end_streets": ["Bowden"], "distances": [67.6], "durations": [48.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Bowden"], "distances": [0.0], "durations": [0.0]}

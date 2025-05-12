@@ -1,0 +1,292 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.459006,
+        43.680621,
+        -79.448084,
+        43.683844
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.459006,
+                43.680621,
+                -79.448084,
+                43.683844
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1424.9,
+                        "duration": 1026.0,
+                        "steps": [
+                            {
+                                "distance": 196.5,
+                                "duration": 141.5,
+                                "type": 11,
+                                "instruction": "Head west on Hope Street",
+                                "name": "Hope Street",
+                                "way_points": [
+                                    0,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 191.2,
+                                "duration": 137.6,
+                                "type": 1,
+                                "instruction": "Turn right onto Nairn Avenue",
+                                "name": "Nairn Avenue",
+                                "way_points": [
+                                    2,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 100.5,
+                                "duration": 72.3,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    4,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 39.6,
+                                "duration": 28.5,
+                                "type": 1,
+                                "instruction": "Turn right onto Harvie Avenue",
+                                "name": "Harvie Avenue",
+                                "way_points": [
+                                    6,
+                                    7
+                                ]
+                            },
+                            {
+                                "distance": 4.8,
+                                "duration": 3.5,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    7,
+                                    8
+                                ]
+                            },
+                            {
+                                "distance": 117.8,
+                                "duration": 84.8,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    8,
+                                    11
+                                ]
+                            },
+                            {
+                                "distance": 302.2,
+                                "duration": 217.6,
+                                "type": 4,
+                                "instruction": "Turn slight left",
+                                "name": "-",
+                                "way_points": [
+                                    11,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 6.8,
+                                "duration": 4.9,
+                                "type": 13,
+                                "instruction": "Keep right",
+                                "name": "-",
+                                "way_points": [
+                                    19,
+                                    20
+                                ]
+                            },
+                            {
+                                "distance": 202.0,
+                                "duration": 145.5,
+                                "type": 0,
+                                "instruction": "Turn left onto McRoberts Avenue",
+                                "name": "McRoberts Avenue",
+                                "way_points": [
+                                    20,
+                                    22
+                                ]
+                            },
+                            {
+                                "distance": 263.7,
+                                "duration": 189.8,
+                                "type": 1,
+                                "instruction": "Turn right onto Innes Avenue",
+                                "name": "Innes Avenue",
+                                "way_points": [
+                                    22,
+                                    25
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Innes Avenue, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    25,
+                                    25
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    25
+                ],
+                "summary": {
+                    "distance": 1424.9,
+                    "duration": 1026.0
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.448084,
+                        43.681633
+                    ],
+                    [
+                        -79.449223,
+                        43.681372
+                    ],
+                    [
+                        -79.450419,
+                        43.681115
+                    ],
+                    [
+                        -79.45058,
+                        43.68151
+                    ],
+                    [
+                        -79.451096,
+                        43.682763
+                    ],
+                    [
+                        -79.451701,
+                        43.682626
+                    ],
+                    [
+                        -79.452292,
+                        43.682503
+                    ],
+                    [
+                        -79.452433,
+                        43.682844
+                    ],
+                    [
+                        -79.452491,
+                        43.682833
+                    ],
+                    [
+                        -79.45287,
+                        43.683766
+                    ],
+                    [
+                        -79.452897,
+                        43.683818
+                    ],
+                    [
+                        -79.452929,
+                        43.683839
+                    ],
+                    [
+                        -79.452976,
+                        43.683844
+                    ],
+                    [
+                        -79.453454,
+                        43.683747
+                    ],
+                    [
+                        -79.454463,
+                        43.683528
+                    ],
+                    [
+                        -79.454571,
+                        43.683504
+                    ],
+                    [
+                        -79.456006,
+                        43.683195
+                    ],
+                    [
+                        -79.456365,
+                        43.683114
+                    ],
+                    [
+                        -79.456494,
+                        43.683085
+                    ],
+                    [
+                        -79.456521,
+                        43.683065
+                    ],
+                    [
+                        -79.456603,
+                        43.68305
+                    ],
+                    [
+                        -79.456027,
+                        43.681703
+                    ],
+                    [
+                        -79.45587,
+                        43.681312
+                    ],
+                    [
+                        -79.457149,
+                        43.681033
+                    ],
+                    [
+                        -79.458443,
+                        43.680741
+                    ],
+                    [
+                        -79.459006,
+                        43.680621
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079383947,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4480833,
+                    43.6816322
+                ],
+                [
+                    -79.4590064,
+                    43.680621
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

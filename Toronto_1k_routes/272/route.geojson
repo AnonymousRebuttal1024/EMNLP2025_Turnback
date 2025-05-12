@@ -1,0 +1,271 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.437375,
+        43.724777,
+        -79.431852,
+        43.732792
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.437375,
+                43.724777,
+                -79.431852,
+                43.732792
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1308.5,
+                        "duration": 942.1,
+                        "steps": [
+                            {
+                                "distance": 22.4,
+                                "duration": 16.1,
+                                "type": 11,
+                                "instruction": "Head west",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    3
+                                ]
+                            },
+                            {
+                                "distance": 142.7,
+                                "duration": 102.7,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    3,
+                                    7
+                                ]
+                            },
+                            {
+                                "distance": 18.7,
+                                "duration": 13.5,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    7,
+                                    9
+                                ]
+                            },
+                            {
+                                "distance": 407.9,
+                                "duration": 293.7,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    9,
+                                    23
+                                ]
+                            },
+                            {
+                                "distance": 404.1,
+                                "duration": 291.0,
+                                "type": 1,
+                                "instruction": "Turn right onto Regina Avenue",
+                                "name": "Regina Avenue",
+                                "way_points": [
+                                    23,
+                                    25
+                                ]
+                            },
+                            {
+                                "distance": 197.2,
+                                "duration": 142.0,
+                                "type": 0,
+                                "instruction": "Turn left onto Rajah Street",
+                                "name": "Rajah Street",
+                                "way_points": [
+                                    25,
+                                    27
+                                ]
+                            },
+                            {
+                                "distance": 115.5,
+                                "duration": 83.2,
+                                "type": 1,
+                                "instruction": "Turn right onto Ridgevale Drive",
+                                "name": "Ridgevale Drive",
+                                "way_points": [
+                                    27,
+                                    28
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Ridgevale Drive, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    28,
+                                    28
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    28
+                ],
+                "summary": {
+                    "distance": 1308.5,
+                    "duration": 942.1
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.432506,
+                        43.732792
+                    ],
+                    [
+                        -79.432564,
+                        43.73278
+                    ],
+                    [
+                        -79.432611,
+                        43.73277
+                    ],
+                    [
+                        -79.432775,
+                        43.732738
+                    ],
+                    [
+                        -79.43274,
+                        43.732609
+                    ],
+                    [
+                        -79.432669,
+                        43.732345
+                    ],
+                    [
+                        -79.432629,
+                        43.732196
+                    ],
+                    [
+                        -79.432493,
+                        43.731471
+                    ],
+                    [
+                        -79.432583,
+                        43.731452
+                    ],
+                    [
+                        -79.432719,
+                        43.731435
+                    ],
+                    [
+                        -79.432586,
+                        43.730878
+                    ],
+                    [
+                        -79.432569,
+                        43.730804
+                    ],
+                    [
+                        -79.432562,
+                        43.730764
+                    ],
+                    [
+                        -79.432506,
+                        43.730714
+                    ],
+                    [
+                        -79.432419,
+                        43.730284
+                    ],
+                    [
+                        -79.432408,
+                        43.730244
+                    ],
+                    [
+                        -79.432321,
+                        43.729869
+                    ],
+                    [
+                        -79.432309,
+                        43.72982
+                    ],
+                    [
+                        -79.432279,
+                        43.72969
+                    ],
+                    [
+                        -79.432262,
+                        43.729616
+                    ],
+                    [
+                        -79.432242,
+                        43.729537
+                    ],
+                    [
+                        -79.432056,
+                        43.728792
+                    ],
+                    [
+                        -79.43204,
+                        43.728728
+                    ],
+                    [
+                        -79.431852,
+                        43.727829
+                    ],
+                    [
+                        -79.433441,
+                        43.727498
+                    ],
+                    [
+                        -79.43667,
+                        43.726786
+                    ],
+                    [
+                        -79.436322,
+                        43.725925
+                    ],
+                    [
+                        -79.436,
+                        43.72508
+                    ],
+                    [
+                        -79.437375,
+                        43.724777
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077619883,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4325059,
+                    43.7327916
+                ],
+                [
+                    -79.4373746,
+                    43.7247772
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

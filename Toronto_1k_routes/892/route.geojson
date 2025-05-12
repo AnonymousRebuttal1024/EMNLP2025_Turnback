@@ -1,0 +1,170 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.44488,
+        43.688314,
+        -79.440078,
+        43.691455
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.44488,
+                43.688314,
+                -79.440078,
+                43.691455
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 722.1,
+                        "duration": 519.9,
+                        "steps": [
+                            {
+                                "distance": 37.0,
+                                "duration": 26.6,
+                                "type": 11,
+                                "instruction": "Head east",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 364.5,
+                                "duration": 262.4,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    2,
+                                    8
+                                ]
+                            },
+                            {
+                                "distance": 225.7,
+                                "duration": 162.5,
+                                "type": 0,
+                                "instruction": "Turn left onto Lauder Avenue",
+                                "name": "Lauder Avenue",
+                                "way_points": [
+                                    8,
+                                    10
+                                ]
+                            },
+                            {
+                                "distance": 94.9,
+                                "duration": 68.3,
+                                "type": 1,
+                                "instruction": "Turn right onto Genessee Avenue",
+                                "name": "Genessee Avenue",
+                                "way_points": [
+                                    10,
+                                    11
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Genessee Avenue, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    11,
+                                    11
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    11
+                ],
+                "summary": {
+                    "distance": 722.1,
+                    "duration": 519.9
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.440172,
+                        43.691186
+                    ],
+                    [
+                        -79.440078,
+                        43.691206
+                    ],
+                    [
+                        -79.440189,
+                        43.691455
+                    ],
+                    [
+                        -79.440276,
+                        43.691436
+                    ],
+                    [
+                        -79.440813,
+                        43.691317
+                    ],
+                    [
+                        -79.443344,
+                        43.690769
+                    ],
+                    [
+                        -79.443419,
+                        43.690752
+                    ],
+                    [
+                        -79.443499,
+                        43.690735
+                    ],
+                    [
+                        -79.444529,
+                        43.690509
+                    ],
+                    [
+                        -79.443777,
+                        43.688676
+                    ],
+                    [
+                        -79.443749,
+                        43.688559
+                    ],
+                    [
+                        -79.44488,
+                        43.688314
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079152667,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4401723,
+                    43.6911859
+                ],
+                [
+                    -79.4448799,
+                    43.6883138
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

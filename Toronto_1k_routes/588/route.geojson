@@ -1,0 +1,257 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.365954,
+        43.714007,
+        -79.361154,
+        43.719548
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.365954,
+                43.714007,
+                -79.361154,
+                43.719548
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 821.9,
+                        "duration": 591.8,
+                        "steps": [
+                            {
+                                "distance": 40.2,
+                                "duration": 29.0,
+                                "type": 11,
+                                "instruction": "Head south",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 325.2,
+                                "duration": 234.1,
+                                "type": 1,
+                                "instruction": "Turn right onto Brentcliffe Road",
+                                "name": "Brentcliffe Road",
+                                "way_points": [
+                                    5,
+                                    16
+                                ]
+                            },
+                            {
+                                "distance": 350.4,
+                                "duration": 252.3,
+                                "type": 1,
+                                "instruction": "Turn right onto Don Avon Drive",
+                                "name": "Don Avon Drive",
+                                "way_points": [
+                                    16,
+                                    28
+                                ]
+                            },
+                            {
+                                "distance": 94.7,
+                                "duration": 68.2,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    28,
+                                    29
+                                ]
+                            },
+                            {
+                                "distance": 11.4,
+                                "duration": 8.2,
+                                "type": 0,
+                                "instruction": "Turn left onto Fredrick Todd Way",
+                                "name": "Fredrick Todd Way",
+                                "way_points": [
+                                    29,
+                                    30
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Fredrick Todd Way, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    30,
+                                    30
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    30
+                ],
+                "summary": {
+                    "distance": 821.9,
+                    "duration": 591.8
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.365894,
+                        43.719548
+                    ],
+                    [
+                        -79.365954,
+                        43.719438
+                    ],
+                    [
+                        -79.365933,
+                        43.719355
+                    ],
+                    [
+                        -79.365893,
+                        43.719309
+                    ],
+                    [
+                        -79.365837,
+                        43.719268
+                    ],
+                    [
+                        -79.365776,
+                        43.719249
+                    ],
+                    [
+                        -79.365587,
+                        43.718791
+                    ],
+                    [
+                        -79.365562,
+                        43.718734
+                    ],
+                    [
+                        -79.365543,
+                        43.718694
+                    ],
+                    [
+                        -79.365356,
+                        43.718264
+                    ],
+                    [
+                        -79.365153,
+                        43.717986
+                    ],
+                    [
+                        -79.364977,
+                        43.717796
+                    ],
+                    [
+                        -79.364589,
+                        43.717495
+                    ],
+                    [
+                        -79.364535,
+                        43.717454
+                    ],
+                    [
+                        -79.364423,
+                        43.7174
+                    ],
+                    [
+                        -79.363971,
+                        43.717184
+                    ],
+                    [
+                        -79.363465,
+                        43.717039
+                    ],
+                    [
+                        -79.36337,
+                        43.716812
+                    ],
+                    [
+                        -79.363351,
+                        43.716765
+                    ],
+                    [
+                        -79.363336,
+                        43.716727
+                    ],
+                    [
+                        -79.363025,
+                        43.715929
+                    ],
+                    [
+                        -79.363007,
+                        43.715882
+                    ],
+                    [
+                        -79.362987,
+                        43.715832
+                    ],
+                    [
+                        -79.362671,
+                        43.715048
+                    ],
+                    [
+                        -79.362648,
+                        43.714987
+                    ],
+                    [
+                        -79.362631,
+                        43.714946
+                    ],
+                    [
+                        -79.362325,
+                        43.714184
+                    ],
+                    [
+                        -79.362299,
+                        43.714096
+                    ],
+                    [
+                        -79.362291,
+                        43.714007
+                    ],
+                    [
+                        -79.361154,
+                        43.71423
+                    ],
+                    [
+                        -79.361192,
+                        43.714329
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731078395286,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3658943,
+                    43.7195476
+                ],
+                [
+                    -79.3611925,
+                    43.7143288
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

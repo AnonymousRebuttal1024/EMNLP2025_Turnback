@@ -1,0 +1,299 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.450836,
+        43.686575,
+        -79.446425,
+        43.697338
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.450836,
+                43.686575,
+                -79.446425,
+                43.697338
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1295.0,
+                        "duration": 932.4,
+                        "steps": [
+                            {
+                                "distance": 261.5,
+                                "duration": 188.3,
+                                "type": 11,
+                                "instruction": "Head north",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 173.4,
+                                "duration": 124.8,
+                                "type": 5,
+                                "instruction": "Turn slight right",
+                                "name": "-",
+                                "way_points": [
+                                    6,
+                                    7
+                                ]
+                            },
+                            {
+                                "distance": 619.3,
+                                "duration": 445.9,
+                                "type": 5,
+                                "instruction": "Turn slight right",
+                                "name": "-",
+                                "way_points": [
+                                    7,
+                                    22
+                                ]
+                            },
+                            {
+                                "distance": 2.7,
+                                "duration": 2.0,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    22,
+                                    23
+                                ]
+                            },
+                            {
+                                "distance": 92.0,
+                                "duration": 66.3,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    23,
+                                    30
+                                ]
+                            },
+                            {
+                                "distance": 98.2,
+                                "duration": 70.7,
+                                "type": 12,
+                                "instruction": "Keep left",
+                                "name": "-",
+                                "way_points": [
+                                    30,
+                                    34
+                                ]
+                            },
+                            {
+                                "distance": 47.9,
+                                "duration": 34.5,
+                                "type": 1,
+                                "instruction": "Turn right onto Belgravia Avenue",
+                                "name": "Belgravia Avenue",
+                                "way_points": [
+                                    34,
+                                    35
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Belgravia Avenue, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    35,
+                                    35
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    35
+                ],
+                "summary": {
+                    "distance": 1295.0,
+                    "duration": 932.4
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.446425,
+                        43.686575
+                    ],
+                    [
+                        -79.446781,
+                        43.687419
+                    ],
+                    [
+                        -79.447223,
+                        43.688577
+                    ],
+                    [
+                        -79.447268,
+                        43.688702
+                    ],
+                    [
+                        -79.44729,
+                        43.688756
+                    ],
+                    [
+                        -79.447313,
+                        43.688811
+                    ],
+                    [
+                        -79.44734,
+                        43.688826
+                    ],
+                    [
+                        -79.447939,
+                        43.690324
+                    ],
+                    [
+                        -79.447923,
+                        43.690356
+                    ],
+                    [
+                        -79.447942,
+                        43.690403
+                    ],
+                    [
+                        -79.447966,
+                        43.690462
+                    ],
+                    [
+                        -79.448008,
+                        43.69049
+                    ],
+                    [
+                        -79.448671,
+                        43.692126
+                    ],
+                    [
+                        -79.448728,
+                        43.692265
+                    ],
+                    [
+                        -79.448832,
+                        43.692517
+                    ],
+                    [
+                        -79.448857,
+                        43.692579
+                    ],
+                    [
+                        -79.449352,
+                        43.693782
+                    ],
+                    [
+                        -79.449409,
+                        43.69392
+                    ],
+                    [
+                        -79.449606,
+                        43.694399
+                    ],
+                    [
+                        -79.449649,
+                        43.694504
+                    ],
+                    [
+                        -79.449979,
+                        43.695338
+                    ],
+                    [
+                        -79.450023,
+                        43.69556
+                    ],
+                    [
+                        -79.450065,
+                        43.695662
+                    ],
+                    [
+                        -79.450097,
+                        43.695655
+                    ],
+                    [
+                        -79.450132,
+                        43.695728
+                    ],
+                    [
+                        -79.450225,
+                        43.695805
+                    ],
+                    [
+                        -79.4503,
+                        43.69582
+                    ],
+                    [
+                        -79.450347,
+                        43.695851
+                    ],
+                    [
+                        -79.450533,
+                        43.696046
+                    ],
+                    [
+                        -79.45058,
+                        43.696136
+                    ],
+                    [
+                        -79.450631,
+                        43.696346
+                    ],
+                    [
+                        -79.450662,
+                        43.69645
+                    ],
+                    [
+                        -79.450691,
+                        43.696521
+                    ],
+                    [
+                        -79.450828,
+                        43.697174
+                    ],
+                    [
+                        -79.450836,
+                        43.697215
+                    ],
+                    [
+                        -79.450265,
+                        43.697338
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079185713,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4464246,
+                    43.6865746
+                ],
+                [
+                    -79.450265,
+                    43.6973378
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

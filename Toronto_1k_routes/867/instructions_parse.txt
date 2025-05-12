@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [157.4], "durations": [113.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Sackville"], "end_streets": ["Sackville"], "distances": [814.9], "durations": [586.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [8.9], "durations": [6.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [153.8], "durations": [110.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [12.7], "durations": [9.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Power"], "end_streets": ["Power"], "distances": [85.7], "durations": [61.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [80.2], "durations": [57.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [1.9], "durations": [1.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [125.7], "durations": [90.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Berkeley"], "end_streets": ["Berkeley"], "distances": [8.5], "durations": [6.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Berkeley"], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,5 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [710.5], "durations": [511.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [173.3], "durations": [124.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [9.4], "durations": [6.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Wasdale"], "end_streets": ["Wasdale"], "distances": [190.7], "durations": [137.3]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Wasdale"], "distances": [0.0], "durations": [0.0]}

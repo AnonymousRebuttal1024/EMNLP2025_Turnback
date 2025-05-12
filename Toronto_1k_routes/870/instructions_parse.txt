@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [178.1], "durations": [128.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [298.8], "durations": [215.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [16.8], "durations": [12.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [7.4], "durations": [5.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Gower"], "end_streets": ["Gower"], "distances": [86.1], "durations": [62.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Meighen"], "end_streets": ["Meighen"], "distances": [345.0], "durations": [248.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Meighen"], "distances": [0.0], "durations": [0.0]}

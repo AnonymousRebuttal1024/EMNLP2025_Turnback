@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": ["Queens", "Queens"], "end_streets": [], "distances": [321.2], "durations": [231.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Superior"], "end_streets": ["Superior"], "distances": [46.5], "durations": [33.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [293.7], "durations": [211.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Burlington"], "end_streets": ["Burlington"], "distances": [67.0], "durations": [48.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Skelton"], "end_streets": ["Skelton"], "distances": [73.7], "durations": [53.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [179.7], "durations": [129.4]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [75.5], "durations": [54.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [12.4], "durations": [8.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

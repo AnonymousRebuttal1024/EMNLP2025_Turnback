@@ -1,0 +1,351 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.38745,
+        43.668927,
+        -79.379447,
+        43.672424
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.38745,
+                43.668927,
+                -79.379447,
+                43.672424
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 995.7,
+                        "duration": 716.9,
+                        "steps": [
+                            {
+                                "distance": 28.5,
+                                "duration": 20.5,
+                                "type": 11,
+                                "instruction": "Head south on Jarvis Street",
+                                "name": "Jarvis Street",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 10.9,
+                                "duration": 7.8,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    1,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 112.2,
+                                "duration": 80.8,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    2,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 159.7,
+                                "duration": 115.0,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    4,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 3.3,
+                                "duration": 2.4,
+                                "type": 1,
+                                "instruction": "Turn right onto Allan Sparrow Lane",
+                                "name": "Allan Sparrow Lane",
+                                "way_points": [
+                                    5,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 52.5,
+                                "duration": 37.8,
+                                "type": 0,
+                                "instruction": "Turn left onto Charles Street East",
+                                "name": "Charles Street East",
+                                "way_points": [
+                                    6,
+                                    9
+                                ]
+                            },
+                            {
+                                "distance": 313.8,
+                                "duration": 225.9,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    9,
+                                    22
+                                ]
+                            },
+                            {
+                                "distance": 139.4,
+                                "duration": 100.4,
+                                "type": 5,
+                                "instruction": "Turn slight right",
+                                "name": "-",
+                                "way_points": [
+                                    22,
+                                    33
+                                ]
+                            },
+                            {
+                                "distance": 79.2,
+                                "duration": 57.0,
+                                "type": 13,
+                                "instruction": "Keep right",
+                                "name": "-",
+                                "way_points": [
+                                    33,
+                                    35
+                                ]
+                            },
+                            {
+                                "distance": 6.4,
+                                "duration": 4.6,
+                                "type": 13,
+                                "instruction": "Keep right",
+                                "name": "-",
+                                "way_points": [
+                                    35,
+                                    36
+                                ]
+                            },
+                            {
+                                "distance": 89.7,
+                                "duration": 64.6,
+                                "type": 12,
+                                "instruction": "Keep left onto Collier Street",
+                                "name": "Collier Street",
+                                "way_points": [
+                                    36,
+                                    37
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Collier Street, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    37,
+                                    37
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    37
+                ],
+                "summary": {
+                    "distance": 995.7,
+                    "duration": 716.9
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.379545,
+                        43.669198
+                    ],
+                    [
+                        -79.379447,
+                        43.668952
+                    ],
+                    [
+                        -79.379578,
+                        43.668927
+                    ],
+                    [
+                        -79.379807,
+                        43.669518
+                    ],
+                    [
+                        -79.379993,
+                        43.66989
+                    ],
+                    [
+                        -79.381904,
+                        43.669499
+                    ],
+                    [
+                        -79.381916,
+                        43.669527
+                    ],
+                    [
+                        -79.382353,
+                        43.669431
+                    ],
+                    [
+                        -79.382457,
+                        43.669408
+                    ],
+                    [
+                        -79.38254,
+                        43.669391
+                    ],
+                    [
+                        -79.38256,
+                        43.669443
+                    ],
+                    [
+                        -79.382849,
+                        43.6701
+                    ],
+                    [
+                        -79.382871,
+                        43.670139
+                    ],
+                    [
+                        -79.382897,
+                        43.670177
+                    ],
+                    [
+                        -79.383065,
+                        43.670575
+                    ],
+                    [
+                        -79.38322,
+                        43.67094
+                    ],
+                    [
+                        -79.383243,
+                        43.671012
+                    ],
+                    [
+                        -79.383278,
+                        43.671109
+                    ],
+                    [
+                        -79.383476,
+                        43.671605
+                    ],
+                    [
+                        -79.383649,
+                        43.67194
+                    ],
+                    [
+                        -79.383683,
+                        43.671966
+                    ],
+                    [
+                        -79.383731,
+                        43.672007
+                    ],
+                    [
+                        -79.383784,
+                        43.672052
+                    ],
+                    [
+                        -79.383787,
+                        43.67207
+                    ],
+                    [
+                        -79.383862,
+                        43.672112
+                    ],
+                    [
+                        -79.384037,
+                        43.672173
+                    ],
+                    [
+                        -79.384117,
+                        43.672185
+                    ],
+                    [
+                        -79.384366,
+                        43.672183
+                    ],
+                    [
+                        -79.38465,
+                        43.672121
+                    ],
+                    [
+                        -79.384722,
+                        43.672103
+                    ],
+                    [
+                        -79.384804,
+                        43.672088
+                    ],
+                    [
+                        -79.385007,
+                        43.672055
+                    ],
+                    [
+                        -79.3852,
+                        43.672051
+                    ],
+                    [
+                        -79.385418,
+                        43.672102
+                    ],
+                    [
+                        -79.386153,
+                        43.672348
+                    ],
+                    [
+                        -79.386313,
+                        43.672399
+                    ],
+                    [
+                        -79.386384,
+                        43.672424
+                    ],
+                    [
+                        -79.38745,
+                        43.672187
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079005410,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3795455,
+                    43.6691982
+                ],
+                [
+                    -79.38745,
+                    43.6721871
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

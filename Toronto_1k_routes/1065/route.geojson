@@ -1,0 +1,243 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.491558,
+        43.637314,
+        -79.487633,
+        43.639649
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.491558,
+                43.637314,
+                -79.487633,
+                43.639649
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 598.2,
+                        "duration": 430.7,
+                        "steps": [
+                            {
+                                "distance": 16.4,
+                                "duration": 11.8,
+                                "type": 11,
+                                "instruction": "Head west",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 16.2,
+                                "duration": 11.7,
+                                "type": 3,
+                                "instruction": "Turn sharp right onto Crown Hill Place",
+                                "name": "Crown Hill Place",
+                                "way_points": [
+                                    1,
+                                    3
+                                ]
+                            },
+                            {
+                                "distance": 160.1,
+                                "duration": 115.3,
+                                "type": 13,
+                                "instruction": "Keep right onto Crown Hill Place",
+                                "name": "Crown Hill Place",
+                                "way_points": [
+                                    3,
+                                    8
+                                ]
+                            },
+                            {
+                                "distance": 123.0,
+                                "duration": 88.5,
+                                "type": 13,
+                                "instruction": "Keep right",
+                                "name": "-",
+                                "way_points": [
+                                    8,
+                                    12
+                                ]
+                            },
+                            {
+                                "distance": 145.9,
+                                "duration": 105.1,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    12,
+                                    13
+                                ]
+                            },
+                            {
+                                "distance": 78.7,
+                                "duration": 56.7,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    13,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 57.9,
+                                "duration": 41.7,
+                                "type": 0,
+                                "instruction": "Turn left onto Neighbourhood Lane",
+                                "name": "Neighbourhood Lane",
+                                "way_points": [
+                                    19,
+                                    21
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Neighbourhood Lane, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    21,
+                                    21
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    21
+                ],
+                "summary": {
+                    "distance": 598.2,
+                    "duration": 430.7
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.491354,
+                        43.639099
+                    ],
+                    [
+                        -79.491558,
+                        43.639104
+                    ],
+                    [
+                        -79.491523,
+                        43.639193
+                    ],
+                    [
+                        -79.491505,
+                        43.639244
+                    ],
+                    [
+                        -79.491481,
+                        43.639288
+                    ],
+                    [
+                        -79.491405,
+                        43.639306
+                    ],
+                    [
+                        -79.49107,
+                        43.639315
+                    ],
+                    [
+                        -79.489741,
+                        43.639627
+                    ],
+                    [
+                        -79.489632,
+                        43.639649
+                    ],
+                    [
+                        -79.489194,
+                        43.639478
+                    ],
+                    [
+                        -79.488814,
+                        43.639413
+                    ],
+                    [
+                        -79.48855,
+                        43.639423
+                    ],
+                    [
+                        -79.488185,
+                        43.639484
+                    ],
+                    [
+                        -79.487633,
+                        43.638234
+                    ],
+                    [
+                        -79.48805,
+                        43.638125
+                    ],
+                    [
+                        -79.488093,
+                        43.638083
+                    ],
+                    [
+                        -79.488098,
+                        43.638027
+                    ],
+                    [
+                        -79.488161,
+                        43.637884
+                    ],
+                    [
+                        -79.488224,
+                        43.637829
+                    ],
+                    [
+                        -79.488301,
+                        43.637815
+                    ],
+                    [
+                        -79.488157,
+                        43.637411
+                    ],
+                    [
+                        -79.488109,
+                        43.637314
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079532741,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4913542,
+                    43.6390986
+                ],
+                [
+                    -79.4881089,
+                    43.6373139
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

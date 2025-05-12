@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["northwest"], "start_streets": [], "end_streets": [], "distances": [35.2], "durations": [25.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [28.9], "durations": [20.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [131.0], "durations": [94.3]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [65.4], "durations": [47.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [16.2], "durations": [11.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Trash"], "end_streets": ["Trash"], "distances": [223.8], "durations": [161.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [388.9], "durations": [280.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Don"], "end_streets": ["Don"], "distances": [54.1], "durations": [39.0]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [31.2], "durations": [22.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Swamp"], "end_streets": ["Swamp"], "distances": [31.1], "durations": [22.4]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [253.3], "durations": [182.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Leslie"], "end_streets": ["Leslie"], "distances": [117.9], "durations": [84.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Leslie"], "distances": [0.0], "durations": [0.0]}

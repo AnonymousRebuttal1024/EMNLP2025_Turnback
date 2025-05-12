@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [145.4], "durations": [104.7]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [196.2], "durations": [141.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [71.0], "durations": [51.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [66.6], "durations": [47.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Escalator"], "end_streets": ["Escalator"], "distances": [6.9], "durations": [5.0]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": ["Eaton"], "end_streets": ["Eaton"], "distances": [7.1], "durations": [5.1]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": ["Escalator"], "end_streets": ["Escalator"], "distances": [7.7], "durations": [5.5]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": ["Eaton"], "end_streets": ["Eaton"], "distances": [8.3], "durations": [6.0]},
+{"actions": ["Continue", "continue"], "directions": [], "start_streets": ["Eaton"], "end_streets": ["Eaton"], "distances": [74.2], "durations": [53.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [45.6], "durations": [32.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

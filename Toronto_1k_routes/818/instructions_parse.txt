@@ -1,0 +1,6 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [26.4], "durations": [19.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [162.7], "durations": [117.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [356.3], "durations": [256.5]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [9.5], "durations": [6.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Wenderly"], "end_streets": ["Wenderly"], "distances": [608.6], "durations": [438.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Wenderly"], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["northeast"], "start_streets": ["Oakcrest", "Oakcrest"], "end_streets": [], "distances": [380.5], "durations": [273.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [36.4], "durations": [26.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.5], "durations": [3.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Westlake"], "end_streets": ["Westlake"], "distances": [149.1], "durations": [107.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [52.1], "durations": [37.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [13.6], "durations": [9.8]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

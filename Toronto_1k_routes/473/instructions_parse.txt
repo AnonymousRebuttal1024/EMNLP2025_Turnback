@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["east", "West", "West"], "start_streets": ["St", "St"], "end_streets": [], "distances": [9.7], "durations": [7.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [22.0], "durations": [15.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [710.9], "durations": [511.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Westmount"], "end_streets": ["Westmount"], "distances": [32.9], "durations": [23.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [270.8], "durations": [195.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Glenholme"], "end_streets": ["Glenholme"], "distances": [128.0], "durations": [92.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Rosemount"], "end_streets": ["Rosemount"], "distances": [4.1], "durations": [3.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [2.8], "durations": [2.0]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": [], "end_streets": [], "distances": [231.4], "durations": [166.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.9], "durations": [3.5]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [11.1], "durations": [8.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [98.6], "durations": [71.0]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

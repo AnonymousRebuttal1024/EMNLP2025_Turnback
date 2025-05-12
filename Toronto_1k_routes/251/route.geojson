@@ -1,0 +1,412 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.414981,
+        43.707621,
+        -79.409073,
+        43.720564
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.414981,
+                43.707621,
+                -79.409073,
+                43.720564
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1980.2,
+                        "duration": 1425.7,
+                        "steps": [
+                            {
+                                "distance": 7.2,
+                                "duration": 5.2,
+                                "type": 11,
+                                "instruction": "Head south",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 7.3,
+                                "duration": 5.3,
+                                "type": 1,
+                                "instruction": "Turn right onto Cheritan Avenue",
+                                "name": "Cheritan Avenue",
+                                "way_points": [
+                                    1,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 220.2,
+                                "duration": 158.6,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 1st exit onto Rosewell Avenue",
+                                "name": "Rosewell Avenue",
+                                "exit_number": 1,
+                                "way_points": [
+                                    2,
+                                    11
+                                ]
+                            },
+                            {
+                                "distance": 3.9,
+                                "duration": 2.8,
+                                "type": 1,
+                                "instruction": "Turn right onto Glenview Avenue",
+                                "name": "Glenview Avenue",
+                                "way_points": [
+                                    11,
+                                    12
+                                ]
+                            },
+                            {
+                                "distance": 254.3,
+                                "duration": 183.1,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    12,
+                                    18
+                                ]
+                            },
+                            {
+                                "distance": 256.3,
+                                "duration": 184.5,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    18,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 424.5,
+                                "duration": 305.7,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    19,
+                                    32
+                                ]
+                            },
+                            {
+                                "distance": 113.1,
+                                "duration": 81.4,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    32,
+                                    38
+                                ]
+                            },
+                            {
+                                "distance": 16.7,
+                                "duration": 12.0,
+                                "type": 1,
+                                "instruction": "Turn right onto Briar Hill Avenue",
+                                "name": "Briar Hill Avenue",
+                                "way_points": [
+                                    38,
+                                    40
+                                ]
+                            },
+                            {
+                                "distance": 303.0,
+                                "duration": 218.2,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    40,
+                                    49
+                                ]
+                            },
+                            {
+                                "distance": 373.6,
+                                "duration": 269.0,
+                                "type": 1,
+                                "instruction": "Turn right onto Roselawn Avenue",
+                                "name": "Roselawn Avenue",
+                                "way_points": [
+                                    49,
+                                    52
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Roselawn Avenue, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    52,
+                                    52
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    52
+                ],
+                "summary": {
+                    "distance": 1980.2,
+                    "duration": 1425.7
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.411155,
+                        43.720564
+                    ],
+                    [
+                        -79.41113,
+                        43.720502
+                    ],
+                    [
+                        -79.411207,
+                        43.720467
+                    ],
+                    [
+                        -79.411235,
+                        43.720404
+                    ],
+                    [
+                        -79.411199,
+                        43.720308
+                    ],
+                    [
+                        -79.411066,
+                        43.720189
+                    ],
+                    [
+                        -79.41059,
+                        43.71995
+                    ],
+                    [
+                        -79.410442,
+                        43.719854
+                    ],
+                    [
+                        -79.410208,
+                        43.719653
+                    ],
+                    [
+                        -79.410166,
+                        43.719582
+                    ],
+                    [
+                        -79.410108,
+                        43.719484
+                    ],
+                    [
+                        -79.409895,
+                        43.71885
+                    ],
+                    [
+                        -79.409941,
+                        43.718839
+                    ],
+                    [
+                        -79.409526,
+                        43.717796
+                    ],
+                    [
+                        -79.409499,
+                        43.717734
+                    ],
+                    [
+                        -79.409484,
+                        43.717696
+                    ],
+                    [
+                        -79.409104,
+                        43.716717
+                    ],
+                    [
+                        -79.409087,
+                        43.716673
+                    ],
+                    [
+                        -79.409073,
+                        43.71664
+                    ],
+                    [
+                        -79.41214,
+                        43.716007
+                    ],
+                    [
+                        -79.411946,
+                        43.715555
+                    ],
+                    [
+                        -79.41192,
+                        43.715415
+                    ],
+                    [
+                        -79.41189,
+                        43.715131
+                    ],
+                    [
+                        -79.411859,
+                        43.714883
+                    ],
+                    [
+                        -79.411848,
+                        43.71479
+                    ],
+                    [
+                        -79.411801,
+                        43.714457
+                    ],
+                    [
+                        -79.411777,
+                        43.714397
+                    ],
+                    [
+                        -79.41177,
+                        43.714328
+                    ],
+                    [
+                        -79.411778,
+                        43.71426
+                    ],
+                    [
+                        -79.411739,
+                        43.714047
+                    ],
+                    [
+                        -79.411726,
+                        43.713925
+                    ],
+                    [
+                        -79.411638,
+                        43.713071
+                    ],
+                    [
+                        -79.411579,
+                        43.712224
+                    ],
+                    [
+                        -79.411562,
+                        43.712213
+                    ],
+                    [
+                        -79.411556,
+                        43.712146
+                    ],
+                    [
+                        -79.411572,
+                        43.712069
+                    ],
+                    [
+                        -79.411531,
+                        43.71166
+                    ],
+                    [
+                        -79.411392,
+                        43.711307
+                    ],
+                    [
+                        -79.411362,
+                        43.711232
+                    ],
+                    [
+                        -79.411457,
+                        43.711206
+                    ],
+                    [
+                        -79.411559,
+                        43.711184
+                    ],
+                    [
+                        -79.411529,
+                        43.711105
+                    ],
+                    [
+                        -79.411269,
+                        43.710381
+                    ],
+                    [
+                        -79.411234,
+                        43.710317
+                    ],
+                    [
+                        -79.411208,
+                        43.710254
+                    ],
+                    [
+                        -79.4109,
+                        43.709517
+                    ],
+                    [
+                        -79.410868,
+                        43.709437
+                    ],
+                    [
+                        -79.41083,
+                        43.709354
+                    ],
+                    [
+                        -79.410546,
+                        43.708633
+                    ],
+                    [
+                        -79.41052,
+                        43.708565
+                    ],
+                    [
+                        -79.412925,
+                        43.708055
+                    ],
+                    [
+                        -79.413939,
+                        43.707841
+                    ],
+                    [
+                        -79.414981,
+                        43.707621
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077528158,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4111552,
+                    43.720564
+                ],
+                [
+                    -79.4149813,
+                    43.7076211
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

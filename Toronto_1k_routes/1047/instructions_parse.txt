@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [7.6], "durations": [5.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Beresford"], "end_streets": ["Beresford"], "distances": [607.6], "durations": [437.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [162.4], "durations": [116.9]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [84.8], "durations": [61.0]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [6.5], "durations": [4.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Waller"], "end_streets": ["Waller"], "distances": [14.9], "durations": [10.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [183.8], "durations": [132.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Saint"], "end_streets": ["Saint"], "distances": [40.9], "durations": [29.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Saint"], "distances": [0.0], "durations": [0.0]}

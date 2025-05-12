@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["southwest"], "start_streets": [], "end_streets": [], "distances": [220.5], "durations": [158.8]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.9], "durations": [4.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Lightbourn"], "end_streets": ["Lightbourn"], "distances": [7.6], "durations": [5.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Brandon"], "end_streets": ["Brandon"], "distances": [488.9], "durations": [352.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Foundry"], "end_streets": ["Foundry"], "distances": [68.7], "durations": [49.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [70.8], "durations": [51.0]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

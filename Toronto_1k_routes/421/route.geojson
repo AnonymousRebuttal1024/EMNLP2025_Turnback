@@ -1,0 +1,216 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.494649,
+        43.636089,
+        -79.490518,
+        43.639568
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.494649,
+                43.636089,
+                -79.490518,
+                43.639568
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 788.6,
+                        "duration": 567.8,
+                        "steps": [
+                            {
+                                "distance": 172.3,
+                                "duration": 124.0,
+                                "type": 11,
+                                "instruction": "Head southwest on Kings Point Drive",
+                                "name": "Kings Point Drive",
+                                "way_points": [
+                                    0,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 322.2,
+                                "duration": 232.0,
+                                "type": 0,
+                                "instruction": "Turn left onto Park Lawn Road",
+                                "name": "Park Lawn Road",
+                                "way_points": [
+                                    4,
+                                    10
+                                ]
+                            },
+                            {
+                                "distance": 11.1,
+                                "duration": 8.0,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    10,
+                                    12
+                                ]
+                            },
+                            {
+                                "distance": 22.8,
+                                "duration": 16.4,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    12,
+                                    14
+                                ]
+                            },
+                            {
+                                "distance": 214.7,
+                                "duration": 154.6,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    14,
+                                    16
+                                ]
+                            },
+                            {
+                                "distance": 45.5,
+                                "duration": 32.8,
+                                "type": 1,
+                                "instruction": "Turn right onto Cloverhill Road",
+                                "name": "Cloverhill Road",
+                                "way_points": [
+                                    16,
+                                    17
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Cloverhill Road, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    17,
+                                    17
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    17
+                ],
+                "summary": {
+                    "distance": 788.6,
+                    "duration": 567.8
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.492655,
+                        43.639568
+                    ],
+                    [
+                        -79.492883,
+                        43.639452
+                    ],
+                    [
+                        -79.493456,
+                        43.639313
+                    ],
+                    [
+                        -79.493863,
+                        43.639214
+                    ],
+                    [
+                        -79.494649,
+                        43.639023
+                    ],
+                    [
+                        -79.49433,
+                        43.638324
+                    ],
+                    [
+                        -79.494279,
+                        43.638203
+                    ],
+                    [
+                        -79.494037,
+                        43.637652
+                    ],
+                    [
+                        -79.493912,
+                        43.637356
+                    ],
+                    [
+                        -79.49361,
+                        43.636685
+                    ],
+                    [
+                        -79.49345,
+                        43.636259
+                    ],
+                    [
+                        -79.493363,
+                        43.636279
+                    ],
+                    [
+                        -79.493318,
+                        43.636288
+                    ],
+                    [
+                        -79.493277,
+                        43.636186
+                    ],
+                    [
+                        -79.493245,
+                        43.636089
+                    ],
+                    [
+                        -79.490763,
+                        43.63663
+                    ],
+                    [
+                        -79.490692,
+                        43.636647
+                    ],
+                    [
+                        -79.490518,
+                        43.636258
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077963964,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4926554,
+                    43.6395677
+                ],
+                [
+                    -79.4905179,
+                    43.6362576
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

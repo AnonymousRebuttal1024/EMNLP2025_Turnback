@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["northeast"], "start_streets": [], "end_streets": [], "distances": [112.6], "durations": [81.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.3], "durations": [3.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [24.1], "durations": [17.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [781.6], "durations": [562.8]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [33.0], "durations": [23.8]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [289.9], "durations": [208.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Southmead"], "end_streets": ["Southmead"], "distances": [86.2], "durations": [62.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Southmead"], "distances": [0.0], "durations": [0.0]}

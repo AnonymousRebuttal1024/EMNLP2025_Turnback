@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [3.9], "durations": [2.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Garnet"], "end_streets": ["Garnet"], "distances": [101.3], "durations": [73.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Willowvale"], "end_streets": ["Willowvale"], "distances": [90.8], "durations": [65.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [53.3], "durations": [38.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [535.5], "durations": [385.6]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [90.5], "durations": [65.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [1.8], "durations": [1.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [319.7], "durations": [230.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Tyrrel"], "end_streets": ["Tyrrel"], "distances": [318.9], "durations": [229.6]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Tyrrel"], "distances": [0.0], "durations": [0.0]}

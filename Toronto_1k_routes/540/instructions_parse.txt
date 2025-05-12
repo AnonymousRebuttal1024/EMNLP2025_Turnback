@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["southeast"], "start_streets": [], "end_streets": [], "distances": [367.4], "durations": [264.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Clarendon"], "end_streets": ["Clarendon"], "distances": [4.8], "durations": [3.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Poplar"], "end_streets": ["Poplar"], "distances": [210.4], "durations": [151.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [3.7], "durations": [2.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [7.6], "durations": [5.5]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [180.5], "durations": [130.0]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": [], "end_streets": [], "distances": [5.8], "durations": [4.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

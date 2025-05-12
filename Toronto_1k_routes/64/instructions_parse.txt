@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [6.7], "durations": [4.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Forman"], "end_streets": ["Forman"], "distances": [97.3], "durations": [70.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [10.0], "durations": [7.2]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [4.7], "durations": [3.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Belsize"], "end_streets": ["Belsize"], "distances": [760.9], "durations": [547.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [36.8], "durations": [26.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [19.3], "durations": [13.9]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": ["Wilfrid"], "end_streets": ["Wilfrid"], "distances": [13.8], "durations": [9.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Belsize"], "end_streets": ["Belsize"], "distances": [97.7], "durations": [70.3]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": ["Tullis"], "end_streets": ["Tullis"], "distances": [270.1], "durations": [194.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Tullis"], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,294 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.296713,
+        43.708691,
+        -79.293775,
+        43.718518
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.296713,
+                43.708691,
+                -79.293775,
+                43.718518
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1388.0,
+                        "duration": 999.4,
+                        "steps": [
+                            {
+                                "distance": 16.5,
+                                "duration": 11.8,
+                                "type": 11,
+                                "instruction": "Head east",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 251.3,
+                                "duration": 180.9,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    2,
+                                    10
+                                ]
+                            },
+                            {
+                                "distance": 89.5,
+                                "duration": 64.4,
+                                "type": 1,
+                                "instruction": "Turn right onto Stamford Square",
+                                "name": "Stamford Square",
+                                "way_points": [
+                                    10,
+                                    12
+                                ]
+                            },
+                            {
+                                "distance": 184.6,
+                                "duration": 132.9,
+                                "type": 0,
+                                "instruction": "Turn left onto Stamford Square North",
+                                "name": "Stamford Square North",
+                                "way_points": [
+                                    12,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 474.2,
+                                "duration": 341.4,
+                                "type": 0,
+                                "instruction": "Turn left onto Karnwood Drive",
+                                "name": "Karnwood Drive",
+                                "way_points": [
+                                    19,
+                                    26
+                                ]
+                            },
+                            {
+                                "distance": 86.3,
+                                "duration": 62.2,
+                                "type": 1,
+                                "instruction": "Turn right onto Knightsbridge Road",
+                                "name": "Knightsbridge Road",
+                                "way_points": [
+                                    26,
+                                    27
+                                ]
+                            },
+                            {
+                                "distance": 273.2,
+                                "duration": 196.7,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    27,
+                                    30
+                                ]
+                            },
+                            {
+                                "distance": 12.3,
+                                "duration": 8.9,
+                                "type": 1,
+                                "instruction": "Turn right onto Kingswell Crescent",
+                                "name": "Kingswell Crescent",
+                                "way_points": [
+                                    30,
+                                    31
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Kingswell Crescent, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    31,
+                                    31
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    31
+                ],
+                "summary": {
+                    "distance": 1388.0,
+                    "duration": 999.4
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.295991,
+                        43.708693
+                    ],
+                    [
+                        -79.295879,
+                        43.708691
+                    ],
+                    [
+                        -79.295787,
+                        43.708696
+                    ],
+                    [
+                        -79.295807,
+                        43.708784
+                    ],
+                    [
+                        -79.295839,
+                        43.708857
+                    ],
+                    [
+                        -79.295879,
+                        43.708946
+                    ],
+                    [
+                        -79.296033,
+                        43.709298
+                    ],
+                    [
+                        -79.296225,
+                        43.709736
+                    ],
+                    [
+                        -79.296538,
+                        43.710456
+                    ],
+                    [
+                        -79.296653,
+                        43.710719
+                    ],
+                    [
+                        -79.296713,
+                        43.710854
+                    ],
+                    [
+                        -79.296533,
+                        43.710893
+                    ],
+                    [
+                        -79.295652,
+                        43.711097
+                    ],
+                    [
+                        -79.295802,
+                        43.711453
+                    ],
+                    [
+                        -79.295865,
+                        43.71151
+                    ],
+                    [
+                        -79.29587,
+                        43.711532
+                    ],
+                    [
+                        -79.295845,
+                        43.711565
+                    ],
+                    [
+                        -79.295786,
+                        43.711582
+                    ],
+                    [
+                        -79.295696,
+                        43.711574
+                    ],
+                    [
+                        -79.294312,
+                        43.711871
+                    ],
+                    [
+                        -79.29464,
+                        43.712676
+                    ],
+                    [
+                        -79.294657,
+                        43.712838
+                    ],
+                    [
+                        -79.294614,
+                        43.713044
+                    ],
+                    [
+                        -79.294349,
+                        43.713469
+                    ],
+                    [
+                        -79.294044,
+                        43.713901
+                    ],
+                    [
+                        -79.294019,
+                        43.714052
+                    ],
+                    [
+                        -79.294803,
+                        43.71592
+                    ],
+                    [
+                        -79.293775,
+                        43.716145
+                    ],
+                    [
+                        -79.293816,
+                        43.716238
+                    ],
+                    [
+                        -79.294391,
+                        43.71763
+                    ],
+                    [
+                        -79.294749,
+                        43.718499
+                    ],
+                    [
+                        -79.294597,
+                        43.718518
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077175214,
+        "query": {
+            "coordinates": [
+                [
+                    -79.2959909,
+                    43.7086927
+                ],
+                [
+                    -79.2945971,
+                    43.7185177
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

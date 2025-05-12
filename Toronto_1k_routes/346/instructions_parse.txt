@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["southeast"], "start_streets": [], "end_streets": [], "distances": [184.8], "durations": [133.0]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": [], "end_streets": [], "distances": [8.2], "durations": [5.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Love"], "end_streets": ["Love"], "distances": [7.7], "durations": [5.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Glenmount"], "end_streets": ["Glenmount"], "distances": [783.8], "durations": [564.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [5.3], "durations": [3.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [13.4], "durations": [9.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": ["Shaw", "Shaw"], "end_streets": [], "distances": [154.5], "durations": [111.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [5.1], "durations": [3.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [40.8], "durations": [29.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Marchmount"], "end_streets": ["Marchmount"], "distances": [196.5], "durations": [141.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [71.7], "durations": [51.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [208.4], "durations": [150.1]},
+{"actions": ["Turn", "continue"], "directions": ["right", "North", "North"], "start_streets": ["Delaware"], "end_streets": ["Delaware"], "distances": [9.7], "durations": [7.0]},
+{"actions": ["Arrive", "continue"], "directions": ["North"], "start_streets": [], "end_streets": ["Delaware"], "distances": [0.0], "durations": [0.0]}

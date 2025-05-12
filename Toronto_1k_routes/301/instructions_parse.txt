@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [9.6], "durations": [6.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Varna"], "end_streets": ["Varna"], "distances": [727.0], "durations": [523.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Varna"], "end_streets": ["Varna"], "distances": [401.7], "durations": [289.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [12.3], "durations": [8.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [24.7], "durations": [17.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [44.2], "durations": [31.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Englemount"], "end_streets": ["Englemount"], "distances": [156.0], "durations": [112.3]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Englemount"], "distances": [0.0], "durations": [0.0]}

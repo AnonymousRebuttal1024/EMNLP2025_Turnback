@@ -1,0 +1,326 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.387256,
+        43.671071,
+        -79.381485,
+        43.676575
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.387256,
+                43.671071,
+                -79.381485,
+                43.676575
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 866.5,
+                        "duration": 623.9,
+                        "steps": [
+                            {
+                                "distance": 4.4,
+                                "duration": 3.2,
+                                "type": 11,
+                                "instruction": "Head north",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 10.5,
+                                "duration": 7.6,
+                                "type": 1,
+                                "instruction": "Turn right onto Cumberland Street",
+                                "name": "Cumberland Street",
+                                "way_points": [
+                                    1,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 18.3,
+                                "duration": 13.2,
+                                "type": 0,
+                                "instruction": "Turn left onto Yonge Street",
+                                "name": "Yonge Street",
+                                "way_points": [
+                                    2,
+                                    3
+                                ]
+                            },
+                            {
+                                "distance": 7.8,
+                                "duration": 5.6,
+                                "type": 1,
+                                "instruction": "Turn right onto Asquith Avenue",
+                                "name": "Asquith Avenue",
+                                "way_points": [
+                                    3,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 5.4,
+                                "duration": 3.9,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    4,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 201.7,
+                                "duration": 145.3,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    5,
+                                    7
+                                ]
+                            },
+                            {
+                                "distance": 78.3,
+                                "duration": 56.4,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    7,
+                                    13
+                                ]
+                            },
+                            {
+                                "distance": 124.8,
+                                "duration": 89.9,
+                                "type": 5,
+                                "instruction": "Turn slight right",
+                                "name": "-",
+                                "way_points": [
+                                    13,
+                                    17
+                                ]
+                            },
+                            {
+                                "distance": 18.3,
+                                "duration": 13.2,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    17,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 8.8,
+                                "duration": 6.4,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    19,
+                                    20
+                                ]
+                            },
+                            {
+                                "distance": 369.2,
+                                "duration": 265.8,
+                                "type": 0,
+                                "instruction": "Turn left onto Park Road",
+                                "name": "Park Road",
+                                "way_points": [
+                                    20,
+                                    26
+                                ]
+                            },
+                            {
+                                "distance": 18.9,
+                                "duration": 13.6,
+                                "type": 12,
+                                "instruction": "Keep left onto Park Road",
+                                "name": "Park Road",
+                                "way_points": [
+                                    26,
+                                    28
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Park Road, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    28,
+                                    28
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    28
+                ],
+                "summary": {
+                    "distance": 866.5,
+                    "duration": 623.9
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.387243,
+                        43.671071
+                    ],
+                    [
+                        -79.387256,
+                        43.671109
+                    ],
+                    [
+                        -79.38713,
+                        43.671135
+                    ],
+                    [
+                        -79.38719,
+                        43.671294
+                    ],
+                    [
+                        -79.387097,
+                        43.671312
+                    ],
+                    [
+                        -79.387116,
+                        43.671359
+                    ],
+                    [
+                        -79.38588,
+                        43.671613
+                    ],
+                    [
+                        -79.3847,
+                        43.671846
+                    ],
+                    [
+                        -79.384804,
+                        43.672088
+                    ],
+                    [
+                        -79.38484,
+                        43.672174
+                    ],
+                    [
+                        -79.384872,
+                        43.672243
+                    ],
+                    [
+                        -79.384961,
+                        43.672427
+                    ],
+                    [
+                        -79.38497,
+                        43.672464
+                    ],
+                    [
+                        -79.384982,
+                        43.672518
+                    ],
+                    [
+                        -79.38443,
+                        43.673115
+                    ],
+                    [
+                        -79.384181,
+                        43.673405
+                    ],
+                    [
+                        -79.384165,
+                        43.673432
+                    ],
+                    [
+                        -79.384186,
+                        43.673462
+                    ],
+                    [
+                        -79.384126,
+                        43.673532
+                    ],
+                    [
+                        -79.384065,
+                        43.673602
+                    ],
+                    [
+                        -79.383955,
+                        43.673602
+                    ],
+                    [
+                        -79.383518,
+                        43.674153
+                    ],
+                    [
+                        -79.382676,
+                        43.675201
+                    ],
+                    [
+                        -79.382144,
+                        43.676005
+                    ],
+                    [
+                        -79.381961,
+                        43.676244
+                    ],
+                    [
+                        -79.381798,
+                        43.676369
+                    ],
+                    [
+                        -79.38165,
+                        43.676453
+                    ],
+                    [
+                        -79.381625,
+                        43.676472
+                    ],
+                    [
+                        -79.381485,
+                        43.676575
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731078362264,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3872427,
+                    43.6710707
+                ],
+                [
+                    -79.3814854,
+                    43.6765748
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [9.5], "durations": [6.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Flemington"], "end_streets": ["Flemington"], "distances": [429.7], "durations": [309.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [12.5], "durations": [9.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [97.5], "durations": [70.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Varna"], "end_streets": ["Varna"], "distances": [328.5], "durations": [236.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [10.5], "durations": [7.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [23.9], "durations": [17.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [634.8], "durations": [457.1]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [8.9], "durations": [6.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

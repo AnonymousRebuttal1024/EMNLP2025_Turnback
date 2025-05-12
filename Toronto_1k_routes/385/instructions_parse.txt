@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Bowie", "Bowie"], "end_streets": [], "distances": [391.9], "durations": [282.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Fairbank"], "end_streets": ["Fairbank"], "distances": [31.0], "durations": [22.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Bowie"], "end_streets": ["Bowie"], "distances": [230.6], "durations": [166.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [327.4], "durations": [235.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [1.8], "durations": [1.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [61.6], "durations": [44.4]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [218.6], "durations": [157.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [11.6], "durations": [8.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [56.5], "durations": [40.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [0.9], "durations": [0.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

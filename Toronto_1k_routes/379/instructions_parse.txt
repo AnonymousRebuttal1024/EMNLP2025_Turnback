@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": ["Vianney", "Vianney"], "end_streets": [], "distances": [153.6], "durations": [110.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Herron"], "end_streets": ["Herron"], "distances": [224.0], "durations": [161.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [430.9], "durations": [310.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [241.0], "durations": [173.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Maybourne"], "end_streets": ["Maybourne"], "distances": [7.3], "durations": [5.3]},
+{"actions": ["Turn", "continue"], "directions": ["right", "East", "East"], "start_streets": ["St"], "end_streets": ["St"], "distances": [3.5], "durations": [2.5]},
+{"actions": ["Arrive", "continue"], "directions": ["East"], "start_streets": [], "end_streets": ["St"], "distances": [0.0], "durations": [0.0]}

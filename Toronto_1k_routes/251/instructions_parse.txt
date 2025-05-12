@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [7.2], "durations": [5.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Cheritan"], "end_streets": ["Cheritan"], "distances": [7.3], "durations": [5.3]},
+{"actions": ["continue"], "directions": [], "start_streets": ["Rosewell"], "end_streets": ["Rosewell"], "distances": [220.2], "durations": [158.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Glenview"], "end_streets": ["Glenview"], "distances": [3.9], "durations": [2.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [254.3], "durations": [183.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [256.3], "durations": [184.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [424.5], "durations": [305.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [113.1], "durations": [81.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Briar"], "end_streets": ["Briar"], "distances": [16.7], "durations": [12.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [303.0], "durations": [218.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Roselawn"], "end_streets": ["Roselawn"], "distances": [373.6], "durations": [269.0]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Roselawn"], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Northline", "Northline"], "end_streets": [], "distances": [28.9], "durations": [20.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [217.3], "durations": [156.4]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [26.0], "durations": [18.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [27.2], "durations": [19.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [318.5], "durations": [229.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [106.8], "durations": [76.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Southmead"], "end_streets": ["Southmead"], "distances": [86.2], "durations": [62.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Engelhart"], "end_streets": ["Engelhart"], "distances": [32.5], "durations": [23.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Sundridge"], "end_streets": ["Sundridge"], "distances": [192.5], "durations": [138.6]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Sundridge"], "distances": [0.0], "durations": [0.0]}

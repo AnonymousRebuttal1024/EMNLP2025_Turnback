@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["northeast"], "start_streets": ["Stanley", "Stanley"], "end_streets": [], "distances": [142.4], "durations": [102.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Burlington"], "end_streets": ["Burlington"], "distances": [86.3], "durations": [62.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [857.4], "durations": [617.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [347.0], "durations": [249.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [9.6], "durations": [6.9]},
+{"actions": ["Turn", "continue"], "directions": ["left", "West", "West"], "start_streets": ["Lake"], "end_streets": ["Lake"], "distances": [109.1], "durations": [78.5]},
+{"actions": ["Arrive", "continue"], "directions": ["West"], "start_streets": [], "end_streets": ["Lake"], "distances": [0.0], "durations": [0.0]}

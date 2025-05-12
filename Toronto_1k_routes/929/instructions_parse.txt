@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": ["Shaftesbury", "Shaftesbury"], "end_streets": [], "distances": [116.9], "durations": [84.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Shaftesbury"], "end_streets": ["Shaftesbury"], "distances": [4.6], "durations": [3.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [110.3], "durations": [79.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [994.4], "durations": [715.9]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [613.0], "durations": [441.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [68.4], "durations": [49.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [10.9], "durations": [7.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [39.9], "durations": [28.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.8], "durations": [4.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

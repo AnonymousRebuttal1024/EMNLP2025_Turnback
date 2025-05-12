@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [6.3], "durations": [4.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [6.0], "durations": [4.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Culford"], "end_streets": ["Culford"], "distances": [88.1], "durations": [63.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [252.8], "durations": [182.0]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [54.1], "durations": [38.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Queen"], "end_streets": ["Queen"], "distances": [228.4], "durations": [164.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Gracefield"], "end_streets": ["Gracefield"], "distances": [225.6], "durations": [162.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Bryn"], "end_streets": ["Bryn"], "distances": [191.6], "durations": [137.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Wyndale"], "end_streets": ["Wyndale"], "distances": [318.6], "durations": [229.4]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [82.7], "durations": [59.5]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [9.1], "durations": [6.6]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

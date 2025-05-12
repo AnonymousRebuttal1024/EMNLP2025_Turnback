@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Clearview", "Clearview"], "end_streets": [], "distances": [206.8], "durations": [148.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [124.1], "durations": [89.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Irving"], "end_streets": ["Irving"], "distances": [9.4], "durations": [6.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Keele"], "end_streets": ["Keele"], "distances": [28.8], "durations": [20.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Lonborough"], "end_streets": ["Lonborough"], "distances": [173.8], "durations": [125.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Richardson"], "end_streets": ["Richardson"], "distances": [89.0], "durations": [64.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Yore"], "end_streets": ["Yore"], "distances": [361.3], "durations": [260.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Gabian"], "end_streets": ["Gabian"], "distances": [26.2], "durations": [18.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [52.3], "durations": [37.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [11.8], "durations": [8.5]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [46.4], "durations": [33.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

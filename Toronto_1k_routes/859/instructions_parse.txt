@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": ["Yonge", "Yonge"], "end_streets": [], "distances": [12.1], "durations": [8.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [8.8], "durations": [6.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [149.4], "durations": [107.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [126.3], "durations": [90.9]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [114.0], "durations": [82.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [2.1], "durations": [1.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [565.9], "durations": [407.4]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [671.1], "durations": [483.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Warren"], "end_streets": ["Warren"], "distances": [211.6], "durations": [152.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Warren"], "distances": [0.0], "durations": [0.0]}

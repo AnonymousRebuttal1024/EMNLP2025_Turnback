@@ -1,0 +1,187 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.427022,
+        43.725905,
+        -79.417653,
+        43.727366
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.427022,
+                43.725905,
+                -79.417653,
+                43.727366
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 818.1,
+                        "duration": 589.0,
+                        "steps": [
+                            {
+                                "distance": 125.9,
+                                "duration": 90.6,
+                                "type": 11,
+                                "instruction": "Head west on Brookdale Avenue",
+                                "name": "Brookdale Avenue",
+                                "way_points": [
+                                    0,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 126.9,
+                                "duration": 91.4,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    5,
+                                    13
+                                ]
+                            },
+                            {
+                                "distance": 565.3,
+                                "duration": 407.0,
+                                "type": 0,
+                                "instruction": "Turn left onto Fairlawn Avenue",
+                                "name": "Fairlawn Avenue",
+                                "way_points": [
+                                    13,
+                                    18
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Fairlawn Avenue, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    18,
+                                    18
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    18
+                ],
+                "summary": {
+                    "distance": 818.1,
+                    "duration": 589.0
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.417653,
+                        43.726958
+                    ],
+                    [
+                        -79.418142,
+                        43.726853
+                    ],
+                    [
+                        -79.418619,
+                        43.726751
+                    ],
+                    [
+                        -79.418771,
+                        43.726767
+                    ],
+                    [
+                        -79.418943,
+                        43.726762
+                    ],
+                    [
+                        -79.419147,
+                        43.72668
+                    ],
+                    [
+                        -79.419326,
+                        43.726722
+                    ],
+                    [
+                        -79.41949,
+                        43.726784
+                    ],
+                    [
+                        -79.419717,
+                        43.72691
+                    ],
+                    [
+                        -79.419911,
+                        43.726935
+                    ],
+                    [
+                        -79.419995,
+                        43.727031
+                    ],
+                    [
+                        -79.420112,
+                        43.72721
+                    ],
+                    [
+                        -79.420254,
+                        43.727293
+                    ],
+                    [
+                        -79.420292,
+                        43.727366
+                    ],
+                    [
+                        -79.420763,
+                        43.727263
+                    ],
+                    [
+                        -79.423638,
+                        43.726661
+                    ],
+                    [
+                        -79.424342,
+                        43.726513
+                    ],
+                    [
+                        -79.425089,
+                        43.726271
+                    ],
+                    [
+                        -79.427022,
+                        43.725905
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079218698,
+        "query": {
+            "coordinates": [
+                [
+                    -79.417653,
+                    43.7269578
+                ],
+                [
+                    -79.4270216,
+                    43.7259048
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

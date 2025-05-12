@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": ["Coldstream", "Coldstream"], "end_streets": [], "distances": [171.9], "durations": [123.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Glen"], "end_streets": ["Glen"], "distances": [81.5], "durations": [58.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Glengrove"], "end_streets": ["Glengrove"], "distances": [190.4], "durations": [137.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Forest"], "end_streets": ["Forest"], "distances": [325.8], "durations": [234.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Strathallan"], "end_streets": ["Strathallan"], "distances": [119.2], "durations": [85.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [397.8], "durations": [286.4]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [9.8], "durations": [7.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Briar"], "end_streets": ["Briar"], "distances": [86.8], "durations": [62.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Chaplin"], "end_streets": ["Chaplin"], "distances": [202.4], "durations": [145.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Chaplin"], "distances": [0.0], "durations": [0.0]}

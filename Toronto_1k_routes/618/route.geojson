@@ -1,0 +1,239 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.354326,
+        43.659454,
+        -79.352219,
+        43.665075
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.354326,
+                43.659454,
+                -79.352219,
+                43.665075
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 691.5,
+                        "duration": 497.8,
+                        "steps": [
+                            {
+                                "distance": 12.3,
+                                "duration": 8.8,
+                                "type": 11,
+                                "instruction": "Head northwest on Joel Weeks Park Trail",
+                                "name": "Joel Weeks Park Trail",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 73.2,
+                                "duration": 52.7,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    1,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 3.1,
+                                "duration": 2.2,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    5,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 8.7,
+                                "duration": 6.3,
+                                "type": 3,
+                                "instruction": "Turn sharp right",
+                                "name": "-",
+                                "way_points": [
+                                    6,
+                                    7
+                                ]
+                            },
+                            {
+                                "distance": 5.5,
+                                "duration": 4.0,
+                                "type": 2,
+                                "instruction": "Turn sharp left onto Munro Street",
+                                "name": "Munro Street",
+                                "way_points": [
+                                    7,
+                                    8
+                                ]
+                            },
+                            {
+                                "distance": 9.0,
+                                "duration": 6.5,
+                                "type": 1,
+                                "instruction": "Turn right onto Matilda Street",
+                                "name": "Matilda Street",
+                                "way_points": [
+                                    8,
+                                    9
+                                ]
+                            },
+                            {
+                                "distance": 579.6,
+                                "duration": 417.3,
+                                "type": 0,
+                                "instruction": "Turn left onto Munro Street",
+                                "name": "Munro Street",
+                                "way_points": [
+                                    9,
+                                    20
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Munro Street, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    20,
+                                    20
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    20
+                ],
+                "summary": {
+                    "distance": 691.5,
+                    "duration": 497.8
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.352814,
+                        43.659454
+                    ],
+                    [
+                        -79.352875,
+                        43.659556
+                    ],
+                    [
+                        -79.352569,
+                        43.659608
+                    ],
+                    [
+                        -79.352499,
+                        43.659682
+                    ],
+                    [
+                        -79.352448,
+                        43.659817
+                    ],
+                    [
+                        -79.35239,
+                        43.660014
+                    ],
+                    [
+                        -79.352423,
+                        43.660028
+                    ],
+                    [
+                        -79.352315,
+                        43.660022
+                    ],
+                    [
+                        -79.352328,
+                        43.660071
+                    ],
+                    [
+                        -79.352219,
+                        43.660091
+                    ],
+                    [
+                        -79.352241,
+                        43.660142
+                    ],
+                    [
+                        -79.352747,
+                        43.661349
+                    ],
+                    [
+                        -79.35301,
+                        43.66198
+                    ],
+                    [
+                        -79.353045,
+                        43.662059
+                    ],
+                    [
+                        -79.353085,
+                        43.662134
+                    ],
+                    [
+                        -79.353185,
+                        43.662357
+                    ],
+                    [
+                        -79.353714,
+                        43.663622
+                    ],
+                    [
+                        -79.35374,
+                        43.663683
+                    ],
+                    [
+                        -79.353764,
+                        43.663741
+                    ],
+                    [
+                        -79.354289,
+                        43.664996
+                    ],
+                    [
+                        -79.354326,
+                        43.665075
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731078500571,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3528143,
+                    43.6594543
+                ],
+                [
+                    -79.3543263,
+                    43.6650746
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

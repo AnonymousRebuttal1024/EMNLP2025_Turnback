@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Earlsdale", "Earlsdale"], "end_streets": [], "distances": [165.2], "durations": [118.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Arlington"], "end_streets": ["Arlington"], "distances": [85.7], "durations": [61.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Valewood"], "end_streets": ["Valewood"], "distances": [180.4], "durations": [129.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Cherrywood"], "end_streets": ["Cherrywood"], "distances": [181.4], "durations": [130.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Maplewood"], "end_streets": ["Maplewood"], "distances": [85.6], "durations": [61.6]},
+{"actions": ["Continue", "continue"], "directions": [], "start_streets": ["Maplewood"], "end_streets": ["Maplewood"], "distances": [92.5], "durations": [66.6]},
+{"actions": ["Continue", "continue"], "directions": [], "start_streets": ["Maplewood"], "end_streets": ["Maplewood"], "distances": [103.5], "durations": [74.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Wychwood"], "end_streets": ["Wychwood"], "distances": [399.6], "durations": [287.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Wychwood"], "distances": [0.0], "durations": [0.0]}

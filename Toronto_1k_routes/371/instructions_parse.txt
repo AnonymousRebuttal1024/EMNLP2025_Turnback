@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [103.7], "durations": [74.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [15.4], "durations": [11.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [160.8], "durations": [115.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [30.7], "durations": [22.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [191.2], "durations": [137.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Shermount"], "end_streets": ["Shermount"], "distances": [153.6], "durations": [110.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Dell"], "end_streets": ["Dell"], "distances": [495.1], "durations": [356.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Dalemount"], "end_streets": ["Dalemount"], "distances": [83.2], "durations": [59.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Dalemount"], "end_streets": ["Dalemount"], "distances": [226.8], "durations": [163.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Dalemount"], "end_streets": ["Dalemount"], "distances": [101.9], "durations": [73.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Dalemount"], "distances": [0.0], "durations": [0.0]}

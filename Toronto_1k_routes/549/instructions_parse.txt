@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["southwest"], "start_streets": [], "end_streets": [], "distances": [14.6], "durations": [10.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Dohme"], "end_streets": ["Dohme"], "distances": [287.3], "durations": [206.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Westview"], "end_streets": ["Westview"], "distances": [41.9], "durations": [30.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Selwyn"], "end_streets": ["Selwyn"], "distances": [235.8], "durations": [169.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [5.1], "durations": [3.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [168.3], "durations": [121.2]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [135.3], "durations": [97.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Merritt"], "end_streets": ["Merritt"], "distances": [9.8], "durations": [7.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Merritt"], "distances": [0.0], "durations": [0.0]}

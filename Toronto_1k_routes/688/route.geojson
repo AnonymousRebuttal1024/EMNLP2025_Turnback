@@ -1,0 +1,230 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.44851,
+        43.703379,
+        -79.444327,
+        43.713131
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.44851,
+                43.703379,
+                -79.444327,
+                43.713131
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1352.8,
+                        "duration": 974.0,
+                        "steps": [
+                            {
+                                "distance": 796.3,
+                                "duration": 573.3,
+                                "type": 11,
+                                "instruction": "Head north on Danesbury Avenue",
+                                "name": "Danesbury Avenue",
+                                "way_points": [
+                                    0,
+                                    12
+                                ]
+                            },
+                            {
+                                "distance": 93.5,
+                                "duration": 67.3,
+                                "type": 1,
+                                "instruction": "Turn right onto Glengrove Avenue",
+                                "name": "Glengrove Avenue",
+                                "way_points": [
+                                    12,
+                                    13
+                                ]
+                            },
+                            {
+                                "distance": 254.5,
+                                "duration": 183.2,
+                                "type": 2,
+                                "instruction": "Turn sharp left onto Lois Avenue",
+                                "name": "Lois Avenue",
+                                "way_points": [
+                                    13,
+                                    21
+                                ]
+                            },
+                            {
+                                "distance": 208.5,
+                                "duration": 150.1,
+                                "type": 1,
+                                "instruction": "Turn right onto Wenderly Drive",
+                                "name": "Wenderly Drive",
+                                "way_points": [
+                                    21,
+                                    26
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Wenderly Drive, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    26,
+                                    26
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    26
+                ],
+                "summary": {
+                    "distance": 1352.8,
+                    "duration": 974.0
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.444327,
+                        43.703379
+                    ],
+                    [
+                        -79.444611,
+                        43.704075
+                    ],
+                    [
+                        -79.444629,
+                        43.704122
+                    ],
+                    [
+                        -79.444646,
+                        43.704171
+                    ],
+                    [
+                        -79.444917,
+                        43.70497
+                    ],
+                    [
+                        -79.4454,
+                        43.706178
+                    ],
+                    [
+                        -79.445563,
+                        43.706326
+                    ],
+                    [
+                        -79.445889,
+                        43.706513
+                    ],
+                    [
+                        -79.446047,
+                        43.706685
+                    ],
+                    [
+                        -79.446401,
+                        43.707525
+                    ],
+                    [
+                        -79.446732,
+                        43.708356
+                    ],
+                    [
+                        -79.447076,
+                        43.709219
+                    ],
+                    [
+                        -79.447445,
+                        43.710098
+                    ],
+                    [
+                        -79.44633,
+                        43.71034
+                    ],
+                    [
+                        -79.446446,
+                        43.710477
+                    ],
+                    [
+                        -79.446616,
+                        43.710579
+                    ],
+                    [
+                        -79.447603,
+                        43.711014
+                    ],
+                    [
+                        -79.447747,
+                        43.711081
+                    ],
+                    [
+                        -79.447881,
+                        43.711191
+                    ],
+                    [
+                        -79.448151,
+                        43.711609
+                    ],
+                    [
+                        -79.448301,
+                        43.711759
+                    ],
+                    [
+                        -79.44851,
+                        43.711913
+                    ],
+                    [
+                        -79.448102,
+                        43.712427
+                    ],
+                    [
+                        -79.447933,
+                        43.71255
+                    ],
+                    [
+                        -79.447454,
+                        43.712921
+                    ],
+                    [
+                        -79.447108,
+                        43.713039
+                    ],
+                    [
+                        -79.446676,
+                        43.713131
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731078665839,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4443393,
+                    43.7033763
+                ],
+                [
+                    -79.4466764,
+                    43.7131314
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

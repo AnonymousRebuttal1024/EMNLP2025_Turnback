@@ -1,0 +1,273 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.404115,
+        43.72736,
+        -79.392021,
+        43.729831
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.404115,
+                43.72736,
+                -79.392021,
+                43.729831
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1312.0,
+                        "duration": 944.6,
+                        "steps": [
+                            {
+                                "distance": 87.2,
+                                "duration": 62.8,
+                                "type": 11,
+                                "instruction": "Head south on Lane West Yonge North Cranbooke",
+                                "name": "Lane West Yonge North Cranbooke",
+                                "way_points": [
+                                    0,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 34.7,
+                                "duration": 25.0,
+                                "type": 0,
+                                "instruction": "Turn left onto Cranbrooke Avenue",
+                                "name": "Cranbrooke Avenue",
+                                "way_points": [
+                                    2,
+                                    3
+                                ]
+                            },
+                            {
+                                "distance": 139.1,
+                                "duration": 100.2,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    3,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 21.7,
+                                "duration": 15.6,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    6,
+                                    8
+                                ]
+                            },
+                            {
+                                "distance": 11.7,
+                                "duration": 8.4,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    8,
+                                    10
+                                ]
+                            },
+                            {
+                                "distance": 656.9,
+                                "duration": 472.9,
+                                "type": 0,
+                                "instruction": "Turn left onto Ranleigh Avenue",
+                                "name": "Ranleigh Avenue",
+                                "way_points": [
+                                    10,
+                                    16
+                                ]
+                            },
+                            {
+                                "distance": 116.2,
+                                "duration": 83.7,
+                                "type": 1,
+                                "instruction": "Turn right onto Ronan Avenue",
+                                "name": "Ronan Avenue",
+                                "way_points": [
+                                    16,
+                                    17
+                                ]
+                            },
+                            {
+                                "distance": 211.9,
+                                "duration": 152.6,
+                                "type": 0,
+                                "instruction": "Turn left onto Wanless Avenue",
+                                "name": "Wanless Avenue",
+                                "way_points": [
+                                    17,
+                                    22
+                                ]
+                            },
+                            {
+                                "distance": 32.5,
+                                "duration": 23.4,
+                                "type": 5,
+                                "instruction": "Turn slight right onto Wanless Crescent",
+                                "name": "Wanless Crescent",
+                                "way_points": [
+                                    22,
+                                    23
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Wanless Crescent, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    23,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    23
+                ],
+                "summary": {
+                    "distance": 1312.0,
+                    "duration": 944.6
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.404115,
+                        43.729831
+                    ],
+                    [
+                        -79.403824,
+                        43.729131
+                    ],
+                    [
+                        -79.403803,
+                        43.72908
+                    ],
+                    [
+                        -79.403388,
+                        43.729167
+                    ],
+                    [
+                        -79.403369,
+                        43.729093
+                    ],
+                    [
+                        -79.40318,
+                        43.728331
+                    ],
+                    [
+                        -79.403072,
+                        43.727937
+                    ],
+                    [
+                        -79.40294,
+                        43.727957
+                    ],
+                    [
+                        -79.402807,
+                        43.727978
+                    ],
+                    [
+                        -79.402798,
+                        43.727943
+                    ],
+                    [
+                        -79.402779,
+                        43.727874
+                    ],
+                    [
+                        -79.402578,
+                        43.727895
+                    ],
+                    [
+                        -79.401713,
+                        43.727853
+                    ],
+                    [
+                        -79.401545,
+                        43.727858
+                    ],
+                    [
+                        -79.401142,
+                        43.727939
+                    ],
+                    [
+                        -79.397654,
+                        43.728645
+                    ],
+                    [
+                        -79.394861,
+                        43.729199
+                    ],
+                    [
+                        -79.394451,
+                        43.728196
+                    ],
+                    [
+                        -79.393754,
+                        43.728306
+                    ],
+                    [
+                        -79.393445,
+                        43.728281
+                    ],
+                    [
+                        -79.393196,
+                        43.728231
+                    ],
+                    [
+                        -79.392793,
+                        43.728083
+                    ],
+                    [
+                        -79.392128,
+                        43.727642
+                    ],
+                    [
+                        -79.392021,
+                        43.72736
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079383334,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4041146,
+                    43.7298312
+                ],
+                [
+                    -79.3920215,
+                    43.7273597
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

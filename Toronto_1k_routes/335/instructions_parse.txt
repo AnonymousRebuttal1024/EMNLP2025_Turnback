@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": ["Frankdale", "Frankdale"], "end_streets": [], "distances": [186.4], "durations": [134.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [5.4], "durations": [3.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [91.0], "durations": [65.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Memorial"], "end_streets": ["Memorial"], "distances": [468.5], "durations": [337.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [10.7], "durations": [7.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [7.6], "durations": [5.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Roosevelt"], "end_streets": ["Roosevelt"], "distances": [192.0], "durations": [138.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [16.1], "durations": [11.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [16.2], "durations": [11.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [60.7], "durations": [43.7]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [195.6], "durations": [140.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

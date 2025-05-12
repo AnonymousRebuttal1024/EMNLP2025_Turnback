@@ -1,0 +1,423 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.489681,
+        43.693612,
+        -79.475576,
+        43.6994
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.489681,
+                43.693612,
+                -79.475576,
+                43.6994
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 1818.4,
+                        "duration": 1309.2,
+                        "steps": [
+                            {
+                                "distance": 107.1,
+                                "duration": 77.1,
+                                "type": 11,
+                                "instruction": "Head northwest",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    2
+                                ]
+                            },
+                            {
+                                "distance": 25.6,
+                                "duration": 18.5,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    2,
+                                    3
+                                ]
+                            },
+                            {
+                                "distance": 100.2,
+                                "duration": 72.2,
+                                "type": 1,
+                                "instruction": "Turn right onto Trethewey Drive",
+                                "name": "Trethewey Drive",
+                                "way_points": [
+                                    3,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 24.7,
+                                "duration": 17.8,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    4,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 69.6,
+                                "duration": 50.1,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    5,
+                                    7
+                                ]
+                            },
+                            {
+                                "distance": 24.7,
+                                "duration": 17.8,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    7,
+                                    8
+                                ]
+                            },
+                            {
+                                "distance": 112.6,
+                                "duration": 81.1,
+                                "type": 0,
+                                "instruction": "Turn left onto Trethewey Drive",
+                                "name": "Trethewey Drive",
+                                "way_points": [
+                                    8,
+                                    10
+                                ]
+                            },
+                            {
+                                "distance": 63.1,
+                                "duration": 45.4,
+                                "type": 2,
+                                "instruction": "Turn sharp left",
+                                "name": "-",
+                                "way_points": [
+                                    10,
+                                    12
+                                ]
+                            },
+                            {
+                                "distance": 189.8,
+                                "duration": 136.7,
+                                "type": 12,
+                                "instruction": "Keep left",
+                                "name": "-",
+                                "way_points": [
+                                    12,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 9.4,
+                                "duration": 6.8,
+                                "type": 13,
+                                "instruction": "Keep right",
+                                "name": "-",
+                                "way_points": [
+                                    19,
+                                    20
+                                ]
+                            },
+                            {
+                                "distance": 838.1,
+                                "duration": 603.4,
+                                "type": 0,
+                                "instruction": "Turn left onto Greenbrook Drive",
+                                "name": "Greenbrook Drive",
+                                "way_points": [
+                                    20,
+                                    36
+                                ]
+                            },
+                            {
+                                "distance": 5.5,
+                                "duration": 3.9,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    36,
+                                    37
+                                ]
+                            },
+                            {
+                                "distance": 221.1,
+                                "duration": 159.2,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    37,
+                                    42
+                                ]
+                            },
+                            {
+                                "distance": 12.2,
+                                "duration": 8.8,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    42,
+                                    43
+                                ]
+                            },
+                            {
+                                "distance": 14.6,
+                                "duration": 10.5,
+                                "type": 0,
+                                "instruction": "Turn left onto Keele Street",
+                                "name": "Keele Street",
+                                "way_points": [
+                                    43,
+                                    44
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Keele Street, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    44,
+                                    44
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    44
+                ],
+                "summary": {
+                    "distance": 1818.4,
+                    "duration": 1309.2
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.488602,
+                        43.695281
+                    ],
+                    [
+                        -79.488772,
+                        43.695442
+                    ],
+                    [
+                        -79.489681,
+                        43.695826
+                    ],
+                    [
+                        -79.489522,
+                        43.696026
+                    ],
+                    [
+                        -79.488445,
+                        43.695573
+                    ],
+                    [
+                        -79.488287,
+                        43.695763
+                    ],
+                    [
+                        -79.488104,
+                        43.695682
+                    ],
+                    [
+                        -79.48755,
+                        43.695435
+                    ],
+                    [
+                        -79.487593,
+                        43.695215
+                    ],
+                    [
+                        -79.487123,
+                        43.695035
+                    ],
+                    [
+                        -79.486372,
+                        43.694719
+                    ],
+                    [
+                        -79.486443,
+                        43.694853
+                    ],
+                    [
+                        -79.485941,
+                        43.694634
+                    ],
+                    [
+                        -79.485426,
+                        43.6944
+                    ],
+                    [
+                        -79.485133,
+                        43.694231
+                    ],
+                    [
+                        -79.484988,
+                        43.694146
+                    ],
+                    [
+                        -79.484548,
+                        43.693886
+                    ],
+                    [
+                        -79.484162,
+                        43.693671
+                    ],
+                    [
+                        -79.484112,
+                        43.69365
+                    ],
+                    [
+                        -79.484033,
+                        43.69365
+                    ],
+                    [
+                        -79.483929,
+                        43.693612
+                    ],
+                    [
+                        -79.48344,
+                        43.694338
+                    ],
+                    [
+                        -79.483173,
+                        43.695002
+                    ],
+                    [
+                        -79.482877,
+                        43.695317
+                    ],
+                    [
+                        -79.482566,
+                        43.695524
+                    ],
+                    [
+                        -79.482103,
+                        43.695707
+                    ],
+                    [
+                        -79.481659,
+                        43.695785
+                    ],
+                    [
+                        -79.481077,
+                        43.695847
+                    ],
+                    [
+                        -79.480621,
+                        43.695926
+                    ],
+                    [
+                        -79.480246,
+                        43.696024
+                    ],
+                    [
+                        -79.479721,
+                        43.69617
+                    ],
+                    [
+                        -79.479044,
+                        43.696389
+                    ],
+                    [
+                        -79.47842,
+                        43.69666
+                    ],
+                    [
+                        -79.478198,
+                        43.69672
+                    ],
+                    [
+                        -79.477963,
+                        43.69677
+                    ],
+                    [
+                        -79.47695,
+                        43.69692
+                    ],
+                    [
+                        -79.475598,
+                        43.697218
+                    ],
+                    [
+                        -79.475613,
+                        43.697266
+                    ],
+                    [
+                        -79.475576,
+                        43.6973
+                    ],
+                    [
+                        -79.475665,
+                        43.697707
+                    ],
+                    [
+                        -79.475751,
+                        43.697919
+                    ],
+                    [
+                        -79.475864,
+                        43.698419
+                    ],
+                    [
+                        -79.476045,
+                        43.699214
+                    ],
+                    [
+                        -79.475915,
+                        43.699269
+                    ],
+                    [
+                        -79.475934,
+                        43.6994
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079344917,
+        "query": {
+            "coordinates": [
+                [
+                    -79.4886021,
+                    43.6952811
+                ],
+                [
+                    -79.4759337,
+                    43.6994002
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

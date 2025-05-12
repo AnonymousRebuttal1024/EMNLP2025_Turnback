@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": ["Erie", "Erie"], "end_streets": [], "distances": [159.0], "durations": [114.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Falstaff"], "end_streets": ["Falstaff"], "distances": [82.9], "durations": [59.7]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": ["Falstaff"], "end_streets": ["Falstaff"], "distances": [20.7], "durations": [14.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [351.9], "durations": [253.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [77.8], "durations": [56.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [508.7], "durations": [366.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [8.2], "durations": [5.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Sir"], "end_streets": ["Sir"], "distances": [106.2], "durations": [76.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Sir"], "end_streets": ["Sir"], "distances": [29.0], "durations": [20.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [20.6], "durations": [14.8]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

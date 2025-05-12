@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [38.9], "durations": [28.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [460.2], "durations": [331.3]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [166.0], "durations": [119.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [5.4], "durations": [3.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Oak"], "end_streets": ["Oak"], "distances": [153.2], "durations": [110.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Gatwick"], "end_streets": ["Gatwick"], "distances": [4.0], "durations": [2.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [80.2], "durations": [57.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Northland", "Northland"], "end_streets": [], "distances": [394.0], "durations": [283.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [5.6], "durations": [4.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [49.0], "durations": [35.3]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [105.2], "durations": [75.7]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [423.2], "durations": [304.7]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [227.8], "durations": [164.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [84.7], "durations": [60.9]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": ["Brickworks"], "end_streets": ["Brickworks"], "distances": [33.9], "durations": [24.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Brickworks"], "end_streets": ["Brickworks"], "distances": [70.4], "durations": [50.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Brickworks"], "distances": [0.0], "durations": [0.0]}

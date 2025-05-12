@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["northwest"], "start_streets": ["Joel", "Joel"], "end_streets": [], "distances": [12.3], "durations": [8.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [73.2], "durations": [52.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [3.1], "durations": [2.2]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [8.7], "durations": [6.3]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": ["Munro"], "end_streets": ["Munro"], "distances": [5.5], "durations": [4.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Matilda"], "end_streets": ["Matilda"], "distances": [9.0], "durations": [6.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Munro"], "end_streets": ["Munro"], "distances": [579.6], "durations": [417.3]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Munro"], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [462.9], "durations": [333.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [68.7], "durations": [49.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [282.6], "durations": [203.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Bedford"], "end_streets": ["Bedford"], "distances": [107.4], "durations": [77.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Elgin"], "end_streets": ["Elgin"], "distances": [245.4], "durations": [176.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [34.5], "durations": [24.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [22.0], "durations": [15.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [446.5], "durations": [321.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [32.1], "durations": [23.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

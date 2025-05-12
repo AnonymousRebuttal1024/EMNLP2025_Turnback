@@ -1,0 +1,5 @@
+{"actions": ["Head", "continue"], "directions": ["northwest"], "start_streets": ["Vaughan", "Vaughan"], "end_streets": [], "distances": [701.5], "durations": [505.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [38.9], "durations": [28.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [162.4], "durations": [117.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Kirknewton"], "end_streets": ["Kirknewton"], "distances": [2.2], "durations": [1.6]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Kirknewton"], "distances": [0.0], "durations": [0.0]}

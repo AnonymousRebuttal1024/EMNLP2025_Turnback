@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["northeast"], "start_streets": [], "end_streets": [], "distances": [58.2], "durations": [41.9]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": [], "end_streets": [], "distances": [163.6], "durations": [117.8]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [78.4], "durations": [56.4]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [250.1], "durations": [180.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [17.1], "durations": [12.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [210.5], "durations": [151.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Hanley"], "end_streets": ["Hanley"], "distances": [73.4], "durations": [52.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Priscilla"], "end_streets": ["Priscilla"], "distances": [228.6], "durations": [164.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["St"], "end_streets": ["St"], "distances": [120.1], "durations": [86.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Willard"], "end_streets": ["Willard"], "distances": [315.9], "durations": [227.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [21.6], "durations": [15.6]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["northwest"], "start_streets": ["Spit", "Spit"], "end_streets": [], "distances": [12.0], "durations": [8.7]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [101.3], "durations": [73.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Construction"], "end_streets": ["Construction"], "distances": [38.2], "durations": [27.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [322.1], "durations": [231.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [26.8], "durations": [19.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Leslie"], "end_streets": ["Leslie"], "distances": [11.9], "durations": [8.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [20.5], "durations": [14.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Spit"], "end_streets": ["Spit"], "distances": [138.3], "durations": [99.6]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": [], "end_streets": [], "distances": [5.6], "durations": [4.0]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

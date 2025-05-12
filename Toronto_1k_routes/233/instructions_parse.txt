@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": ["Mulholland", "Mulholland"], "end_streets": [], "distances": [242.7], "durations": [174.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Sparrow"], "end_streets": ["Sparrow"], "distances": [87.3], "durations": [62.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [96.5], "durations": [69.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [25.2], "durations": [18.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [180.2], "durations": [129.7]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [60.2], "durations": [43.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Cartwright"], "end_streets": ["Cartwright"], "distances": [37.5], "durations": [27.0]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Cartwright"], "distances": [0.0], "durations": [0.0]}

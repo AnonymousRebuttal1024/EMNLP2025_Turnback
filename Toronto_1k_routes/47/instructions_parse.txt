@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [577.7], "durations": [415.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [236.6], "durations": [170.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [221.1], "durations": [159.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [11.9], "durations": [8.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [114.5], "durations": [82.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [3.1], "durations": [2.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["King"], "end_streets": ["King"], "distances": [275.4], "durations": [198.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["King"], "end_streets": ["King"], "distances": [174.5], "durations": [125.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Trethewey"], "end_streets": ["Trethewey"], "distances": [3.5], "durations": [2.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [10.9], "durations": [7.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Cordella", "Cordella"], "end_streets": [], "distances": [26.1], "durations": [18.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Cliff"], "end_streets": ["Cliff"], "distances": [170.1], "durations": [122.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Alliance"], "end_streets": ["Alliance"], "distances": [123.1], "durations": [88.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [74.4], "durations": [53.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [22.0], "durations": [15.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Alliance"], "end_streets": ["Alliance"], "distances": [129.5], "durations": [93.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [5.3], "durations": [3.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [184.0], "durations": [132.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

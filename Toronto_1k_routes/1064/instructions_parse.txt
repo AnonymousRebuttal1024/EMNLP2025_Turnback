@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [736.2], "durations": [530.1]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [410.9], "durations": [295.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [1.7], "durations": [1.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [82.1], "durations": [59.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Greig"], "end_streets": ["Greig"], "distances": [4.4], "durations": [3.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Boulton"], "end_streets": ["Boulton"], "distances": [150.1], "durations": [108.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Boulton"], "distances": [0.0], "durations": [0.0]}

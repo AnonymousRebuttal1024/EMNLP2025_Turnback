@@ -1,0 +1,186 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.393292,
+        43.709089,
+        -79.388088,
+        43.710841
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.393292,
+                43.709089,
+                -79.388088,
+                43.710841
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 513.5,
+                        "duration": 369.7,
+                        "steps": [
+                            {
+                                "distance": 5.2,
+                                "duration": 3.7,
+                                "type": 11,
+                                "instruction": "Head north on Redpath Avenue",
+                                "name": "Redpath Avenue",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 427.3,
+                                "duration": 307.6,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    1,
+                                    13
+                                ]
+                            },
+                            {
+                                "distance": 8.2,
+                                "duration": 5.9,
+                                "type": 13,
+                                "instruction": "Keep right",
+                                "name": "-",
+                                "way_points": [
+                                    13,
+                                    14
+                                ]
+                            },
+                            {
+                                "distance": 72.9,
+                                "duration": 52.5,
+                                "type": 0,
+                                "instruction": "Turn left onto Rawlinson Avenue",
+                                "name": "Rawlinson Avenue",
+                                "way_points": [
+                                    14,
+                                    15
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Rawlinson Avenue, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    15,
+                                    15
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    15
+                ],
+                "summary": {
+                    "distance": 513.5,
+                    "duration": 369.7
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.393276,
+                        43.709089
+                    ],
+                    [
+                        -79.393292,
+                        43.709134
+                    ],
+                    [
+                        -79.393214,
+                        43.709152
+                    ],
+                    [
+                        -79.39299,
+                        43.709194
+                    ],
+                    [
+                        -79.390741,
+                        43.709663
+                    ],
+                    [
+                        -79.390637,
+                        43.709682
+                    ],
+                    [
+                        -79.390529,
+                        43.709701
+                    ],
+                    [
+                        -79.390157,
+                        43.709775
+                    ],
+                    [
+                        -79.389835,
+                        43.709839
+                    ],
+                    [
+                        -79.389515,
+                        43.709904
+                    ],
+                    [
+                        -79.389322,
+                        43.709945
+                    ],
+                    [
+                        -79.38849,
+                        43.71011
+                    ],
+                    [
+                        -79.38823,
+                        43.710164
+                    ],
+                    [
+                        -79.388186,
+                        43.71019
+                    ],
+                    [
+                        -79.388088,
+                        43.710209
+                    ],
+                    [
+                        -79.388323,
+                        43.710841
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731077960954,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3932765,
+                    43.7090887
+                ],
+                [
+                    -79.3883233,
+                    43.7108413
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

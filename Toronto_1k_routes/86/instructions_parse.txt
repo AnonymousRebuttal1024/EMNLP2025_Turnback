@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Hotspur", "Hotspur"], "end_streets": [], "distances": [159.4], "durations": [114.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Bathurst"], "end_streets": ["Bathurst"], "distances": [15.7], "durations": [11.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Dunblaine"], "end_streets": ["Dunblaine"], "distances": [40.9], "durations": [29.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [9.7], "durations": [7.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [608.9], "durations": [438.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Clyde"], "end_streets": ["Clyde"], "distances": [94.8], "durations": [68.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Haddington"], "end_streets": ["Haddington"], "distances": [273.2], "durations": [196.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Kelso"], "end_streets": ["Kelso"], "distances": [196.4], "durations": [141.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Brooke"], "end_streets": ["Brooke"], "distances": [95.2], "durations": [68.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [134.7], "durations": [97.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [9.7], "durations": [7.0]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

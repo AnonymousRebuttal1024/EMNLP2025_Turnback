@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [366.1], "durations": [263.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [110.4], "durations": [79.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [24.9], "durations": [17.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [7.5], "durations": [5.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Dubray"], "end_streets": ["Dubray"], "distances": [469.2], "durations": [337.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Tilbury"], "end_streets": ["Tilbury"], "distances": [29.8], "durations": [21.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Tilbury"], "end_streets": ["Tilbury"], "distances": [89.3], "durations": [64.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Bayford"], "end_streets": ["Bayford"], "distances": [155.6], "durations": [112.0]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": ["Bayford"], "end_streets": ["Bayford"], "distances": [50.6], "durations": [36.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Stanley"], "end_streets": ["Stanley"], "distances": [90.8], "durations": [65.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [15.8], "durations": [11.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [112.3], "durations": [80.9]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

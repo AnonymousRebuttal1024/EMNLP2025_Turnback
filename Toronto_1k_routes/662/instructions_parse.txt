@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [660.9], "durations": [475.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Grey"], "end_streets": ["Grey"], "distances": [17.8], "durations": [12.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [602.4], "durations": [433.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Chatsworth"], "end_streets": ["Chatsworth"], "distances": [297.5], "durations": [214.2]},
+{"actions": ["Continue", "continue"], "directions": [], "start_streets": ["Chatsworth"], "end_streets": ["Chatsworth"], "distances": [23.9], "durations": [17.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [3.2], "durations": [2.3]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

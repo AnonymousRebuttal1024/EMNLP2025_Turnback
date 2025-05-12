@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [105.9], "durations": [76.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Hillmount"], "end_streets": ["Hillmount"], "distances": [541.6], "durations": [389.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Danesbury"], "end_streets": ["Danesbury"], "distances": [314.9], "durations": [226.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Stayner"], "end_streets": ["Stayner"], "distances": [219.1], "durations": [157.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [185.3], "durations": [133.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [24.4], "durations": [17.5]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [169.1], "durations": [121.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Roselawn"], "end_streets": ["Roselawn"], "distances": [60.2], "durations": [43.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Lyon"], "end_streets": ["Lyon"], "distances": [151.9], "durations": [109.4]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": [], "end_streets": [], "distances": [7.8], "durations": [5.6]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

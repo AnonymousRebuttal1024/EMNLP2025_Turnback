@@ -1,0 +1,7 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [111.3], "durations": [80.2]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [133.9], "durations": [96.4]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [105.7], "durations": [76.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.7], "durations": [4.9]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Roxborough"], "end_streets": ["Roxborough"], "distances": [330.6], "durations": [238.0]},
+{"actions": ["continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [16.3], "durations": [11.8]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

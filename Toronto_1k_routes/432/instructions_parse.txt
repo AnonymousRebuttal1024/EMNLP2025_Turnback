@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [2.3], "durations": [1.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [13.4], "durations": [9.7]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [30.9], "durations": [22.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Old"], "end_streets": ["Old"], "distances": [264.4], "durations": [190.4]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": ["Old"], "end_streets": ["Old"], "distances": [1128.8], "durations": [812.7]},
+{"actions": ["Continue", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [332.4], "durations": [239.4]},
+{"actions": ["continue"], "directions": [], "start_streets": ["Connaught"], "end_streets": ["Connaught"], "distances": [107.2], "durations": [77.2]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Connaught"], "distances": [0.0], "durations": [0.0]}

@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [6.5], "durations": [4.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Gifford"], "end_streets": ["Gifford"], "distances": [4.4], "durations": [3.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Spruce"], "end_streets": ["Spruce"], "distances": [322.1], "durations": [231.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Parliament"], "end_streets": ["Parliament"], "distances": [49.4], "durations": [35.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Woodward"], "end_streets": ["Woodward"], "distances": [217.6], "durations": [156.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [43.1], "durations": [31.1]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [16.8], "durations": [12.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [497.7], "durations": [358.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [19.4], "durations": [13.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [243.4], "durations": [175.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [369.8], "durations": [266.3]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

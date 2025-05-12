@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["northwest"], "start_streets": ["Windermere", "Windermere"], "end_streets": [], "distances": [308.9], "durations": [222.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [6.2], "durations": [4.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [2.1], "durations": [1.5]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [5.5], "durations": [3.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Morningside"], "end_streets": ["Morningside"], "distances": [588.0], "durations": [423.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [6.1], "durations": [4.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [31.7], "durations": [22.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Riverside"], "end_streets": ["Riverside"], "distances": [52.0], "durations": [37.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Riverside"], "end_streets": ["Riverside"], "distances": [258.3], "durations": [186.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Brule"], "end_streets": ["Brule"], "distances": [44.2], "durations": [31.8]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Brule"], "distances": [0.0], "durations": [0.0]}

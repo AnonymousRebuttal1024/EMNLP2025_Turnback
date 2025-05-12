@@ -1,0 +1,6 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [104.1], "durations": [75.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Tommy"], "end_streets": ["Tommy"], "distances": [4.7], "durations": [3.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [50.9], "durations": [36.6]},
+{"actions": ["Turn", "continue"], "directions": ["right", "West", "West"], "start_streets": ["West"], "end_streets": ["West"], "distances": [1308.8], "durations": [942.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Caledonia"], "end_streets": ["Caledonia"], "distances": [85.8], "durations": [61.8]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Caledonia"], "distances": [0.0], "durations": [0.0]}

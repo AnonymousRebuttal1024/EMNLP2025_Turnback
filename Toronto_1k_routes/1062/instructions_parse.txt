@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [15.3], "durations": [11.0]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [53.2], "durations": [38.3]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": [], "end_streets": [], "distances": [35.8], "durations": [25.8]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [16.9], "durations": [12.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [23.7], "durations": [17.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [941.6], "durations": [678.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Riverdale"], "end_streets": ["Riverdale"], "distances": [188.1], "durations": [135.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Riverdale"], "distances": [0.0], "durations": [0.0]}

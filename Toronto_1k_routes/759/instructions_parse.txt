@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Hope", "Hope"], "end_streets": [], "distances": [96.1], "durations": [69.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Boon"], "end_streets": ["Boon"], "distances": [349.0], "durations": [251.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [263.4], "durations": [189.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [2.5], "durations": [1.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [190.9], "durations": [137.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Northcliffe"], "end_streets": ["Northcliffe"], "distances": [14.2], "durations": [10.2]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [439.4], "durations": [316.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Oakwood"], "end_streets": ["Oakwood"], "distances": [46.1], "durations": [33.2]},
+{"actions": ["Arrive", "continue"], "directions": ["left"], "start_streets": [], "end_streets": ["Oakwood"], "distances": [0.0], "durations": [0.0]}

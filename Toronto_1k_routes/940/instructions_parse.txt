@@ -1,0 +1,13 @@
+{"actions": ["Head", "continue"], "directions": ["southwest"], "start_streets": [], "end_streets": [], "distances": [200.2], "durations": [144.2]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": [], "end_streets": [], "distances": [16.3], "durations": [11.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [21.5], "durations": [15.5]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [87.0], "durations": [62.6]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [93.4], "durations": [67.3]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [269.6], "durations": [194.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [17.1], "durations": [12.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [32.6], "durations": [23.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Baby"], "end_streets": ["Baby"], "distances": [184.5], "durations": [132.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [6.5], "durations": [4.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [5.6], "durations": [4.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Brumell"], "end_streets": ["Brumell"], "distances": [171.5], "durations": [123.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Brumell"], "distances": [0.0], "durations": [0.0]}

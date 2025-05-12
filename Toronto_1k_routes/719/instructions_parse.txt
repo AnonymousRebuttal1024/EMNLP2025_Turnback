@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["St", "St"], "end_streets": [], "distances": [6.1], "durations": [4.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Watson"], "end_streets": ["Watson"], "distances": [183.7], "durations": [132.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["St"], "end_streets": ["St"], "distances": [93.0], "durations": [67.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [217.1], "durations": [156.3]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [312.2], "durations": [224.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [16.3], "durations": [11.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [325.8], "durations": [234.6]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [84.2], "durations": [60.6]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [85.6], "durations": [61.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [114.5], "durations": [82.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

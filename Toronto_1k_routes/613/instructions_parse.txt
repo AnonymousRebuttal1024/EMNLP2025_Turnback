@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [14.7], "durations": [10.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [6.7], "durations": [4.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Glenburn"], "end_streets": ["Glenburn"], "distances": [74.3], "durations": [53.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Tiago"], "end_streets": ["Tiago"], "distances": [184.2], "durations": [132.6]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Squires"], "end_streets": ["Squires"], "distances": [117.6], "durations": [84.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Furnival"], "end_streets": ["Furnival"], "distances": [213.1], "durations": [153.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Valor"], "end_streets": ["Valor"], "distances": [74.0], "durations": [53.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [186.7], "durations": [134.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Merritt"], "end_streets": ["Merritt"], "distances": [6.6], "durations": [4.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Merritt"], "distances": [0.0], "durations": [0.0]}

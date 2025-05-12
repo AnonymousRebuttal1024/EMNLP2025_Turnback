@@ -1,0 +1,10 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [246.4], "durations": [177.4]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [483.3], "durations": [348.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [89.9], "durations": [64.7]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [58.2], "durations": [41.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [53.1], "durations": [38.2]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [29.9], "durations": [21.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [385.3], "durations": [277.4]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Blossomfield"], "end_streets": ["Blossomfield"], "distances": [210.7], "durations": [151.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Flemington"], "end_streets": ["Flemington"], "distances": [28.4], "durations": [20.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Flemington"], "distances": [0.0], "durations": [0.0]}

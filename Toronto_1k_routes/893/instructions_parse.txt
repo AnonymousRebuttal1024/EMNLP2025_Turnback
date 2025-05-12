@@ -1,0 +1,4 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": ["Gloucester", "Gloucester"], "end_streets": [], "distances": [102.4], "durations": [73.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Strathearn"], "end_streets": ["Strathearn"], "distances": [166.4], "durations": [119.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Ava"], "end_streets": ["Ava"], "distances": [584.8], "durations": [421.0]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Ava"], "distances": [0.0], "durations": [0.0]}

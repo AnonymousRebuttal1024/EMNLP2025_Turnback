@@ -1,0 +1,11 @@
+{"actions": ["Head", "continue"], "directions": ["east"], "start_streets": [], "end_streets": [], "distances": [21.2], "durations": [15.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [381.3], "durations": [274.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [22.9], "durations": [16.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [3.1], "durations": [2.2]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [324.9], "durations": [233.9]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": ["Glen"], "end_streets": ["Glen"], "distances": [269.5], "durations": [194.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Capitol"], "end_streets": ["Capitol"], "distances": [294.1], "durations": [211.8]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Lilywood"], "end_streets": ["Lilywood"], "distances": [60.4], "durations": [43.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Times"], "end_streets": ["Times"], "distances": [391.5], "durations": [281.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [0.7], "durations": [0.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

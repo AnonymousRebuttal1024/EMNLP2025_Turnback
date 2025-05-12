@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["northwest"], "start_streets": [], "end_streets": [], "distances": [18.1], "durations": [13.0]},
+{"actions": ["continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [15.8], "durations": [11.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Riverside"], "end_streets": ["Riverside"], "distances": [249.9], "durations": [179.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Old"], "end_streets": ["Old"], "distances": [80.1], "durations": [57.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Halford"], "end_streets": ["Halford"], "distances": [389.7], "durations": [280.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Humberview"], "end_streets": ["Humberview"], "distances": [213.1], "durations": [153.5]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [156.9], "durations": [112.9]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [78.4], "durations": [56.4]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [250.1], "durations": [180.1]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [17.1], "durations": [12.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [113.3], "durations": [81.5]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

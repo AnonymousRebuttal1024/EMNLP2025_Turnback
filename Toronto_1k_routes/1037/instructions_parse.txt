@@ -1,0 +1,8 @@
+{"actions": ["Head", "continue"], "directions": ["west"], "start_streets": [], "end_streets": [], "distances": [131.9], "durations": [95.0]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [4.0], "durations": [2.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Harvie"], "end_streets": ["Harvie"], "distances": [547.6], "durations": [394.3]},
+{"actions": ["Continue", "continue"], "directions": [], "start_streets": ["Harvie"], "end_streets": ["Harvie"], "distances": [238.1], "durations": [171.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [71.7], "durations": [51.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [598.2], "durations": [430.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [163.5], "durations": [117.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

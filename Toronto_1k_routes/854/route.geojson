@@ -1,0 +1,261 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        -79.325376,
+        43.687267,
+        -79.320305,
+        43.691392
+    ],
+    "features": [
+        {
+            "bbox": [
+                -79.325376,
+                43.687267,
+                -79.320305,
+                43.691392
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 828.7,
+                        "duration": 596.7,
+                        "steps": [
+                            {
+                                "distance": 69.6,
+                                "duration": 50.1,
+                                "type": 11,
+                                "instruction": "Head south",
+                                "name": "-",
+                                "way_points": [
+                                    0,
+                                    1
+                                ]
+                            },
+                            {
+                                "distance": 169.6,
+                                "duration": 122.1,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    1,
+                                    4
+                                ]
+                            },
+                            {
+                                "distance": 6.7,
+                                "duration": 4.9,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    4,
+                                    5
+                                ]
+                            },
+                            {
+                                "distance": 4.7,
+                                "duration": 3.4,
+                                "type": 1,
+                                "instruction": "Turn right onto Frater Avenue",
+                                "name": "Frater Avenue",
+                                "way_points": [
+                                    5,
+                                    6
+                                ]
+                            },
+                            {
+                                "distance": 82.7,
+                                "duration": 59.6,
+                                "type": 0,
+                                "instruction": "Turn left onto Binswood Avenue",
+                                "name": "Binswood Avenue",
+                                "way_points": [
+                                    6,
+                                    8
+                                ]
+                            },
+                            {
+                                "distance": 87.1,
+                                "duration": 62.7,
+                                "type": 1,
+                                "instruction": "Turn right onto Sammon Avenue",
+                                "name": "Sammon Avenue",
+                                "way_points": [
+                                    8,
+                                    9
+                                ]
+                            },
+                            {
+                                "distance": 163.7,
+                                "duration": 117.8,
+                                "type": 0,
+                                "instruction": "Turn left onto Woodington Avenue",
+                                "name": "Woodington Avenue",
+                                "way_points": [
+                                    9,
+                                    15
+                                ]
+                            },
+                            {
+                                "distance": 238.3,
+                                "duration": 171.6,
+                                "type": 1,
+                                "instruction": "Turn right onto Springdale Boulevard",
+                                "name": "Springdale Boulevard",
+                                "way_points": [
+                                    15,
+                                    19
+                                ]
+                            },
+                            {
+                                "distance": 6.3,
+                                "duration": 4.5,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    19,
+                                    20
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at your destination, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    20,
+                                    20
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "way_points": [
+                    0,
+                    20
+                ],
+                "summary": {
+                    "distance": 828.7,
+                    "duration": 596.7
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.320558,
+                        43.691392
+                    ],
+                    [
+                        -79.320305,
+                        43.690793
+                    ],
+                    [
+                        -79.320357,
+                        43.690785
+                    ],
+                    [
+                        -79.320426,
+                        43.690773
+                    ],
+                    [
+                        -79.322329,
+                        43.690362
+                    ],
+                    [
+                        -79.322304,
+                        43.690304
+                    ],
+                    [
+                        -79.322361,
+                        43.690292
+                    ],
+                    [
+                        -79.322087,
+                        43.689635
+                    ],
+                    [
+                        -79.322064,
+                        43.68958
+                    ],
+                    [
+                        -79.323099,
+                        43.689349
+                    ],
+                    [
+                        -79.323086,
+                        43.689316
+                    ],
+                    [
+                        -79.322846,
+                        43.688708
+                    ],
+                    [
+                        -79.322823,
+                        43.688648
+                    ],
+                    [
+                        -79.322799,
+                        43.688587
+                    ],
+                    [
+                        -79.322555,
+                        43.687985
+                    ],
+                    [
+                        -79.322536,
+                        43.687935
+                    ],
+                    [
+                        -79.322623,
+                        43.687915
+                    ],
+                    [
+                        -79.325139,
+                        43.68737
+                    ],
+                    [
+                        -79.325258,
+                        43.687346
+                    ],
+                    [
+                        -79.325376,
+                        43.687321
+                    ],
+                    [
+                        -79.325354,
+                        43.687267
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1731079035477,
+        "query": {
+            "coordinates": [
+                [
+                    -79.3205581,
+                    43.6913915
+                ],
+                [
+                    -79.3253545,
+                    43.6872667
+                ]
+            ],
+            "profile": "foot-walking",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.2.0",
+            "build_date": "2024-10-09T09:23:42Z",
+            "graph_date": "2024-09-18T16:11:38Z"
+        }
+    }
+}

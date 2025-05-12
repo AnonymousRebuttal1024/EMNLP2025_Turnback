@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["northeast"], "start_streets": [], "end_streets": [], "distances": [8.9], "durations": [6.4]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": ["Leafy"], "end_streets": ["Leafy"], "distances": [10.3], "durations": [7.5]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [103.4], "durations": [74.5]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [8.2], "durations": [5.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Bartley"], "end_streets": ["Bartley"], "distances": [10.1], "durations": [7.3]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Cranborne"], "end_streets": ["Cranborne"], "distances": [166.9], "durations": [120.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [842.4], "durations": [606.5]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [6.5], "durations": [4.7]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": [], "distances": [0.0], "durations": [0.0]}

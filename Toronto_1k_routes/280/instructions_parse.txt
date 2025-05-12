@@ -1,0 +1,12 @@
+{"actions": ["Head", "continue"], "directions": ["south"], "start_streets": [], "end_streets": [], "distances": [81.7], "durations": [58.8]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [60.9], "durations": [43.8]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [19.5], "durations": [14.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [329.1], "durations": [237.0]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Haverson"], "end_streets": ["Haverson"], "distances": [7.3], "durations": [5.2]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [5.2], "durations": [3.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [209.2], "durations": [150.6]},
+{"actions": ["Turn", "continue"], "directions": ["sharp right"], "start_streets": [], "end_streets": [], "distances": [5.3], "durations": [3.8]},
+{"actions": ["Turn", "continue"], "directions": ["sharp left"], "start_streets": ["Donald"], "end_streets": ["Donald"], "distances": [10.1], "durations": [7.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Silverthorn"], "end_streets": ["Silverthorn"], "distances": [16.1], "durations": [11.6]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Donald"], "end_streets": ["Donald"], "distances": [144.6], "durations": [104.1]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Donald"], "distances": [0.0], "durations": [0.0]}

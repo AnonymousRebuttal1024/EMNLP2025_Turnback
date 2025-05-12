@@ -1,0 +1,9 @@
+{"actions": ["Head", "continue"], "directions": ["north"], "start_streets": [], "end_streets": [], "distances": [4.7], "durations": [3.4]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": ["Allen"], "end_streets": ["Allen"], "distances": [40.4], "durations": [29.1]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [104.6], "durations": [75.3]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [436.2], "durations": [314.1]},
+{"actions": ["continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [77.6], "durations": [55.9]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": [], "end_streets": [], "distances": [9.4], "durations": [6.7]},
+{"actions": ["Turn", "continue"], "directions": ["right"], "start_streets": [], "end_streets": [], "distances": [30.2], "durations": [21.7]},
+{"actions": ["Turn", "continue"], "directions": ["left"], "start_streets": ["Alexander"], "end_streets": ["Alexander"], "distances": [150.6], "durations": [108.4]},
+{"actions": ["Arrive", "continue"], "directions": [], "start_streets": [], "end_streets": ["Alexander"], "distances": [0.0], "durations": [0.0]}

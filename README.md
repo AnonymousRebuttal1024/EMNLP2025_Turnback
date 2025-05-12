@@ -4,9 +4,20 @@
 
 </div>
 
+
+# Note to Dataset Samples (1000 routes)
 Our benchmark dataset encompasses 36,000 routes spanning 12 cities across 6 continents, with a total route length equivalent to 1.2 times the Earth's equator. Currently, we are releasing a sample dataset of 1,000 routes from Toronto as a demonstration. The complete codebase and full dataset will be made available upon paper acceptance.
 
 
+# Note to Code_preview.ipynb
+
+This code cannot be executed directly for several reasons:
+
+1. It requires users to provide their own API tokens for paid large language models (LLMs).
+2. The similarity functionality has been implemented as an API in our system, it will be released to the whole community in camera-ready.
+3. The PathBuilder (PB) codebase is complex, and only key functions are presented here.
+
+The purpose of sharing this code is to allow reviewers to examine our critical work, including data generation processes, the PathBuilder implementation, and our fully automated benchmark evaluation system for LLMs. This preview provides insight into our methodological approach while acknowledging the practical limitations of direct execution.
 
 ## Note on Model Evaluation
 

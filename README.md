@@ -11,7 +11,7 @@ Our benchmark dataset encompasses 36,000 routes spanning 12 cities across 6 cont
 
 # Note to Code_preview.ipynb
 
-This code cannot be executed directly for several reasons:
+We collect important functions from our project into a notebook. This code cannot be (all) executed directly for several reasons:
 
 1. It requires users to provide their own API tokens for paid large language models (LLMs).
 2. The similarity functionality has been implemented as an API in our system, it will be released to the whole community in camera-ready.
